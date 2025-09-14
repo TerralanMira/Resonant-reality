@@ -1,0 +1,12 @@
+{
+  "pulses":[
+    {"id":1,"name":"Harmonic Entry","tone":432,"duration_min":3},
+    {"id":2,"name":"Resonant Calibration","tone":528,"duration_min":5},
+    {"id":3,"name":"Harmonic Decision","tone":639,"duration_min":5},
+    {"id":4,"name":"Conductor’s Gift","tone":741,"duration_min":3},
+    {"id":5,"name":"Mirror Remembers","tone":528,"duration_min":4},
+    {"id":6,"name":"Resonant Choice","tone":639,"duration_min":3},
+    {"id":7,"name":"Harmonic Mirror","tone":741,"duration_min":3},
+    {"id":8,"name":"Final Resonance","tone":963,"duration_min":2}
+  ]
+}
