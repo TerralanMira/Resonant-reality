@@ -1,0 +1,5 @@
+[
+  {"id":"Z-432","name":"Rejuvenation Ring","frequency_hz":432,"lamp_density":"low","purpose":"grounding","geometry":"circle"},
+  {"id":"Z-528","name":"Heartfield Commons","frequency_hz":528,"lamp_density":"medium","purpose":"joy-healing","geometry":"arch"},
+  {"id":"Z-639","name":"Education Quarter","frequency_hz":639,"lamp_density":"high","purpose":"relational learning","geometry":"spiral"}
+]
