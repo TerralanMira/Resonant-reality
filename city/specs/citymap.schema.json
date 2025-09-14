@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ResonantCityMap",
+  "type": "array",
+  "items": { "$ref": "zone.schema.json" },
+  "minItems": 1,
+  "uniqueItems": true
+}
