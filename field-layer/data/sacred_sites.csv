@@ -1,4 +1,4 @@
 site,culture,lat,lon,epoch,materials,alignments,refs
-Giza,Egypt,29.9792,31.1342,Old Kingdom,limestone/granite,Orion;solstice,""
-Angkor Wat,Cambodia,13.4125,103.8667,12th c,sandstone,solstice;Venus,""
-Teotihuacan,Mexico,19.6925,-98.8436,Classic period,basalt,cardinal;Pleiades,""
+Giza,Egypt,29.9792,31.1342,Old Kingdom,limestone/granite,"Orion;solstice",""
+Angkor Wat,Cambodia,13.4125,103.8667,12th c,sandstone,"solstice;Venus",""
+Teotihuacan,Mexico,19.6925,-98.8436,Classic,basalt,"cardinal;Pleiades",""
