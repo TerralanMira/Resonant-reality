@@ -1,18 +1,16 @@
-# TOE [theory]
-Axioms, coupling, and predictions linking City↔Earth↔Cosmos.
-
+# TOE (Theory of Resonant Everything)
 ## Axioms
-1) Resonance is the constant; coherence is the choice.
-2) Whole in part; part in whole (fractal recursion).
+1. Resonance is constant; coherence is chosen.
+2. Whole in part; part in whole (fractal recursion).
 
 ## Couplings
 - City nodes ↔ Kuramoto network on Earth grid.
-- Sites as LC resonators (Q, f0 set by geometry/materials).
-- Human HRV/EEG as transducers (ELF band coupling).
+- Sites as LC resonators (f0, Q from geometry/materials).
+- Human HRV/EEG as transducers (ELF coupling).
 
 ## Predictions
-- Coherence spikes at solstice/equinox multi-node rituals.
-- Site pairs at φ/π/√2/√3 distances show lower locking thresholds.
+- Multi-node solstice/equinox sync reduces locking threshold.
+- φ/π/√2/√3 inter-site pairs show stronger phase coherence.
 
 ## Falsification
-- No lock at predicted times/ratios with controlled noise → revise model.
+- No lock at predicted times/ratios under controlled noise ⇒ revise model.
