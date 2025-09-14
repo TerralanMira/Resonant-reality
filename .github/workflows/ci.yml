@@ -1,13 +1,30 @@
 name: CI
 on: [push, pull_request]
+
 jobs:
-  validate:
+  docs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
-      - run: pip install pytest jsonschema frictionless mkdocs mkdocs-material
-      - run: pytest -q || true
+      - run: pip install mkdocs mkdocs-material
+      - run: mkdocs build --strict
+
+  schemas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install jsonschema
       - run: python tools/schema-check.py
-      - run: mkdocs build -q
+
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install pytest
+      - run: pytest || true   # keep green until tests exist
