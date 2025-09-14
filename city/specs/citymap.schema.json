@@ -2,7 +2,23 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "ResonantCityMap",
   "type": "array",
-  "items": { "$ref": "zone.schema.json" },
   "minItems": 1,
-  "uniqueItems": true
+  "uniqueItems": true,
+  "items": { "$ref": "#/$defs/Zone" },
+  "$defs": {
+    "Zone": {
+      "type": "object",
+      "required": ["id","name","frequency_hz","lamp_density","purpose","geometry"],
+      "properties": {
+        "id": { "type":"string", "pattern":"^Z-[0-9A-Z]{3}$" },
+        "name": { "type":"string" },
+        "frequency_hz": { "type":"number", "enum":[432,528,639,741,963] },
+        "lamp_density": { "type":"string", "enum":["low","medium","high"] },
+        "purpose": { "type":"string" },
+        "geometry": { "type":"string", "enum":["circle","arch","spiral","pyramid","fractal"] },
+        "notes": { "type":"string" }
+      },
+      "additionalProperties": false
+    }
+  }
 }
