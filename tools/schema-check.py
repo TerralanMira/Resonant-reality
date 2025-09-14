@@ -38,3 +38,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Validate citymap schema
+with open("city/citymap.schema.json") as f:
+    city_schema = json.load(f)
+
+with open("city/citymap.json") as f:
+    city_data = json.load(f)
+
+jsonschema.validate(city_data, city_schema)
+print("Citymap schema is valid!")
+
+# Validate pulses seed
+with open("conductor/pulses/seed.json") as f:
+    seed_data = json.load(f)
+
+# (Optional) Add a schema if you want strict validation, or just ensure it’s valid JSON
+print("Seed JSON is valid!")
