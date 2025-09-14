@@ -28,3 +28,13 @@ jobs:
         with: { python-version: '3.11' }
       - run: pip install pytest
       - run: pytest || true   # keep green until tests exist
+        deploy:
+    needs: docs
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install mkdocs mkdocs-material
+      - run: mkdocs gh-deploy --force
