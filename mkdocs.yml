@@ -1,11 +1,13 @@
 site_name: Resonant Whole
-theme: { name: material }
+theme:
+  name: material
+
 nav:
   - Overview:
-      - Roadmap: docs/overview/00-roadmap.md
-      - Atlas Spiral: docs/overview/01-spiral.md
-  - Glossary: docs/glossary.md
-  - TOE: docs/toe/index.md
-  - City: docs/city/index.md
-  - Earth: docs/earth/index.md
-  - Cosmos: docs/cosmos/index.md
+      - Roadmap: overview/00-roadmap.md
+      - Atlas Spiral: overview/01-spiral.md
+  - Glossary: glossary.md
+  - TOE: toe/index.md
+  - City: city/index.md
+  - Earth: earth/index.md
+  - Cosmos: cosmos/index.md
