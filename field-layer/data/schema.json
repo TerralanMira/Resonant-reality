@@ -1,0 +1,12 @@
+{
+  "fields": [
+    {"name":"site","type":"string"},
+    {"name":"culture","type":"string"},
+    {"name":"lat","type":"number"},
+    {"name":"lon","type":"number"},
+    {"name":"epoch","type":"string"},
+    {"name":"materials","type":"string"},
+    {"name":"alignments","type":"string"},
+    {"name":"refs","type":"string"}
+  ]
+}
