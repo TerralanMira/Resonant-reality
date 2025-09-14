@@ -2,36 +2,39 @@ import os, json, sys
 from jsonschema import Draft202012Validator, exceptions as JSE
 
 ROOT = os.path.dirname(os.path.abspath(__file__)) + "/.."
+SCHEMA = os.path.join(ROOT, "city/specs/citymap.schema.json")
+DATA   = os.path.join(ROOT, "city/configs/citymap.json")
 
-def validate_pair(schema_rel, data_rel):
-    sp = os.path.join(ROOT, schema_rel)
-    dp = os.path.join(ROOT, data_rel)
-    if not (os.path.exists(sp) and os.path.exists(dp)):
-        print(f"[schema-check] Skipping (missing): {schema_rel} / {data_rel}")
-        return True
+def load(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def main():
+    if not os.path.exists(SCHEMA):
+        print("[schema-check] Missing schema:", SCHEMA); sys.exit(0)
+    if not os.path.exists(DATA):
+        print("[schema-check] Missing data:", DATA); sys.exit(0)
+
+    schema = load(SCHEMA)
+    data   = load(DATA)
+
     try:
-        with open(sp) as f: schema = json.load(f)
-        with open(dp) as f: data = json.load(f)
         Draft202012Validator(schema).validate(data)
-        print(f"[schema-check] OK: {data_rel}")
-        return True
+        print("[schema-check] OK:", os.path.relpath(DATA, ROOT))
+        sys.exit(0)
     except JSE.ValidationError as e:
-        print(f"[schema-check] FAIL: {data_rel}")
-        # Pinpoint path & message
-        loc = " → ".join([str(p) for p in list(e.path)])
-        print(f"  at: {loc or '(root)'}")
-        print(f"  msg: {e.message}")
-        # show a tiny snippet of the instance that failed
+        path = " → ".join(map(str, list(e.path))) or "(root)"
+        print("[schema-check] FAIL:", os.path.relpath(DATA, ROOT))
+        print("  at:", path)
+        print("  msg:", e.message)
+        # Show the failing instance (trim long)
+        snippet = e.instance
         try:
-            import json as _j
-            print("  instance:", _j.dumps(e.instance, ensure_ascii=False)[:300])
+            s = json.dumps(snippet, ensure_ascii=False)
+            print("  instance:", (s[:300] + "…") if len(s) > 300 else s)
         except Exception:
             pass
-        return False
+        sys.exit(1)
 
-checks = [
-    ("city/specs/citymap.schema.json", "city/configs/citymap.json"),
-]
-
-ok = all(validate_pair(*c) for c in checks)
-sys.exit(0 if ok else 1)
+if __name__ == "__main__":
+    main()
