@@ -1,50 +1,48 @@
-site_name: Resonant Reality — The Conscious Choice
-repo_url: https://github.com/TerralanMira/Resonant-reality
-docs_dir: docs
-
-nav:
-  - Overview:
-      - Roadmap: overview/00-roadmap.md
-      - Atlas Spiral: overview/01-spiral.md
-
-  - City:
-      - Index: city/index.md
-      - Garden: city/garden.md
-      - Civic Plaza: city/plaza.md
-      - Hearths & Healing Loops: city/hearths.md
-      - The Wild: city/wild.md
-
-  - Conductor:
-      - Overview: conductor/index.md
-
-  - Earth:
-      - Index: earth/index.md
-      - Planetary Layer: earth/layer.md
-      - Data: earth/data.md
-
-  - Cosmos:
-      - Index: cosmos/index.md
-      - Stellar Layer: cosmos/layer.md
-
-  - TOE:
-      - Overview: toe/index.md
-      - Simulations:
-          - Hub: sims/index.md
-          - Quickstart: sims/quickstart.md
-          - Spiral Resonance: sims/spiral_resonance.md
-          - Kuramoto Sync: sims/kuramoto.md
-          - LC Grid Modes: sims/lc_grid.md
-          - Schumann Coupling: sims/schumann.md
+site_name: Resonant Reality
+site_description: "From myth to math to visible coherence — a Theory of Everything in fractal form."
+site_url: https://terralanmira.github.io/Resonant-reality/
 
 theme:
-  name: readthedocs
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
 
-plugins:
-  - search
+nav:
+  - Home: index.md
+  - Simulations:
+      - Overview: sims/index.md
+      - Quickstart: sims/quickstart.md
+      - Spiral Resonance: sims/spiral_resonance.md
+      - Kuramoto Sync: sims/kuramoto.md
+      - LC Grid Modes: sims/lc_grid.md
+      - Schumann Coupling: sims/schumann.md
+  - Earth Grid:
+      - Data: earth/data.md
+      - Resonance Map: earth/map.md
+  - Cosmos:
+      - Layers: cosmos/layers.md
+      - Coupling: cosmos/coupling.md
+  - City:
+      - Garden: city/garden.md
+      - Wild: city/wild.md
+      - Civic Plaza: city/civic_plaza.md
+      - Conductor: city/conductor.md
+  - Frameworks:
+      - Atlas Model: frameworks/atlas_model.md
+      - Resonant Frameworks: frameworks/resonant_frameworks.md
+  - Field:
+      - Awareness: field/awareness.md
+      - Coherence: field/coherence.md
+      - Applications: field/applications.md
 
 markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
   - toc:
       permalink: true
-  - admonition
-  - tables
-  - fenced_code
