@@ -1,41 +1,47 @@
-site_name: Resonant Whole
-theme:
-  name: material
+site_name: Resonant Reality — The Conscious Choice
+repo_url: https://github.com/TerralanMira/Resonant-reality
+docs_dir: docs
 
 nav:
   - Overview:
       - Roadmap: overview/00-roadmap.md
       - Atlas Spiral: overview/01-spiral.md
-  - Glossary: glossary.md
-  - TOE: toe/index.md
-    - TOE:
+
+  - City:
+      - Index: city/index.md
+      - Garden: city/garden.md
+      - Civic Plaza: city/plaza.md
+      - Hearths & Healing Loops: city/hearths.md
+      - The Wild: city/wild.md
+
+  - Conductor:
+      - Overview: conductor/index.md
+
+  - Earth:
+      - Index: earth/index.md
+      - Planetary Layer: earth/layer.md
+
+  - Cosmos:
+      - Index: cosmos/index.md
+      - Stellar Layer: cosmos/layer.md
+
+  - TOE:
       - Overview: toe/index.md
-    - Simulations:
-        - Hub: sims/index.md
-        - Quickstart: sims/quickstart.md
-        - Spiral Resonance: sims/spiral_resonance.md
-        - Kuramoto Sync: sims/kuramoto.md
-        - LC Grid Modes: sims/lc_grid.md
-        - Schumann Coupling: sims/schumann.md
-      - Models:
-           - FPC–CFM Loop: toe/models/fpc_cfm.md 
-          - Simulations: toe/models/simulations.md
-    - Spiral Resonance: sims/spiral_resonance.md
-  -- City:
-    - Index: city/index.md
-    - Garden: city/garden.md
-    - Civic Plaza: city/plaza.md
-    - Hearths & Healing Loops: city/hearths.md
-    - The Wild: city/wild.md
-    - Conductor: conductor/index.md
+      - Simulations:
+          - Hub: sims/index.md
+          - Quickstart: sims/quickstart.md
+          - Spiral Resonance: sims/spiral_resonance.md
+          - Kuramoto Sync: sims/kuramoto.md
 
-- Earth:
-    - Index: earth/index.md
-    - Planetary Layer: earth/layer.md
-    - Data: earth/data.md
+theme:
+  name: readthedocs
 
-- Cosmos:
-    - Index: cosmos/index.md
-    - Stellar Layer: cosmos/layer.md
-    - Ritual Calendar: cosmos/calendar.md
-  - Stellar Layer: cosmos/layer.md
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - tables
+  - fenced_code
