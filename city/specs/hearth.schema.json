@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HearthHealingLoop",
+  "type": "object",
+  "required": ["title", "steps"],
+  "properties": {
+    "title": { "type": "string" },
+    "steps": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["name","tone_hz","duration_min","prompt"],
+        "properties": {
+          "name": { "type": "string" },
+          "tone_hz": { "type": "number", "enum": [432, 528, 639, 741, 963] },
+          "duration_min": { "type": "number", "minimum": 1 },
+          "prompt": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
