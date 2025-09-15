@@ -20,6 +20,7 @@ nav:
   - Earth:
       - Index: earth/index.md
       - Planetary Layer: earth/layer.md
+      - Data: earth/data.md
 
   - Cosmos:
       - Index: cosmos/index.md
@@ -32,6 +33,8 @@ nav:
           - Quickstart: sims/quickstart.md
           - Spiral Resonance: sims/spiral_resonance.md
           - Kuramoto Sync: sims/kuramoto.md
+          - LC Grid Modes: sims/lc_grid.md
+          - Schumann Coupling: sims/schumann.md
 
 theme:
   name: readthedocs
