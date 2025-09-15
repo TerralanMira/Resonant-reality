@@ -21,18 +21,21 @@ nav:
            - FPC–CFM Loop: toe/models/fpc_cfm.md 
           - Simulations: toe/models/simulations.md
     - Spiral Resonance: sims/spiral_resonance.md
-  - City: city/index.md
-    - City: 
-      - Overview: city/index.md
-      - Garden: city/garden.md
-      - Civic Plaza: city/plaza.md
-      - Conductor: city/conductor.md
-      - Hearths & Healing Loops: city/hearths.md
-      - The Wild: city/wild.md
-      - Conductor:
-          - Overview: conductor/index.md
-  - Earth: earth/index.md
-    - Earth:
-      - Planetary Layer: earth/layer.md
-  - Cosmos: cosmos/index.md
+  -- City:
+    - Index: city/index.md
+    - Garden: city/garden.md
+    - Civic Plaza: city/plaza.md
+    - Hearths & Healing Loops: city/hearths.md
+    - The Wild: city/wild.md
+    - Conductor: conductor/index.md
+
+- Earth:
+    - Index: earth/index.md
+    - Planetary Layer: earth/layer.md
+    - Data: earth/data.md
+
+- Cosmos:
+    - Index: cosmos/index.md
+    - Stellar Layer: cosmos/layer.md
+    - Ritual Calendar: cosmos/calendar.md
   - Stellar Layer: cosmos/layer.md
