@@ -8,6 +8,10 @@ nav:
       - Atlas Spiral: overview/01-spiral.md
   - Glossary: glossary.md
   - TOE: toe/index.md
+    - TOE:
+      - Overview: toe/index.md
+      - Models:
+          - Simulations: toe/models/simulations.md
   - City: city/index.md
     - City: 
       - Overview: city/index.md
