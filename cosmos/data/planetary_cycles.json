@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Moon",
+    "cycle_days": 28,
+    "resonance_hz": [432],
+    "role": "Emotional tides"
+  },
+  {
+    "name": "Sun",
+    "cycle_days": 365,
+    "resonance_hz": [528, 963],
+    "role": "Light/dark balance"
+  },
+  {
+    "name": "Jupiter",
+    "cycle_years": 12,
+    "resonance_hz": [639],
+    "role": "Expansion, growth"
+  },
+  {
+    "name": "Saturn",
+    "cycle_years": 29,
+    "resonance_hz": [741],
+    "role": "Structure, discipline"
+  },
+  {
+    "name": "Galactic Center",
+    "cycle_years": 26000,
+    "resonance_hz": [963],
+    "role": "Cosmic alignment"
+  }
+]
