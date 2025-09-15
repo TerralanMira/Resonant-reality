@@ -1,16 +1,29 @@
-# LC Grid Modes
+# LC Grid Modes — geometry shapes resonance
 
-This simulation shows how LC circuits arranged in a lattice resonate collectively.  
-Geometry determines spectra: square, hexagonal, and triangular grids support distinct mode structures.
+A minimal LC lattice shows how **layout and coupling** determine the resonance spectrum.  
+Change the geometry → change the modes. This is the design ↔ physics bridge.
+
+---
+
+## What it shows
+- A 1D/2D LC grid with nearest-neighbor coupling.
+- Mode frequencies shift as coupling **α** changes.
+- Design implication: domes/circles/spirals bias mode families.
+
+---
 
 ## How to run
 ```bash
 python sims/lc_grid.py
-What to look for
-	•	Frequency peaks shift with geometry.
-	•	Higher coupling sharpens collective modes.
-	•	Falsifier: no dependence on grid topology.
-
 Output
 
-Figures are saved to:sims/figures/lc_grid_spectra.png
+Saved to:sims/figures/lc_modes.png
+Read the plot
+	•	X-axis: mode index. Y-axis: frequency (normalized).
+	•	Increasing α → modes spread/shift; edge conditions matter.
+
+⸻
+
+Pass / Falsifier
+	•	✅ Pass: changing geometry/coupling moves the mode frequencies.
+	•	❌ Falsifier: spectrum stays unchanged despite geometry/coupling changes.
