@@ -13,6 +13,7 @@ nav:
       - Models:
            - FPC–CFM Loop: toe/models/fpc_cfm.md 
           - Simulations: toe/models/simulations.md
+    - Spiral Resonance: sims/spiral_resonance.md
   - City: city/index.md
     - City: 
       - Overview: city/index.md
