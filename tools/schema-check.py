@@ -3,13 +3,12 @@
 Schema Check — Resonant Reality
 Validates JSON/JSON-like data files against JSON Schemas.
 
-- Uses Draft 2020-12
-- Prints a clean PASS/FAIL report per pair
-- Skips gracefully if a file is missing (does not fail CI)
-- Exits 0 only if all checked pairs either PASS or SKIP
-- Exits 1 if any pair FAILS validation
+- Draft 2020-12
+- Clear PASS/FAIL/SKIP per pair
+- SKIP when a path doesn't exist (doesn't fail CI)
+- Exit 1 only if any pair FAILS
 
-Extend the CHECKS list below as new schemas/data are added.
+Extend CHECKS as new schema/data pairs are added.
 """
 
 from __future__ import annotations
@@ -26,33 +25,31 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]  # repo root
 
 # --------------------------------------------------------------------
-# Declare the schema→data pairs you want to validate.
-# If a path doesn't exist, it's reported as SKIP (not a failure).
+# Declare schema→data pairs here. Edit paths to match your repo.
 # --------------------------------------------------------------------
 CHECKS = [
-    # EARTH (array-of-sites schema you just adopted)
+    # EARTH — array of sites
     {
         "name": "earth sites",
         "schema": ROOT / "earth" / "specs" / "site.schema.json",
         "data":   ROOT / "earth" / "data"  / "sites.json",
     },
 
-    # CITY (add or adjust these as your repo evolves)
-    # Example: citymap config against its schema (rename if your filenames differ)
+    # CITY — city map config
     {
         "name": "city map",
         "schema": ROOT / "city" / "specs" / "citymap.schema.json",
         "data":   ROOT / "city" / "configs" / "citymap.json",
     },
 
-    # Example: a garden lesson file against a lesson schema
+    # CITY — example lesson (note: lives under city/configs/garden_lessons/)
     {
         "name": "garden lesson (candle intro)",
         "schema": ROOT / "city" / "specs" / "garden_lesson.schema.json",
-        "data":   ROOT / "city" / "garden_lessons" / "candle_intro.json",
+        "data":   ROOT / "city" / "configs" / "garden_lessons" / "candle_intro.json",
     },
 
-    # Add more pairs here as you introduce schemas:
+    # Add more pairs as you introduce schemas, e.g.:
     # {
     #     "name": "conductor preset",
     #     "schema": ROOT / "conductor" / "specs" / "preset.schema.json",
@@ -60,15 +57,14 @@ CHECKS = [
     # },
 ]
 
-# --------------------------------------------------------------------
 def load_json(path: Path):
     with path.open("r", encoding="utf-8") as f:
         return json.load(f)
 
 def validate_pair(name: str, schema_path: Path, data_path: Path) -> str:
     """
-    Returns one of: 'PASS', 'FAIL', 'SKIP'
-    Prints a concise report line and any errors.
+    Returns: 'PASS' | 'FAIL' | 'SKIP'
+    Prints a concise report and any errors.
     """
     missing = []
     if not schema_path.exists():
@@ -98,10 +94,7 @@ def validate_pair(name: str, schema_path: Path, data_path: Path) -> str:
     errors = sorted(validator.iter_errors(data), key=lambda e: (list(e.path), e.message))
 
     if not errors:
-        # Helpful tiny summary for arrays/objects
-        summary = ""
-        if isinstance(data, list):
-            summary = f" (items: {len(data)})"
+        summary = f" (items: {len(data)})" if isinstance(data, list) else ""
         print(f"[PASS] {name}{summary}")
         return "PASS"
 
@@ -114,14 +107,10 @@ def validate_pair(name: str, schema_path: Path, data_path: Path) -> str:
 def main() -> int:
     print("== Schema Check ==")
     results = [validate_pair(c["name"], c["schema"], c["data"]) for c in CHECKS]
-
     failed = results.count("FAIL")
     skipped = results.count("SKIP")
     passed = results.count("PASS")
-
     print(f"\nSummary: PASS={passed}  SKIP={skipped}  FAIL={failed}")
-
-    # Fail CI only if any FAIL occurred.
     return 1 if failed > 0 else 0
 
 if __name__ == "__main__":
