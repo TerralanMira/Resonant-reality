@@ -1,43 +1,35 @@
-# Earth Data
+# Earth Resonance Data
 
-The Earth layer grounds resonance in place.  
-Here we collect **sites, frequencies, and measurements** in a simple, expandable format.
-
----
-
-## Schema
-- `site`: name of the place
-- `coords`: [lat, lon]
-- `freqs`: known or hypothesized resonance bands (Hz)
-- `notes`: contextual information (archaeology, myth, physics, or observed hum)
+This is a **seed list** of resonance-bearing sites.  
+Format matches `data/sites.json` (schema-validated).
 
 ---
 
-## Example Data
+## Sites
 
-```yaml
-sites:
-  - site: Giza Plateau
-    coords: [29.9792, 31.1342]
-    freqs: [7.83, 16, 32]
-    notes: "Schumann fundamental plus harmonics; alignment with Orion."
-  - site: Stonehenge
-    coords: [51.1789, -1.8262]
-    freqs: [7.83, 14.3]
-    notes: "Acoustic resonance chamber effect; seasonal rituals."
-  - site: Uluru
-    coords: [-25.3444, 131.0369]
-    freqs: [9.0]
-    notes: "Dreamtime myth; geomagnetic anomaly."
-  - site: Machu Picchu
-    coords: [-13.1631, -72.5450]
-    freqs: [8.5, 17]
-    notes: "High-altitude coupling, Incan cosmology."
-  - site: Teotihuacan
-    coords: [19.6925, -98.8430]
-    freqs: [7.83, 20]
-    notes: "Pyramid of the Sun; echo chambers tuned to resonance."
-Next Steps
-	•	Expand the sites list with new data points.
-	•	Visualize maps from these coordinates → link to sims/earth_map.py.
-	•	Explore connections between mythic narratives and physical resonance.
+- **Giza Plateau, Egypt**  
+  - Freq: ~16 Hz, harmonic with Schumann band  
+  - Note: Pyramids align to Orion; limestone amplifies EM resonance.  
+
+- **Stonehenge, UK**  
+  - Freq: ~7–8 Hz (fundamental Schumann range)  
+  - Note: Bluestones ring when struck; site geometry encodes solar cycles.  
+
+- **Chichen Itza, Mexico**  
+  - Freq: ~12 Hz echo band  
+  - Note: “Quetzalcoatl chirp” acoustics show intentional frequency design.  
+
+- **Machu Picchu, Peru**  
+  - Freq: ~14 Hz, possible alpha–beta brainwave coupling  
+  - Note: Granite + altitude magnify resonance.  
+
+- **Uluru, Australia**  
+  - Freq: ~7.83 Hz core  
+  - Note: Aboriginal Songlines echo Earth’s hum here.  
+
+---
+
+## How to use
+- Compare these with simulation outputs (Kuramoto sync, LC grid, Schumann coupling).  
+- Add new sites as we collect data.  
+- Look for harmonic clustering (7–8 Hz, 14–16 Hz, etc.).
