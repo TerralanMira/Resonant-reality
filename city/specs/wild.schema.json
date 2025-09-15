@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WildRitual",
+  "type": "object",
+  "required": ["title", "steps"],
+  "properties": {
+    "title": { "type": "string" },
+    "steps": {
+      "type": "array",
+      "minItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["name","tone_hz","duration_min","prompt"],
+        "properties": {
+          "name": { "type": "string" },
+          "tone_hz": { "type": "number" },
+          "duration_min": { "type": "number", "minimum": 1 },
+          "prompt": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
