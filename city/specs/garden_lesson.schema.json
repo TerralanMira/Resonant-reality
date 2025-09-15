@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GardenLesson",
+  "type": "object",
+  "required": ["title", "steps"],
+  "properties": {
+    "title": { "type": "string" },
+    "age_range": { "type": "string", "example": "6-9" },
+    "tone_cycle_hz": { "type": "array", "items": { "type": "number" } },
+    "steps": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["name","tone_hz","duration_min","prompt"],
+        "properties": {
+          "name": { "type": "string" },
+          "tone_hz": { "type": "number", "enum": [432, 528, 639, 741, 963] },
+          "duration_min": { "type": "number", "minimum": 1 },
+          "prompt": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
