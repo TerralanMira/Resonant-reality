@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Great Pyramid of Giza",
+    "coordinates": [29.9792, 31.1342],
+    "resonance_hz": [432, 963],
+    "role": "Amplifier"
+  },
+  {
+    "name": "Stonehenge",
+    "coordinates": [51.1789, -1.8262],
+    "resonance_hz": [528, 639],
+    "role": "Circle focus"
+  },
+  {
+    "name": "Machu Picchu",
+    "coordinates": [-13.1631, -72.5450],
+    "resonance_hz": [432, 741],
+    "role": "Mountain amplifier"
+  },
+  {
+    "name": "Uluru",
+    "coordinates": [-25.3450, 131.0361],
+    "resonance_hz": [7.83, 528],
+    "role": "Desert node"
+  }
+]
