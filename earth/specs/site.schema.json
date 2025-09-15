@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EarthResonanceSite",
+  "type": "object",
+  "required": ["name","coordinates","resonance_hz","role"],
+  "properties": {
+    "name": { "type": "string" },
+    "coordinates": {
+      "type": "array",
+      "items": { "type": "number" },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "resonance_hz": {
+      "type": "array",
+      "items": { "type": "number" }
+    },
+    "role": { "type": "string" }
+  },
+  "additionalProperties": false
+}
