@@ -1,21 +1,57 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "EarthResonanceSite",
-  "type": "object",
-  "required": ["name","coordinates","resonance_hz","role"],
-  "properties": {
-    "name": { "type": "string" },
-    "coordinates": {
-      "type": "array",
-      "items": { "type": "number" },
-      "minItems": 2,
-      "maxItems": 2
-    },
-    "resonance_hz": {
-      "type": "array",
-      "items": { "type": "number" }
-    },
-    "role": { "type": "string" }
-  },
-  "additionalProperties": false
+  "$id": "https://resonant-reality.org/schemas/earth/site.schema.json",
+  "title": "Earth Resonance Sites (Array)",
+  "description": "An array of Earth resonance sites. Each item is a site object.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["name", "lat", "lon"],
+    "properties": {
+      "site_id": {
+        "description": "Stable id for cross-referencing.",
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_-]+$"
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1
+      },
+      "lat": {
+        "description": "Latitude in degrees (-90..90).",
+        "type": "number",
+        "minimum": -90,
+        "maximum": 90
+      },
+      "lon": {
+        "description": "Longitude in degrees (-180..180).",
+        "type": "number",
+        "minimum": -180,
+        "maximum": 180
+      },
+      "elevation_m": {
+        "description": "Elevation in meters (optional).",
+        "type": "number"
+      },
+      "resonance_hz": {
+        "description": "Frequencies associated with the site (optional).",
+        "type": "array",
+        "items": { "type": "number", "minimum": 0 },
+        "minItems": 1
+      },
+      "theme": {
+        "description": "Optional thematic tag (e.g., 'Law', 'Love', 'Word', 'Wisdom', 'Renewal', 'Light', 'Music', 'Knowledge').",
+        "type": "string"
+      },
+      "notes": {
+        "type": "string"
+      },
+      "source": {
+        "description": "URL or citation for the entry.",
+        "type": "string",
+        "format": "uri"
+      }
+    }
+  }
 }
