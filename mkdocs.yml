@@ -9,5 +9,8 @@ nav:
   - Glossary: glossary.md
   - TOE: toe/index.md
   - City: city/index.md
+    - City: 
+      - Overview: city/index.md
+      - Garden: city/garden.md
   - Earth: earth/index.md
   - Cosmos: cosmos/index.md
