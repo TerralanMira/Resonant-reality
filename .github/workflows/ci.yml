@@ -1,40 +1,113 @@
 name: CI
-on: [push, pull_request]
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "mkdocs.yml"
+      - "docs/**"
+      - "earth/**"
+      - "sims/**"
+      - "tests/**"
+      - "tools/**"
+      - "requirements.txt"
+      - ".github/workflows/**"
+  pull_request:
+    branches: [ main ]
+    paths:
+      - "mkdocs.yml"
+      - "docs/**"
+      - "earth/**"
+      - "sims/**"
+      - "tests/**"
+      - "tools/**"
+      - "requirements.txt"
+      - ".github/workflows/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
+
   docs:
+    name: Build Docs (MkDocs)
+    if: |
+      contains(github.event.head_commit.message, '[skip ci]') == false
     runs-on: ubuntu-latest
+    # Only run when docs or mkdocs.yml change
+    if: |
+      contains( toJson(github.event.pull_request.labels.*.name), 'docs-only') ||
+      github.event_name == 'workflow_dispatch' ||
+      contains(join(fromJson('["mkdocs.yml","docs/"]')), '')
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
-      - run: pip install mkdocs mkdocs-material
-      - run: mkdocs build --strict
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install MkDocs
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs
+
+      - name: Build
+        run: mkdocs build --strict
 
   schemas:
+    name: Validate Earth Schemas
     runs-on: ubuntu-latest
+    # Only run when earth data/specs or tools change
+    if: >
+      contains( toJson(github.event.pull_request.labels.*.name), 'schema') ||
+      github.event_name == 'workflow_dispatch' ||
+      startsWith( github.event.head_commit.message, '' )
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
-      - run: pip install jsonschema
-      - run: python tools/schema-check.py
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps for schema check
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema
+      - name: Run schema check
+        run: |
+          python tools/schema-check.py
 
   tests:
+    name: Run Simulation Tests
     runs-on: ubuntu-latest
+    # Only run when sims/ or tests/ or requirements.txt change
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      startsWith( github.event.head_commit.message, '' )
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
-      - run: pip install pytest
-      - run: pytest || true   # keep green until tests exist
-        deploy:
-    needs: docs
-    if: github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
-      - run: pip install mkdocs mkdocs-material
-      - run: mkdocs gh-deploy --force
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install simulation requirements
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install pytest
+
+      - name: Run tests
+        run: |
+          pytest -q
