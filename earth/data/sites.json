@@ -1,26 +1,24 @@
 [
   {
-    "name": "Great Pyramid of Giza",
-    "coordinates": [29.9792, 31.1342],
-    "resonance_hz": [432, 963],
-    "role": "Amplifier"
+    "site_id": "cusco_qosqo",
+    "name": "Cusco (Qosqo)",
+    "lat": -13.5320,
+    "lon": -71.9675,
+    "elevation_m": 3399,
+    "resonance_hz": [7.83, 14.3],
+    "theme": "Wisdom",
+    "notes": "Historic Andean node; festival alignments; strong conductor potential.",
+    "source": "https://example.org/cusco"
   },
   {
-    "name": "Stonehenge",
-    "coordinates": [51.1789, -1.8262],
-    "resonance_hz": [528, 639],
-    "role": "Circle focus"
-  },
-  {
-    "name": "Machu Picchu",
-    "coordinates": [-13.1631, -72.5450],
-    "resonance_hz": [432, 741],
-    "role": "Mountain amplifier"
-  },
-  {
-    "name": "Uluru",
-    "coordinates": [-25.3450, 131.0361],
-    "resonance_hz": [7.83, 528],
-    "role": "Desert node"
+    "site_id": "giza_plateau",
+    "name": "Giza Plateau",
+    "lat": 29.9792,
+    "lon": 31.1342,
+    "elevation_m": 60,
+    "resonance_hz": [8.0, 12.0],
+    "theme": "Law",
+    "notes": "Geometric resonance; phi relationships; ancient calibration site.",
+    "source": "https://example.org/giza"
   }
 ]
