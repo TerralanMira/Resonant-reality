@@ -1,0 +1,48 @@
+# Earth Simulations — resonance made visible 🌍
+
+This section turns Earth’s *geometry + frequencies* into living patterns.  
+Each sim bridges raw data, blueprint meaning, and dynamic coherence.  
+Together, they make the planet’s hum observable.
+
+---
+
+## 1. Schumann Resonance Windows
+- **What it shows:** Mode locking around 7.83 Hz and harmonics (14, 20, 26 Hz).  
+- **Why it matters:** These windows act as entrainment channels between Earth, life, and consciousness.  
+- **Run it:**  
+  ```bash
+  python sims/schumann_coupling.py
+•	Output: sims/figures/schumann.png
+
+
+2. Global Grid Coherence
+	•	What it shows: How ley-line nodes form standing wave patterns when treated as LC oscillators.
+	•	Why it matters: Aligns ancient sites with measurable field harmonics.
+	•	Run it: python sims/lc_grid.py
+	•	Output: sims/figures/lc_grid.png
+
+3. Distance-Harmonic Correlation
+	•	What it shows: Distances between sacred sites mapped against harmonic ratios.
+	•	Why it matters: Demonstrates intentional placement or emergent resonance geometry.
+	•	Run it:
+python sims/earth_distance_harmonics.py
+	•	Output: sims/figures/earth_harmonics.png
+
+4. Atlas Model Overlays
+	•	What it shows: How the Atlas framework (nested spirals, coherence loops) maps onto global resonance.
+	•	Why it matters: Connects human mythic story to physical planetary data.
+Run it:
+python sims/atlas_overlay.py
+	•	Output: sims/figures/atlas_overlay.png
+
+
+Gallery (to fill as sims run)
+	•	Schumann Resonance — (placeholder: sims/figures/schumann.png)
+	•	Global Grid Coherence — (placeholder: sims/figures/lc_grid.png)
+	•	Distance-Harmonic Correlation — (placeholder: sims/figures/earth_harmonics.png)
+	•	Atlas Model Overlays — (placeholder: sims/figures/atlas_overlay.png)
+
+⸻
+
+Figures will be saved in sims/figures/.
+When filled, this gallery becomes the heartbeat of Earth made visible.
