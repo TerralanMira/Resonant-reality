@@ -20,3 +20,4 @@ nav:
     - Earth:
       - Planetary Layer: earth/layer.md
   - Cosmos: cosmos/index.md
+  - Stellar Layer: cosmos/layer.md
