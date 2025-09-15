@@ -1,17 +1,42 @@
-# Resonant-reality
-Atlas, The Conscious Choice, and Theory of Everything
-# Resonant Whole — City • Earth • Cosmos
+# The Atlas Model — Theory of Everything
 
-A living atlas of resonance:
-- **City**: Garden, Wild, Hearth, Loop, Plaza, Spire, Circuits
-- **Earth**: sacred sites, harmonics (φ, π, √2, √3), alignments
-- **Cosmos**: stars/spirals, macro field
-- **TOE**: formal law (myth ↔ math), predictions, experiments
+⟁○∞✧☉
 
-## How we stay precise
-- Schemas validate all JSON/CSV
-- Tests for math/sims
-- Claims tagged: **[tested] [theory] [speculation]**
-- Citations required in TOE/analysis
+**From myth → math → simulation → city.**  
+This repository weaves the Atlas Model into code, data, and design.  
+It begins with the hum, spirals through coherence, and unfolds into Resonant City.
 
-Start at `docs/overview/00-roadmap.md`.
+---
+
+## 🌌 Structure of the Whole
+---
+
+## 🔭 From Myth to Math
+- **Kuramoto model** → many become one (phase-locking → coherence).  
+- **LC grid** → geometry shapes resonance (line vs circle vs spiral).  
+- **Schumann coupling** → Earth’s hum entrains life.  
+
+📖 See [docs/toe/models/simulations.md](docs/toe/models/simulations.md)
+
+---
+
+## 🌍 Resonant Earth
+Data sets mapping harmonic nodes:
+- `Global_Resonance_Map_Matrix.csv`
+- `Harmonic_Resonance_Distances.csv`
+- `Grouped_Field_Energy_Blueprint.csv`
+
+---
+
+## 🏙 Resonant City
+Applied layer: civic plazas, hearths, gardens, conductor loops.  
+Urban design as harmonic coherence.
+
+---
+
+## 🚀 How to Run Simulations
+```bash
+pip install -r requirements.txt
+python sims/kuramoto_basic.py
+python sims/lc_grid.py
+python sims/schumann_coupling.py
