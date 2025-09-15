@@ -14,6 +14,7 @@ nav:
       - Garden: city/garden.md
       - Civic Plaza: city/plaza.md
       - Conductor: city/conductor.md
-       - Hearths & Healing Loops: city/hearths.md
+      - Hearths & Healing Loops: city/hearths.md
+      - The Wild: city/wild.md
   - Earth: earth/index.md
   - Cosmos: cosmos/index.md
