@@ -10,6 +10,13 @@ nav:
   - TOE: toe/index.md
     - TOE:
       - Overview: toe/index.md
+    - Simulations:
+        - Hub: sims/index.md
+        - Quickstart: sims/quickstart.md
+        - Spiral Resonance: sims/spiral_resonance.md
+        - Kuramoto Sync: sims/kuramoto.md
+        - LC Grid Modes: sims/lc_grid.md
+        - Schumann Coupling: sims/schumann.md
       - Models:
            - FPC–CFM Loop: toe/models/fpc_cfm.md 
           - Simulations: toe/models/simulations.md
