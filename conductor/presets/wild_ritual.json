@@ -1,0 +1,10 @@
+{
+  "name": "Wild Vigil (Night under stars)",
+  "pulses": [
+    { "id": 1, "name": "Entry", "tone_hz": 7.83, "duration_min": 10, "prompt": "Sit in silence; attune to earth pulse." },
+    { "id": 2, "name": "Listening", "tone_hz": 432, "duration_min": 20, "prompt": "Walk slowly, listening to birds, wind, water." },
+    { "id": 3, "name": "Offering", "tone_hz": 528, "duration_min": 10, "prompt": "Leave a gift — song, food, or stone." },
+    { "id": 4, "name": "Witnessing", "tone_hz": 639, "duration_min": 15, "prompt": "Record signs: stars, animals, plants." },
+    { "id": 5, "name": "Seal", "tone_hz": 741, "duration_min": 5, "prompt": "Thank the Wild, walk back in silence." }
+  ]
+}
