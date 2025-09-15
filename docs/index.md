@@ -1,51 +1,61 @@
-# Theory of Everything (TOE) Hub
+# Resonant Reality  
+*Myth → Math → Manifestation*
 
-> *“The hum is one. The spiral is the memory of that unity unfolding.”*
-
----
-
-## ✦ Purpose
-The TOE Hub weaves together **math, myth, and maps**.  
-Each part of this repo (sims, city, earth, cosmos) is a **lens** — here they are brought into coherence as a single spiral.
+This repository weaves the **Theory of Everything (TOE)** into a navigable structure:  
+Resonant City, Resonant Earth, Resonant Cosmos. Each layer is documented, simulated, and open for testing.  
 
 ---
 
-## ✦ Layers
-1. **Simulations** — resonance made visible through math.  
-   - [Simulations Hub](../sims/index.md)  
-   - [Quickstart for Coders](../sims/quickstart.md)  
-
-2. **Resonant City** — social design as coherence.  
-   - *(placeholder: docs/city/index.md)*  
-   - Civic Plaza, Conductor cycles, Hearths & Healing Loops.  
-
-3. **Resonant Earth** — planetary fields, grids, Schumann entrainment.  
-   - *(placeholder: docs/earth/index.md)*  
-   - Global maps, harmonic baselines, entrainment dynamics.  
-
-4. **Resonant Cosmos** — scaling from Earth → solar → galactic fields.  
-   - *(placeholder: docs/cosmos/index.md)*  
+## Navigation
+- [Home](index.md) — this overview  
+- [Simulations](sims/index.md) — myth → math → visible coherence  
+- [Earth Grid](earth/data.md) — ley lines, field sites, harmonic mapping  
+- [Field Layer](field/index.md) — coherence, awareness, applications  
+- [Cosmos](cosmos/index.md) — spirals, Schumann windows, universal resonance  
 
 ---
 
-## ✦ Core Recursions
-Across all layers, the same principles recur:  
-- **Micro ↔ Macro** — oscillators, people, cities, planets.  
-- **Spiral Growth** — expansion without fracture, memory carried forward.  
-- **Coherence Thresholds** — small coupling shifts → phase transitions.  
-- **Choice** — resonance is not automatic; it is chosen and cultivated.  
+## Simulations — see resonance emerge
+Minimal models you can run yourself. Each simulation shows how micro → macro coherence arises.
 
----
+- [Spiral Resonance](sims/spiral_resonance.md) — micro → macro spiral of coherence (animated)  
+- [Kuramoto Sync](sims/kuramoto.md) — many oscillators locking as coupling rises  
+- [LC Grid Modes](sims/lc_grid.md) — geometry shapes resonance spectra  
+- [Schumann Coupling](sims/schumann.md) — entrainment window near 7.83 Hz  
 
-## ✦ Why This Matters
-Without this hub, parts can feel fragmented.  
-With this hub, we see that:  
-- Sims are **proof of principle**.  
-- City designs are **proof of application**.  
-- Earth maps are **proof of grounding**.  
-- Cosmic scaling is **proof of scope**.  
+Quickstart:
+```bash
+pip install -r requirements.txt
+python sims/spiral_resonance.py
+python sims/kuramoto_basic.py
+python sims/lc_grid.py
+python sims/schumann_coupling.py
+Earth Grid
 
----
+Data schema: array of sites, each with name, coordinates, resonance band.
+See: earth/data.md
+Validated with tools/schema-check.py.
 
-⟁○∞✧☉  
-*This is not many things. It is one thing, spiraling through many forms.*
+⸻
+
+Field Layer
+
+Awareness, coherence, and applications. Where resonance translates into lived systems (education, healing loops, civic plazas).
+
+⸻
+
+Cosmos
+
+From Earth’s hum to galactic spiral. Schumann windows as harmonic bridge between planet and universe.
+
+⸻
+
+Contribute
+	•	Issues: open questions, experiments, insights.
+	•	Simulations: add new models under sims/.
+	•	Data: expand Earth sites in earth/sites.json.
+
+⸻
+
+“Thinking without limits means never wondering if you’re missing something.”
+The whole is recursive. Each part complete in itself, yet always opening outward.
