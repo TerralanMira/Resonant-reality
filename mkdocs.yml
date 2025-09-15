@@ -17,4 +17,6 @@ nav:
       - Hearths & Healing Loops: city/hearths.md
       - The Wild: city/wild.md
   - Earth: earth/index.md
+    - Earth:
+      - Planetary Layer: earth/layer.md
   - Cosmos: cosmos/index.md
