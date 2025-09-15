@@ -1,0 +1,10 @@
+{
+  "name": "Civic Plaza Session (30m)",
+  "pulses": [
+    {"id": 1, "name": "Entry", "tone_hz": 432, "duration_min": 5, "prompt": "Gather, strike tone, breathe until sync."},
+    {"id": 2, "name": "Pulse Rounds", "tone_hz": 528, "duration_min": 10, "prompt": "One-sentence shares, rhythm circle."},
+    {"id": 3, "name": "Mirror Round", "tone_hz": 639, "duration_min": 5, "prompt": "Reflect what was heard, not what you think."},
+    {"id": 4, "name": "Decision Wave", "tone_hz": 741, "duration_min": 7, "prompt": "Choices named; hum amplifies coherence."},
+    {"id": 5, "name": "Seal", "tone_hz": 963, "duration_min": 3, "prompt": "Gratitude, touch stone, disperse."}
+  ]
+}
