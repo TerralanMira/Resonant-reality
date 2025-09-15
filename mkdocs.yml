@@ -16,6 +16,8 @@ nav:
       - Conductor: city/conductor.md
       - Hearths & Healing Loops: city/hearths.md
       - The Wild: city/wild.md
+      - Conductor:
+          - Overview: conductor/index.md
   - Earth: earth/index.md
     - Earth:
       - Planetary Layer: earth/layer.md
