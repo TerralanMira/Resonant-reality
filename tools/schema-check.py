@@ -1,56 +1,52 @@
-import os, json, sys
-from jsonschema import Draft202012Validator, exceptions as JSE
+#!/usr/bin/env python3
+import json
+import sys
+from pathlib import Path
 
-ROOT = os.path.dirname(os.path.abspath(__file__)) + "/.."
-SCHEMA = os.path.join(ROOT, "city/specs/citymap.schema.json")
-DATA   = os.path.join(ROOT, "city/configs/citymap.json")
+try:
+    # jsonschema is usually present in CI; if not, add it to requirements
+    from jsonschema import Draft202012Validator
+except ImportError as e:
+    print("ERROR: jsonschema is not installed. Add `jsonschema` to requirements or CI env.", file=sys.stderr)
+    sys.exit(2)
 
-def load(path):
-    with open(path, "r", encoding="utf-8") as f:
+ROOT = Path(__file__).resolve().parents[1]  # repo root
+SCHEMA_PATH = ROOT / "earth" / "specs" / "site.schema.json"
+DATA_PATH   = ROOT / "earth" / "data"  / "sites.json"
+
+def load_json(p: Path):
+    with p.open("r", encoding="utf-8") as f:
         return json.load(f)
 
 def main():
-    if not os.path.exists(SCHEMA):
-        print("[schema-check] Missing schema:", SCHEMA); sys.exit(0)
-    if not os.path.exists(DATA):
-        print("[schema-check] Missing data:", DATA); sys.exit(0)
+    if not SCHEMA_PATH.exists():
+        print(f"ERROR: schema not found: {SCHEMA_PATH}", file=sys.stderr)
+        sys.exit(2)
+    if not DATA_PATH.exists():
+        print(f"ERROR: data not found: {DATA_PATH}", file=sys.stderr)
+        sys.exit(2)
 
-    schema = load(SCHEMA)
-    data   = load(DATA)
+    schema = load_json(SCHEMA_PATH)
+    data   = load_json(DATA_PATH)
 
-    try:
-        Draft202012Validator(schema).validate(data)
-        print("[schema-check] OK:", os.path.relpath(DATA, ROOT))
+    # Validate the entire array of sites
+    validator = Draft202012Validator(schema)
+    errors = sorted(validator.iter_errors(data), key=lambda e: e.path)
+
+    if not errors:
+        print("OK: earth/data/sites.json validates against earth/specs/site.schema.json")
+        # Small summary
+        count = len(data) if isinstance(data, list) else 1
+        print(f"Sites validated: {count}")
         sys.exit(0)
-    except JSE.ValidationError as e:
-        path = " → ".join(map(str, list(e.path))) or "(root)"
-        print("[schema-check] FAIL:", os.path.relpath(DATA, ROOT))
-        print("  at:", path)
-        print("  msg:", e.message)
-        # Show the failing instance (trim long)
-        snippet = e.instance
-        try:
-            s = json.dumps(snippet, ensure_ascii=False)
-            print("  instance:", (s[:300] + "…") if len(s) > 300 else s)
-        except Exception:
-            pass
+    else:
+        print("VALIDATION ERRORS:")
+        for err in errors:
+            # Show the array index if present
+            loc = list(err.path)
+            path_str = "/" + "/".join(str(x) for x in loc) if loc else "(root)"
+            print(f"- at {path_str}: {err.message}")
         sys.exit(1)
 
 if __name__ == "__main__":
     main()
-# Validate citymap schema
-with open("city/citymap.schema.json") as f:
-    city_schema = json.load(f)
-
-with open("city/citymap.json") as f:
-    city_data = json.load(f)
-
-jsonschema.validate(city_data, city_schema)
-print("Citymap schema is valid!")
-
-# Validate pulses seed
-with open("conductor/pulses/seed.json") as f:
-    seed_data = json.load(f)
-
-# (Optional) Add a schema if you want strict validation, or just ensure it’s valid JSON
-print("Seed JSON is valid!")
