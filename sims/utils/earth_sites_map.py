@@ -55,3 +55,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    How to run (optional, local):
+    python sims/utils/earth_sites_map.py
+    This creates:
+    docs/assets/figs/earth_sites.png
