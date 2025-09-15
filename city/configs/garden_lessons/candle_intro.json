@@ -1,0 +1,11 @@
+{
+  "title": "Candle Intro (short)",
+  "age_range": "6-9",
+  "tone_cycle_hz": [432, 528, 639, 432],
+  "steps": [
+    { "name": "Entry", "tone_hz": 432, "duration_min": 2, "prompt": "See the candle. Breathe together." },
+    { "name": "Candle", "tone_hz": 528, "duration_min": 4, "prompt": "Name one feeling. Hold gentle gaze." },
+    { "name": "Mind Song", "tone_hz": 639, "duration_min": 3, "prompt": "Read a line aloud; ask what felt different." },
+    { "name": "Seal", "tone_hz": 432, "duration_min": 2, "prompt": "One learning, one release. Lights together." }
+  ]
+}
