@@ -1,16 +1,30 @@
-# Schumann Coupling
+# Schumann Resonance Coupling
 
-This model explores how oscillators couple through the Earth–ionosphere cavity.  
-Near 7.83 Hz (the Schumann fundamental), local nodes can entrain to global rhythms.
+This sim explores the **entrainment window** near Earth’s natural resonance (~7.83 Hz).  
+It shows how local oscillators can lock into the planetary hum.
+
+---
+
+## What it shows
+- A driven oscillator with a frequency sweep near 7–8 Hz.
+- Locking occurs when drive frequency ≈ Schumann band.
+- Visual: phase slip → phase lock.
+
+---
 
 ## How to run
 ```bash
 python sims/schumann_coupling.py
-What to look for
-	•	Strongest coherence near ~7.83 Hz.
-	•	Phase sync emerges in entrainment window.
-	•	Falsifier: flat coupling across frequencies.
-
 Output
 
-Figures are saved to: sims/figures/schumann_window.png
+Saved to: sims/figures/schumann.png
+Read the plot
+	•	X-axis: time steps.
+	•	Y-axis: phase difference between oscillator and driver.
+	•	Locking visible as phase difference stabilizes.
+
+⸻
+
+Pass / Falsifier
+	•	✅ Pass: phase lock occurs near ~7.83 Hz.
+	•	❌ Falsifier: no visible lock around Schumann band.
