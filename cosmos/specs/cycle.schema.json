@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CosmicCycle",
+  "type": "object",
+  "required": ["name","role"],
+  "properties": {
+    "name": { "type": "string" },
+    "cycle_days": { "type": "number" },
+    "cycle_years": { "type": "number" },
+    "resonance_hz": {
+      "type": "array",
+      "items": { "type": "number" }
+    },
+    "role": { "type": "string" }
+  },
+  "additionalProperties": false
+}
