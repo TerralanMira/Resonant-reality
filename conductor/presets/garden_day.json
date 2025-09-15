@@ -1,0 +1,10 @@
+{
+  "name": "Garden Day (25m)",
+  "pulses": [
+    {"id": 1, "name": "Entry", "tone_hz": 432, "duration_min": 3, "prompt": "See the candle. Breathe together."},
+    {"id": 2, "name": "Candle", "tone_hz": 528, "duration_min": 5, "prompt": "Name one feeling. Hold gentle gaze. Laugh softly."},
+    {"id": 3, "name": "Body Rhythm", "tone_hz": 528, "duration_min": 7, "prompt": "Balance walk. Group clap stabilizes wobble."},
+    {"id": 4, "name": "Mind Song", "tone_hz": 639, "duration_min": 6, "prompt": "Read two lines aloud. Ask: what did your body notice?"},
+    {"id": 5, "name": "Seal", "tone_hz": 432, "duration_min": 4, "prompt": "One learning, one release. Lights together."}
+  ]
+}
