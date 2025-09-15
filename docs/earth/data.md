@@ -1,17 +1,50 @@
-# Earth Data Sources
+# Earth Grid Data
 
-These datasets ground the models in physical reality.
+This file anchors the resonance models into **real geophysical sites**.  
+It connects myth ↔ math by treating sacred / ancient nodes as measurable oscillators.
 
-## Core datasets
-- **Global_Resonance_Map_Matrix.csv** — resonance intensity across geolocations.
-- **Harmonic_Resonance_Distances.csv** — great-circle distances at harmonic intervals.
-- **Grouped_Field_Energy_Blueprint.csv** — clustered coherence fields by frequency band.
+---
 
-## How used
-- Input for Schumann coupling thresholds.
-- Validation for LC grid topologies.
-- Map overlays in `docs/earth/maps.md`.
+## Structure
+Earth data is stored in **JSON** (`earth/sites.json`) with schema validated by `tools/schema-check.py`.
 
-## Next steps
-- Expand datasets to include geomagnetic storm events.
-- Correlate resonance bands with cultural/biological rhythms.
+Each site has:
+- `name` — site name
+- `lat`, `lon` — coordinates
+- `hz_band` — dominant resonance band(s) [Hz]
+- `notes` — mythic / historic resonance
+
+---
+
+## Example site (JSON)
+```json
+{
+  "name": "Giza Pyramids",
+  "lat": 29.9792,
+  "lon": 31.1342,
+  "hz_band": [7.83, 14.1],
+  "notes": "Aligned with Orion; within Schumann band."
+}
+How to validate
+python tools/schema-check.py earth/sites.json
+Output:
+	•	✅ “valid” if schema matches.
+	•	❌ error if missing fields or incorrect types.
+
+⸻
+
+Current map
+
+Sites are progressively added. Early entries:
+	•	Giza Pyramids (Egypt)
+	•	Chichén Itzá (Mexico)
+	•	Stonehenge (UK)
+	•	Uluru (Australia)
+Next step
+
+Overlay sites with:
+	•	Schumann coupling sims
+	•	LC grid geometries
+	•	Harmonic resonance distances (from CSV)
+
+This creates the Resonant Earth Map → input layer for Cosmic model.
