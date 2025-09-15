@@ -1,0 +1,14 @@
+{
+  "name": "Conductor 9-Pulse Master Cycle",
+  "pulses": [
+    { "id": 1, "name": "Entry", "tone_hz": 432, "duration_min": 3, "prompt": "Gather, silence, breathe together." },
+    { "id": 2, "name": "Calibration", "tone_hz": 528, "duration_min": 4, "prompt": "Chant or tone until voices align." },
+    { "id": 3, "name": "Offering", "tone_hz": 639, "duration_min": 6, "prompt": "Each names a need, gift, or fear." },
+    { "id": 4, "name": "Decision", "tone_hz": 741, "duration_min": 7, "prompt": "Circle hum amplifies the chosen path." },
+    { "id": 5, "name": "Gift", "tone_hz": 963, "duration_min": 5, "prompt": "Freely given: song, gesture, word." },
+    { "id": 6, "name": "Mirror", "tone_hz": 528, "duration_min": 6, "prompt": "Reflect what was heard, no judgment." },
+    { "id": 7, "name": "Witness", "tone_hz": 639, "duration_min": 5, "prompt": "Council records what emerged." },
+    { "id": 8, "name": "Seal", "tone_hz": 741, "duration_min": 4, "prompt": "Gratitude, touch stone, closure." },
+    { "id": 9, "name": "Release", "tone_hz": 432, "duration_min": 3, "prompt": "Silence; dispersal; hum inward." }
+  ]
+}
