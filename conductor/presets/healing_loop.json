@@ -1,0 +1,10 @@
+{
+  "name": "Healing Loop (20m)",
+  "pulses": [
+    { "id": 1, "name": "Entry", "tone_hz": 432, "duration_min": 3, "prompt": "Remove shoes, sit by flame or light." },
+    { "id": 2, "name": "Breath Sync", "tone_hz": 528, "duration_min": 5, "prompt": "Slow inhale/exhale guided by tone." },
+    { "id": 3, "name": "Confession / Release", "tone_hz": 639, "duration_min": 5, "prompt": "Speak or sing a wound, or hold in silence." },
+    { "id": 4, "name": "Resonant Hold", "tone_hz": 741, "duration_min": 5, "prompt": "Group hum sustains until fracture eases." },
+    { "id": 5, "name": "Seal", "tone_hz": 963, "duration_min": 2, "prompt": "Gratitude, embrace, dispersal." }
+  ]
+}
