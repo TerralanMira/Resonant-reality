@@ -12,5 +12,6 @@ nav:
     - City: 
       - Overview: city/index.md
       - Garden: city/garden.md
+      - Civic Plaza: city/plaza.md
   - Earth: earth/index.md
   - Cosmos: cosmos/index.md
