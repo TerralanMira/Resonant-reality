@@ -1,0 +1,77 @@
+name: Resonant Experiment
+description: Run a small FPC–CFM loop (baseline → intent → measure → forecast)
+title: "[exp] <short-name>"
+labels: ["experiment", "data"]
+body:
+  - type: markdown
+    attributes:
+      value: "## 1) Purpose\nWhat hypothesis are you testing in one sentence?"
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose
+      placeholder: "e.g., 9-pulse Conductor raises HRV and RNG beyond baseline at Garden hearth."
+  - type: markdown
+    attributes:
+      value: "## 2) Baseline\nWhere/when and which channels?"
+  - type: input
+    id: window
+    attributes:
+      label: Time Window (UTC/local)
+      placeholder: "2025-09-15 19:00–19:30 local"
+  - type: checkboxes
+    id: channels
+    attributes:
+      label: Channels
+      options:
+        - label: HRV
+        - label: EEG/phase
+        - label: RNG
+        - label: Schumann/geomag
+        - label: Behavioral (attendance/flow)
+  - type: textarea
+    id: site
+    attributes:
+      label: Site/Node
+      placeholder: "GPS, site name, geometry notes (e.g., circle, arch, φ-ratio)."
+  - type: markdown
+    attributes:
+      value: "## 3) Intent Protocol\nDescribe the loop you will run."
+  - type: dropdown
+    id: protocol
+    attributes:
+      label: Protocol
+      options:
+        - Conductor (9-pulse)
+        - Hearth (healing loop)
+        - Plaza (open forum)
+        - Custom
+  - type: textarea
+    id: custom_protocol
+    attributes:
+      label: If Custom, describe
+      placeholder: "Steps, tones, durations."
+  - type: markdown
+    attributes:
+      value: "## 4) Metrics & Thresholds\nDefine what 'pass' means (falsifiers included)."
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Metrics
+      placeholder: "HRV ΔRMSSD≥10%, RNG |z|≥2, Kuramoto ΔR≥0.05, etc."
+  - type: markdown
+    attributes:
+      value: "## 5) Results"
+  - type: textarea
+    id: results
+    attributes:
+      label: Observations / Files
+      placeholder: "Attach CSVs/plots from sims or devices; summarize deltas."
+  - type: markdown
+    attributes:
+      value: "## 6) FPC Fit & Forecast"
+  - type: textarea
+    id: forecast
+    attributes:
+      label: Convergence & Forecast
+      placeholder: "Pass/Fail vs thresholds; next window/node if pass."
