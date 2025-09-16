@@ -52,3 +52,23 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Galactic Spiral Toy — fractal above, fractal below
+
+A simple generator of logarithmic spirals (a proxy for galactic arm geometry).
+Generates:
+- `sims/figures/galactic_spiral.png`
+- `sims/figures/galactic_radial_profile.png`
+
+---
+
+## Run it
+```bash
+python sims/galactic_spiral_toy.py
+What it shows
+	•	Spiral geometry (visual) and radial intensity (spectrum-like).
+	•	Useful as a visual metaphor and a starting point for spectral experiments.
+
+Next steps
+	•	Animate multiple arms (phase-offset).
+	•	Compute 2D FFT to examine spatial frequency content.
+	•	Connect to sims/spiral_resonance.py and docs/cosmos/galactic.md.
