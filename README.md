@@ -11,7 +11,8 @@ This repository explores how **resonance** threads through every layer of life:
 
 ---
 
-## Quickstart
+## Quickstart (optional, for laptops)
+You can explore the full Atlas in your browser without running any code.
 
 Clone and install requirements:
 
