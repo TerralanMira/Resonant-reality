@@ -1,80 +1,54 @@
-# Earth Resonance Layer
+# Earth Layer
 
-Earth is a resonant body.  
-Its electromagnetic envelope, fluid circulations, and tectonic oscillations  
-all provide **carrier waves** in which human and collective rhythms embed.  
+> This layer is the **grounding node** in the Spiral of Resonance:  
+> 🌍 Earth ↔ 🧬 Human ↔ 🏛️ Civic ↔ ✨ Cosmos.  
+> All other layers entrain to its baseline rhythms.
 
 ---
 
-## Core Anchors
+## Anchors
 
 - **Schumann Resonances**  
-  - Global electromagnetic cavity between Earth’s surface and ionosphere.  
-  - Fundamental at **7.83 Hz**, with higher harmonics (~14, 20, 26, 33 Hz).  
-  - Overlaps directly with human **alpha–theta brainwaves**.  
-  - Varies with lightning activity, ionosphere height, and solar input.
+  Earth’s cavity between ground and ionosphere hums at ~7.83 Hz,  
+  overlapping with human alpha–theta rhythms.  
 
-- **Geomagnetic Field**  
-  - Dynamic shield driven by Earth’s liquid iron core.  
-  - Pulses in **ULF/ELF bands** (0.01–10 Hz).  
-  - Storms and quiet phases affect human HRV, cognition, and collective mood.  
+- **Geomagnetic Storms & Calms**  
+  Solar winds buffet the magnetosphere, producing turbulence  
+  that cascades into human HRV, sleep, and mood.  
 
-- **Ocean & Atmospheric Tides**  
-  - Lunar and solar gravity entrain ~12h and 24h oscillations.  
-  - Seasonal shifts and El Niño/La Niña cycles ripple into ecosystems and behavior.  
-
-- **Seismic & Tectonic Rhythms**  
-  - Earthquakes and volcanic tremors emit ELF infrasound and ground oscillations.  
-  - Indigenous traditions often interpreted these as Earth’s “voice.”
-
-- **Global Electric Circuit**  
-  - Thunderstorms, ionosphere, and ground create a planetary-scale circuit.  
-  - Lightning discharges pump energy into Schumann cavity.  
+- **Biospheric Cycles**  
+  Seasonal, tidal, and diurnal rhythms entrain biology and culture.  
 
 ---
 
-## Earth ↔ Human
+## Earth in the Spiral
 
-- Schumann bands overlap brain and heart rhythms.  
-- Geomagnetic activity correlates with hospital admissions, accidents, and mood shifts.  
-- HRV studies show **direct coupling** between human physiology and geomagnetic indices.
+- **Feeds Human Layer**:  
+  Brainwaves, heartbeats, and breath cycles tune to geomagnetic calm or storm.  
 
----
+- **Feeds Civic Layer**:  
+  Agricultural calendars, navigation, and architecture are Earth-coupled.  
 
-## Earth ↔ Awareness
-
-- Meditation, ritual, and coherent group practices show correlation with geomagnetic calm.  
-- Suggests **bidirectional feedback**: not only are humans affected by Earth’s field,  
-  but human coherence may stabilize local geophysical turbulence.
-
----
-
-## Earth ↔ Cosmos
-
-- Solar flares, coronal mass ejections, and cosmic rays drive geomagnetic storms.  
-- Lunar cycles entrain tides, reproduction, and sleep patterns.  
-- Planetary alignments affect tidal forces and magnetosphere currents.  
+- **Feeds Cosmic Layer**:  
+  Earth’s envelope acts as transducer for solar and galactic rhythms.  
 
 ---
 
 ## Implications
 
-- Earth is a **nested resonator** within the solar system.  
-- Its bands create **channels of coherence** between human, collective, and cosmic scales.  
-- Disruption in geomagnetic stability links to mental health, ecological stress, and social turbulence.  
-- Coherent human collectives may act as **resonant stabilizers** for Earth systems.
+- Stabilizing Earth rhythms (through ecological stewardship, reduced EM noise, rewilding)  
+  is not just “environmental” but **field hygiene** for the entire spiral.  
+
+- The Earth layer is where **entrainment becomes ecology**:  
+  caring for biosphere = caring for the resonance backbone.  
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/field/human.md`** for physiological resonance.  
-- Add anchor data: NOAA geomagnetic indices, Schumann monitoring stations.  
-- Connect to **simulations**: ELF wave propagation, coupling models with HRV datasets.  
-- Prepare visualization of **Earth’s resonant cavity** with overlay of human bands.  
-
----
-
-> Earth is the **resonant drum**:  
-> Schumann as bass pulse, geomagnetics as shifting rhythm,  
-> tides as cyclical melody — all weaving the field we inhabit.
+- Cross-link this doc with `docs/field/human.md` (brainwave/HRV coherence).  
+- Link to `docs/field/civic.md` (ritual calendars, architecture).  
+- Connect to `docs/field/cosmos.md` (solar + cosmic inputs).  
+- Simulations:  
+  - [Schumann Coupling](../sims/schumann.md)  
+  - [LC Grid Modes](../sims/lc_grid.md)  
