@@ -9,7 +9,7 @@
 Infinity is coherence across scales.  
 Every system — from cosmos to field to human to civic — reflects and sustains the whole.  
 This project encodes that recursion into **math, models, and designs**.
-**Engine:** The Atlas Model → <ADD-ATLAS-REPO-URL-HERE>
+**Engine:** The Atlas Model → https://github.com/TerralanMira/The-Atlas-Model.git
 ---
 
 ## 🌀 Structure
