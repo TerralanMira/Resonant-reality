@@ -118,6 +118,33 @@ Each node is a **feedback point**:
 📎 Next Steps: Cross-reference this loop in `sims/index.md` with explicit simulation maps.
 ---
 
+## Resonance Feedback Loop
+
+The layers are not isolated.  
+They form a **living spiral circuit** where each turn of coherence feeds the next.
+
+```mermaid
+flowchart LR
+    Earth(("🌍 Earth")) <--> Human(("🧍 Human"))
+    Human <--> Civic(("🏛 Civic"))
+    Civic <--> Cosmos(("✨ Cosmos"))
+    Cosmos <--> Earth
+
+    Earth --- |Schumann / geomagnetics| Human
+    Human --- |HRV, brainwaves, breath| Civic
+    Civic --- |rituals, governance, economy| Cosmos
+    Cosmos --- |myth, pattern, archetype| Earth
+Interpretation
+	•	Earth ↔ Human
+Entrainment via Schumann resonance, geomagnetic calm/storm, and HRV rhythms.
+	•	Human ↔ Civic
+Individuals tune groups: rituals, plazas, hearths, governance, and economy.
+	•	Civic ↔ Cosmos
+Collective structures echo archetypes, myths, and star-mapped rhythms.
+	•	Cosmos ↔ Earth
+Solar storms, lunar cycles, and stellar timing re-pattern the planet.
+---
+
 > The human is the **bridge node**:  
 > body as antenna, heart as conductor, brain as tuner —  
 > translating awareness into earth and cosmos.
