@@ -1,17 +1,16 @@
 site_name: Resonant Reality
-site_description: >
-  A living atlas of resonance — from physics to human coherence to civic design.
-  Simulations, field anchors, and civic applications woven into one navigable whole.
+site_description: "A living atlas of resonance — simulations, field anchors, and civic designs for coherence."
+site_author: Terralan Mira
 repo_url: https://github.com/TerralanMira/Resonant-reality
+repo_name: Resonant-reality
 theme:
   name: material
   features:
+    - navigation.tabs
     - navigation.expand
-    - navigation.sections
-    - navigation.top
+    - search.suggest
+    - search.highlight
     - toc.integrate
-    - content.code.annotate
-    - content.code.copy
   palette:
     - scheme: default
       primary: indigo
