@@ -75,3 +75,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    Note: this script uses scipy.signal.correlate. If scipy isn’t in sims/requirements.txt, add scipy or change to numpy cross-correlation.
