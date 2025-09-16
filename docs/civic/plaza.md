@@ -1,53 +1,46 @@
-# Plaza — Resonant Commons
+# Plazas & Public Space
 
-The **plaza** is the heart of civic resonance.  
-It is not only a space for gathering, but a **tuning chamber** for the city.  
-Its geometry, acoustics, and rhythms invite coherence at scale.
+Civic architecture is resonance made visible.  
+Plazas, temples, amphitheaters, and gathering places act as coherence chambers.  
 
 ---
 
-## Principles
+## Anchors
 
-- **Geometry**  
-  Circular or spiral forms encourage inclusion.  
-  Ratios drawn from harmonic series (1:2, 2:3, 3:4) reinforce resonance.  
+- **Geometry & Acoustics**  
+  - Circular plazas → phase-locking spaces.  
+  - Amphitheaters → focus sound into shared rhythm.  
+  - Sacred geometry as resonance amplifier.  
 
-- **Acoustics**  
-  Materials and curvature amplify natural frequencies.  
-  The plaza becomes an **ear** for the city.  
+- **Urban Ley Lines**  
+  - Street grids can guide flows like circuits.  
+  - Nodes (plazas) act as capacitors for collective charge.  
+  - Resonant city = tuned instrument.  
 
-- **Flow**  
-  Entry points align with natural pathways (geomagnetic lines, waterways, or pedestrian flows).  
-  Movement in and out mirrors breath.  
-
-- **Use**  
-  From daily markets to collective meditation, the plaza holds both the ordinary and the sacred.  
+- **Soundscapes & Lightscapes**  
+  - Bells, fountains, chants, public art.  
+  - Ambient resonance stabilizes nervous systems.  
+  - Public light cycles = circadian entrainment.  
 
 ---
 
 ## Functions
 
-- **Tuning Fork**  
-  Group gatherings sync heart rhythms, voices, and movements.  
-
-- **Civic Field Anchor**  
-  The plaza grounds collective energy into the field grid.  
-
-- **Cultural Spiral**  
-  Performances, rituals, and storytelling transmit coherence into memory.  
+- Anchor group coherence into physical form.  
+- Provide **ritual stages** and **healing loops**.  
+- Act as civic “resonance nodes” in the urban network.  
 
 ---
 
-## Simulation Ideas
+## Implications
 
-- **Acoustic Field Models**: Simulate sound propagation through plaza geometries.  
-- **Crowd Coherence Metrics**: Measure HRV synchronization across groups.  
-- **Field Coupling**: Map plaza placement against geomagnetic lines.  
+A city is only as healthy as its plazas.  
+If plazas hum, the whole urban nervous system stabilizes.  
 
 ---
 
 ## Next Steps
 
-- Add diagrams of resonant plaza designs.  
-- Link to **Hearths (hearths.md)** for intimate coherence spaces.  
-- Link to **Conduits (conduits.md)** for connecting civic flows.  
+- Add **sketches** and blueprints for resonant plazas.  
+- Link to **Conductor Layer** for feedback/dashboard integration.  
+- Simulate plaza networks as oscillator grids.  
