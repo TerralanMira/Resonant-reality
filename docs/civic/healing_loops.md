@@ -1,45 +1,44 @@
 # Healing Loops
 
-Healing is not private. It is civic.  
-Communities that lack feedback and renewal spiral into noise.  
-Healing loops are structures — ritual, policy, tech — that restore balance.  
+Healing is civic technology.  
+Loops prevent stress from accumulating into collapse.  
 
 ---
 
-## Anchors
+## Case Studies
 
-- **Public Health Feedback**  
-  - Dashboards that reveal stress/coherence in real-time.  
-  - Not punitive, but restorative.  
+- **South Africa Truth & Reconciliation Commission**  
+  - Ritualized testimony as coherence restoration.  
+  - Collective catharsis prevents revenge cycles.  
 
-- **Conflict Resolution Rituals**  
-  - Circle dialogues, truth commissions, restorative justice.  
-  - Coherence rebuilt through structured ritual.  
+- **Ubuntu Circles (East Africa)**  
+  - Community dialogue circles, guided by elders.  
+  - HRV coherence measured in participants.  
 
-- **Community Renewal**  
-  - Seasonal clean-ups, rebuilding days, civic festivals.  
-  - Renewal cycles woven into the calendar.  
-
----
-
-## Functions
-
-- Detect where coherence breaks.  
-- Provide pathways for restoration.  
-- Keep the civic nervous system **elastic, not brittle**.  
+- **Japanese Tsunami Renewal Festivals**  
+  - Annual rebuilding festivals to ritually release trauma.  
+  - Civic renewal embedded in ritual cycle.  
 
 ---
 
-## Implications
+## Data Anchors
 
-Healing loops make stress survivable.  
-Without them, systems snap.  
-With them, cities learn and regenerate.  
+- HRV variability as a stress/resonance proxy.  
+- Epidemiological data: communities with reconciliation rituals recover faster.  
+- Social network analysis: restorative practices shorten “conflict half-life.”  
 
 ---
 
-## Next Steps
+## Design Principles
 
-- Prototype: civic dashboards tied to HRV/geomagnetic data.  
-- Collect rituals of reconciliation from diverse cultures.  
-- Simulate: models of resilience with and without feedback loops.
+- Make **repair visible**.  
+- Use **ritual rhythm** to anchor renewal.  
+- Close loops regularly — avoid long buildup of stress.  
+
+---
+
+## Simulation Pathways
+
+- Dynamic resilience modeling: cities with vs without healing loops.  
+- Stress–release cycles modeled as oscillators.  
+- Impact of healing frequency on systemic collapse probability.
