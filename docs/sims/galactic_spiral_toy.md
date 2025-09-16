@@ -1,6 +1,3 @@
----
-
-## 3) Galactic spiral toy (visual + radial spectrum)
 
 ```python
 """
