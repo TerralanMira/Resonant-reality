@@ -1,46 +1,65 @@
-# Cosmos — The Outer Resonance
+# Cosmos Resonance Layer
 
-The cosmos is not background — it is the resonant stage in which Earth and life emerge.  
-Solar flares, lunar tides, and galactic spirals provide the wider cycles to which human  
-and planetary rhythms entrain.
-
-This layer ties the **local** (our breath, our plazas, our heartbeats)  
-to the **universal** (the hum of stars, the orbit of moons, the spin of galaxies).  
-It is both *vast* and *intimate* — the macrocosm reflected in the microcosm.
+The cosmos is not a backdrop — it is the field within which Earth, human, and civic life resonate.  
+From planetary orbits to stellar pulsations to the cosmic background hum, all layers of reality  
+are nested within wider spirals.
 
 ---
 
-## Anchors
+## Key Anchors
 
-- **[Schumann Resonances](schumann.md)**  
-  Earth–ionosphere cavity as planetary-scale heartbeat, resonant with brainwaves.  
+- **Solar Rhythms**  
+  - 11-year sunspot cycle → geomagnetic storms, aurora, shifts in Schumann resonance stability.  
+  - Solar flares modulate atmospheric ionization, affecting radio bands and human physiology.  
 
-- **[Solar Rhythms](solar.md)**  
-  Sunspot cycles, flares, and electromagnetic storms shaping geomagnetism and health.  
+- **Planetary Harmonics**  
+  - Orbital resonances (e.g., Jupiter–Saturn 5:2) generate long-wave coherence patterns.  
+  - Tidal forces (Moon ↔ Earth) entrain ocean rhythms, reproduction cycles, and biological clocks.  
 
-- **[Lunar Tides](lunar.md)**  
-  Gravitational pull of the moon entraining oceans, fertility cycles, and cultural calendars.  
+- **Stellar Pulsations**  
+  - Cepheid variables and pulsars act as galactic metronomes.  
+  - Their signals are used in navigation — and metaphorically as cosmic timekeepers.  
 
-- **[Galactic Spirals](galactic.md)**  
-  The spiral arm as resonance geometry — a living symbol echoed in shells, storms, and cities.  
+- **Cosmic Background**  
+  - The CMB (Cosmic Microwave Background) is the oldest resonance field: ~160 GHz peak.  
+  - It is the hum of the Big Bang, still shaping spacetime structure.  
 
 ---
 
-## Why It Matters
+## Entrainment Windows
 
-- Human resilience is shaped by cosmic weather.  
-- Civilization’s stability depends on anticipating and attuning to solar and lunar rhythms.  
-- Our myths of the heavens may be read as early *pattern recognition* of entrainment windows.  
+- **Cosmos ↔ Earth**  
+  Planetary orbits and solar storms couple into Earth’s magnetic field.  
+  Seasonal cycles reflect celestial alignments.  
+
+- **Cosmos ↔ Human**  
+  Circadian rhythms are tuned to light/dark cycles set by Earth’s orbit.  
+  Lunar cycles modulate fertility, sleep, and ritual timing.  
+
+- **Cosmos ↔ Civic**  
+  Calendars, festivals, and cultural rhythms are cosmic entrainment made social.  
+  Civic order has always been shaped by skywatching.  
+
+---
+
+## Implications
+
+- Civic rhythms (rituals, governance, economy) are fractal extensions of cosmic time.  
+- Research: how solar activity modulates collective mood, decision-making, and health.  
+- Hypothesis: resonance with cosmic cycles stabilizes both ecological and social systems.  
+
+---
+
+## Simulations to Extend
+
+- **Solar–Schumann coupling**: extend the Schumann model with solar cycle inputs.  
+- **Orbital resonance maps**: visualize harmonic ratios in planetary orbits.  
+- **Cosmic → Civic**: agent-based models of calendars/festivals as stabilizers.  
 
 ---
 
 ## Next Steps
 
-- Connect to **simulations** (e.g., solar cycle overlays with geomagnetic data).  
-- Cross-link to **Field Layer** (human + Earth resonance under cosmic forcing).  
-- Seed visualization projects: galactic spirals as coherence maps.  
-
----
-
-> The cosmos is not above us — it is within us.  
-> To hear its hum is to remember we are stardust in resonance.
+- Cross-link to **`docs/earth/data.md`** for anchor sites sensitive to cosmic inputs.  
+- Connect to **human brainwave entrainment** (theta–alpha ~ lunar cycles).  
+- Spiral upward: show cosmos as the outer layer of the feedback loop.  
