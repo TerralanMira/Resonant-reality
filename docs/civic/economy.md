@@ -59,3 +59,4 @@ toward balance, reciprocity, and regenerative cycles.
 - Link to **`docs/civic/governance.md`** (who decides stewardship).  
 - Simulate resonant exchange using network flow models in **`sims/`**.  
 - Document real-world pilots: community currencies, commons trusts, regenerative co-ops.
+See: Resonant Currency simulation — tune α (growth) and β (stability) to explore resilience.
