@@ -59,6 +59,9 @@ nav:
       - Overview: docs/awareness/index.md
       - Practices: docs/awareness/practices.md
       - Collective Field: docs/awareness/collective.md
+        - Core:
+      - Infinity Equation: docs/core/infinity_equation.md
+      - Atlas Model (Engine): docs/core/atlas_model.md
   - Books & References:
       - Core Texts: docs/books/index.md
       - Excerpts: docs/books/excerpts.md
