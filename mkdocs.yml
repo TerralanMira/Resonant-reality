@@ -21,6 +21,9 @@ nav:
       - Kuramoto Sync: sims/kuramoto.md
       - LC Grid Modes: sims/lc_grid.md
       - Schumann Coupling: sims/schumann.md
+    - Overview: sims/index.md
+    - Deepening: sims/deepening.md
+    - Meta-Resonance: sims/meta.md
   - Earth Grid:
       - Data: earth/data.md
       - Resonance Map: earth/map.md
