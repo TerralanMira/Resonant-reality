@@ -1,46 +1,44 @@
 # Plazas & Public Space
 
-Civic architecture is resonance made visible.  
-Plazas, temples, amphitheaters, and gathering places act as coherence chambers.  
+Plazas are civic resonance nodes.  
+Their geometry, sound, and symbolism tune the city’s nervous system.  
 
 ---
 
-## Anchors
+## Case Studies
 
-- **Geometry & Acoustics**  
-  - Circular plazas → phase-locking spaces.  
-  - Amphitheaters → focus sound into shared rhythm.  
-  - Sacred geometry as resonance amplifier.  
+- **Teotihuacan (Mexico)**  
+  - Avenue of the Dead aligned to astronomical points.  
+  - Acoustic studies: pyramid steps create “chirp echoes.”  
 
-- **Urban Ley Lines**  
-  - Street grids can guide flows like circuits.  
-  - Nodes (plazas) act as capacitors for collective charge.  
-  - Resonant city = tuned instrument.  
+- **St. Peter’s Square (Rome)**  
+  - Elliptical colonnades focus attention to a central point.  
+  - Ritual scale = 100,000+ synchronized bodies.  
 
-- **Soundscapes & Lightscapes**  
-  - Bells, fountains, chants, public art.  
-  - Ambient resonance stabilizes nervous systems.  
-  - Public light cycles = circadian entrainment.  
+- **Modern: Federation Square (Melbourne)**  
+  - Designed with fractal geometry.  
+  - Functions as a civic gathering + media space.  
 
 ---
 
-## Functions
+## Data Anchors
 
-- Anchor group coherence into physical form.  
-- Provide **ritual stages** and **healing loops**.  
-- Act as civic “resonance nodes” in the urban network.  
-
----
-
-## Implications
-
-A city is only as healthy as its plazas.  
-If plazas hum, the whole urban nervous system stabilizes.  
+- Architectural acoustics: reverberation times in open plazas ~1.5–2 sec.  
+- Pedestrian flow studies: plazas act as attractors in urban networks.  
+- GIS overlays: ley lines and civic grids often coincide.  
 
 ---
 
-## Next Steps
+## Design Principles
 
-- Add **sketches** and blueprints for resonant plazas.  
-- Link to **Conductor Layer** for feedback/dashboard integration.  
-- Simulate plaza networks as oscillator grids.  
+- Geometry: **circles, ellipses, grids** that resonate.  
+- Materials: stone, water, vegetation as resonance modifiers.  
+- Integration: plazas as **ritual–media–healing hubs**.  
+
+---
+
+## Simulation Pathways
+
+- Oscillator grid models of plaza networks.  
+- Agent-based pedestrian flow simulations.  
+- Acoustic modeling: chant or music coherence in plaza geometries.
