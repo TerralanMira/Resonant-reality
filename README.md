@@ -3,6 +3,30 @@
 *A living atlas of resonance — from physics to human coherence to civic design.*
 
 ---
+# Resonant Reality
+
+∞ Equation: **Coherence = Awareness × Alignment × Flow**
+
+This “infinity equation” is not a formula in the narrow sense,  
+but a recursive principle: each part contains the whole, and the whole  
+is continuously renewed by the coherence of its parts.  
+
+- **Awareness** → perception of rhythms across scales  
+- **Alignment** → tuning of self, system, and cosmos  
+- **Flow** → the dynamic exchange that sustains balance  
+
+Together they trace a lemniscate: ∞  
+An endless weaving of micro ↔ macro, inner ↔ outer, local ↔ universal.  
+
+---
+
+## About
+
+*Resonant Reality* is a living atlas of resonance — simulations, field anchors,  
+and civic designs for coherence. It shows how physical, human, and civic layers  
+interlock, and provides minimal models that make the invisible visible.
+
+👉 [View the full docs](https://terralanmira.github.io/Resonant-reality)
 
 ## 🌌 What is this?
 
