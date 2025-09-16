@@ -1,56 +1,72 @@
-# Civic Layer — Resonant City in Practice
+# Civic Applications Layer
 
-The civic layer is where resonance becomes visible in culture.  
-It is the scale of plazas, hearths, councils, and festivals —  
-the living patterns that hold communities in coherence.  
+If the **Human Layer** tunes the body, and the **Earth Layer** holds the field,  
+Civic Applications are where resonance becomes **visible, shared, and lived**.  
 
----
-
-## Anchors of the Civic
-
-- **Hearths** — the smallest civic coherence nodes, where meals, fire, and intimacy center daily life.  
-- **Loops** — relational circuits of care, exchange, and communication that keep resonance circulating.  
-- **Design** — the geometry of plazas, streets, and gathering spaces that make collective coherence possible.  
-- **Rituals** — the embodied practices that weave time, memory, and emotion into civic resonance.  
+This is the layer of **rituals, architecture, policy, and technology** —  
+all designed to cultivate coherence in groups, cities, and cultures.  
 
 ---
 
-## Civic Resonance Principles
+## Anchors
 
-- **Micro ↔ Macro Alignment**  
-  - A fire circle resonates with a civic plaza  
-  - A local festival resonates with a solstice ceremony  
+- **Rituals & Festivals**  
+  - Seasonal rites, drumming circles, group meditation.  
+  - Encode collective memory into rhythm.  
+  - Synchronize not just individuals, but entire communities.  
 
-- **Fractal Governance**  
-  - Hearth → Neighborhood → City → Region  
-  - Each level amplifies and stabilizes the ones below  
+- **Plazas & Public Space**  
+  - Architecture as resonant chamber.  
+  - Soundscapes, geometry, and layout amplify coherence.  
+  - Civic plazas become “coherence nodes” in the urban grid.  
 
-- **Entrainment Windows**  
-  - Civic gatherings pulse at frequencies that overlap with heart, breath, and Schumann bands  
-  - Resonance is amplified when architecture and ritual align with these bands  
+- **Healing Loops**  
+  - Feedback structures for care, conflict resolution, renewal.  
+  - Civic systems that **detect stress and restore balance**.  
+  - Examples: public health dashboards, restorative justice rituals.  
+
+- **Media & Signal**  
+  - Narrative, song, story as coherence carriers.  
+  - Memes that entrain attention across scales.  
+  - Shared symbols bind diverse groups into one rhythm.  
+
+---
+
+## Applications
+
+- **Urban Design**  
+  - Cities as resonant instruments.  
+  - Sound, light, and flow shaping collective nervous systems.  
+
+- **Education**  
+  - Schools as coherence labs.  
+  - Practices of rhythm, attention, and collective creativity.  
+
+- **Governance**  
+  - Policy as rhythm-setting (calm vs crisis).  
+  - Transparency and feedback loops as conductor roles.  
+
+- **Technology**  
+  - Platforms that amplify coherence instead of division.  
+  - Data → dashboards → rituals of shared awareness.  
 
 ---
 
 ## Implications
 
-- **Urban Design**  
-  Cities can be planned as resonant instruments rather than extractive grids.  
-
-- **Collective Healing**  
-  Civic coherence reduces polarization, stress, and fragmentation.  
-
-- **Cultural Regeneration**  
-  Rituals and hearths maintain living traditions while adapting to new contexts.  
+- **Noise vs Coherence** is not just personal, it’s civic.  
+- Civic applications decide whether stress cascades or healing spreads.  
+- Design principle: **cities should hum** — aligned with Earth, tuned for human wellness, guided by conductor functions.  
 
 ---
 
 ## Next Steps
 
-- Flesh out links to:  
-  - [Hearths](hearths.md)  
-  - [Loops](loops.md)  
-  - [Design](design.md)  
-  - [Rituals](rituals.md)  
+- Cross-link with **Conductor Layer** (feedback + phase-locking).  
+- Add prototypes: plaza design sketches, ritual protocols, coherence dashboards.  
+- Tie into **simulations**: model civic “nodes” as oscillators in a grid.  
 
-- Add visual diagrams of civic fractals (plaza ↔ hearth ↔ city).  
-- Simulate **festival entrainment** in `/sims/civic/`.  
+---
+
+> Civic life is not just administration.  
+> It is rhythm-shaping — the art of weaving human, earth, and cosmos into one living score.
