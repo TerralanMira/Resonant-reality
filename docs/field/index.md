@@ -1,20 +1,42 @@
-# Field Layer — Earth as Resonant Body
+# Field Layer — Earth’s Resonant Body
 
-Beneath all coherence lies a field.  
-The Earth is not a silent rock but a resonant cavity:  
-lightning strokes excite the ionosphere, mountains shape standing waves,  
-oceans and forests breathe in planetary cycles.
+Earth is not inert — it is a resonant organism.  
+The geomagnetic field, ionospheric cavity, crustal vibrations, and biosphere  
+form a layered coherence field that shapes and is shaped by life.
 
-What physics names “Schumann resonances” or “geomagnetic indices”  
-ancient traditions called the **world hum**.  
-This layer gathers those signals — frequencies that bind us all.  
-
-To trace them is to touch the **carrier wave**  
-upon which human hearts, communities, and civilizations ride.
+This layer ties the **human resonance** (heart, brain, breath)  
+to the **planetary resonance** (Schumann, geomagnetic, seismic).
 
 ---
 
-## Contents
-- [Earth Data](earth/data.md) — anchor sites, stations, and frequency logs
-- [Schumann Coupling](../sims/schumann.md) — window of entrainment near 7.83 Hz
-- [Geomagnetic Context](geomagnetic.md) — storms, calm, and their effects on biosphere
+## Anchors
+
+- **[Geomagnetic Fields](earth.md)**  
+  The living magnetosphere as protective and regulatory field.  
+
+- **[Human Resonance](human.md)**  
+  Brainwaves, heart rhythms, and breath cycles tuned into Earth frequencies.  
+
+- **[Data Anchors](earth/data.md)**  
+  Sites, sensors, and experiments grounding resonance in measurement.  
+
+---
+
+## Why It Matters
+
+- Human health is inseparable from the stability of Earth’s fields.  
+- Coherence practices amplify resilience under geomagnetic stress.  
+- Tracking resonance helps anticipate both ecological and societal tipping points.  
+
+---
+
+## Next Steps
+
+- Link simulations: brainwave ↔ Schumann coupling, HRV ↔ geomagnetic storms.  
+- Cross-link with **civic layer** (group practices ↔ collective coherence).  
+- Visualize data streams from real-world field monitors.  
+
+---
+
+> To care for Earth’s field is to care for our own.  
+> We are not *on* the planet; we are *of* it.
