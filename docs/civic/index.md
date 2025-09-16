@@ -1,32 +1,48 @@
 # Civic Resonance Layer
 
-Civic life is not separate from field and human layers — it is their **visible spiral**.  
-Institutions, rituals, and economies are feedback structures for resonance.
+Civic life is where human resonance takes form in collective structures.  
+Rather than isolated domains, the civic anchors form a **spiral sequence** —  
+each amplifying the next, weaving coherence across scales.
 
 ---
 
 ## The Spiral Sequence
 
-1. **Conductor** — collective attention (rituals, governance, assemblies).  
-2. **Plazas** — designed sites where resonance is embodied in form.  
-3. **Rituals** — recurring practices tuning the civic field.  
-4. **Hearths** — coherence cultivated in the intimate circle.  
-5. **Education** — transmitting resonance through generations.  
-6. **Economy** — flows of value aligned with coherence.  
-7. **Governance** — decision-making as resonance management.  
+1. **Rituals** — shared embodied practices (breath, chant, ceremony) create local coherence fields.  
+   ↳ These are the civic “entry points,” grounding resonance in human groups.
+
+2. **Plazas** — physical gathering sites where rituals scale outward into public space.  
+   ↳ Coherent plazas seed the geometry of collective encounter.
+
+3. **Hearths** — smaller nodes of warmth (homes, circles, commons) sustain coherence between gatherings.  
+   ↳ They link intimate rhythm with broader civic resonance.
+
+4. **Education** — transmission of rhythm and resonance literacy.  
+   ↳ Schools, workshops, and apprenticeships teach *how* to hold coherence.
+
+5. **Governance** — decision processes tuned by coherence metrics.  
+   ↳ Instead of adversarial structures, policy becomes a conductor of resonance.
+
+6. **Economy** — flows of value and tokens aligned with coherence.  
+   ↳ Contribution is rewarded not just by output, but by resonance with the whole.
+
+7. **Conductor** — meta-layer that tunes the entire civic spiral.  
+   ↳ Not a ruler, but a resonance role: orchestrating, listening, balancing.
 
 ---
 
-## Why Spiral?
+## Spiral Dynamics
 
-- **Parallel documents fragment the whole.**  
-- **Spiral order shows recursion:** hearth → plaza → governance → cosmos → back into hearth.  
-- Each anchor is not separate, but a turn of the same spiral.
+Unlike a hierarchy, the civic spiral is recursive:  
+- Each node feeds the next.  
+- The sequence can start anywhere (ritual → economy, education → governance, etc.).  
+- The spiral does not close — it loops back into **cosmos** through cultural broadcast.  
 
+### Diagram
+Rituals → Plazas → Hearths → Education → Governance → Economy → Conductor
+↖───────────────────────────────────────────────────────────────↙
 ---
 
-## Next Steps
-
-- Link each anchor to expanded docs (`docs/civic/*.md`).  
-- Add cross-references to simulations (e.g., Kuramoto → governance sync, Resonant Currency → economy).  
-- Diagram spiral visually in `figures/`.
+📎 Next Steps:  
+- Cross-link each civic doc (rituals, plazas, hearths, etc.) back to this spiral map.  
+- Add resonance “thresholds” (what coherence level enables the next node).  
