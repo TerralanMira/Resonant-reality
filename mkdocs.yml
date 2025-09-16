@@ -1,55 +1,57 @@
 site_name: Resonant Reality
-site_description: "A living atlas of resonance — simulations, field anchors, and civic designs for coherence."
+site_description: A living atlas of resonance — from human breath to galactic spirals.
 site_author: Terralan Mira
 repo_url: https://github.com/TerralanMira/Resonant-reality
-repo_name: Resonant-reality
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.expand
-    - search.suggest
+    - navigation.sections
+    - navigation.top
     - search.highlight
-    - toc.integrate
+    - search.suggest
   palette:
-    - scheme: default
-      primary: indigo
-      accent: teal
-    - scheme: slate
-      primary: teal
-      accent: amber
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
+    primary: indigo
+    accent: amber
 markdown_extensions:
+  - toc:
+      permalink: true
   - admonition
   - codehilite
   - footnotes
   - tables
-  - toc:
-      permalink: true
+  - md_in_html
 
 nav:
   - Home: index.md
+
   - Simulations:
       - Overview: docs/sims/index.md
+      - Quickstart: docs/sims/quickstart.md
       - Spiral Resonance: docs/sims/spiral_resonance.md
       - Kuramoto Sync: docs/sims/kuramoto.md
       - LC Grid Modes: docs/sims/lc_grid.md
       - Schumann Coupling: docs/sims/schumann.md
       - Resonant Currency: docs/sims/resonant_currency.md
+
   - Field:
-      - Earth Anchors: docs/field/earth/data.md
+      - Overview: docs/field/index.md
+      - Earth Data: docs/field/earth/data.md
       - Human Resonance: docs/field/human.md
+
   - Civic:
+      - Overview: docs/civic/index.md
       - Conductor: docs/civic/conductor.md
       - Plazas: docs/civic/plazas.md
       - Rituals: docs/civic/rituals.md
+      - Hearths: docs/civic/hearths.md
       - Governance: docs/civic/governance.md
       - Education: docs/civic/education.md
       - Economy: docs/civic/economy.md
-      - Hearths: docs/civic/hearths.md
-      - Theory of Resonance: docs/theory.md
-  - About:
-      - Vision: docs/about/vision.md
-      - Theory: docs/about/theory.md
+
+  - Cosmos:
+      - Overview: docs/cosmos/index.md
+      - Schumann Resonances: docs/cosmos/schumann.md
+      - Solar Rhythms: docs/cosmos/solar.md
+      - Lunar Tides: docs/cosmos/lunar.md
+      - Galactic Spirals: docs/cosmos/galactic.md
