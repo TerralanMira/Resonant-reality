@@ -1,41 +1,63 @@
-# Earth Sublayer — Geomagnetic Resonance
+# Earth Resonance Layer
 
-Earth hums.  
-The geomagnetic field forms a resonant cavity between ground and ionosphere,  
-anchoring life in rhythm.
-
----
-
-## Core structures
-- **Schumann Resonances** — standing waves in the Earth–ionosphere cavity (~7.83 Hz fundamental).  
-- **Magnetic Sites** — places of unusually high geomagnetic activity, often tied to myth.  
-- **Ley-like Networks** — alignments of sacred sites may reflect resonant pathways.  
+The Earth itself is a resonant body — a living circuit of stone, water, air, and fire.  
+Its geomagnetic field, crustal lattice, and atmospheric cavity form the substrate  
+for every rhythm of human and biospheric life.
 
 ---
 
-## Data
-See [data.md](data.md) for structured site lists.  
-Format: name, lat, lon, notes.
+## Core Resonances
+
+- **Schumann Modes**  
+  - Fundamental ~7.83 Hz, harmonics at ~14, 20, 26 Hz.  
+  - Overlaps human brain alpha–theta and heart coherence bands.  
+  - Acts as a global “carrier wave” for biological synchronization.  
+
+- **Geomagnetic Pulses**  
+  - Storms, calm days, polarity reversals.  
+  - These modulate HRV, cognition, even collective mood.  
+  - Serves as a planetary metronome, slow but powerful.  
+
+- **Ley Currents & Tellurics**  
+  - Ancient sites aligned with conductive paths in the crust.  
+  - Megaliths, temples, and pyramids often sit at nodal points.  
+  - Suggests civilizations tapped Earth’s lattice for coherence.  
 
 ---
 
-## Simulations
-- [Schumann Coupling](../../sims/schumann.md)  
-  Visualizes entrainment near 7.83 Hz.
+## Entrainment Pathways
 
-- [LC Grid Modes](../../sims/lc_grid.md)  
-  Abstract version of Earth’s cavity modes.
+- **Human ↔ Earth**  
+  Meditation, drumming, chanting, and ritual align human cycles with planetary oscillations.  
 
----
+- **Civilization ↔ Earth**  
+  Cities act as amplifiers or dampers.  
+  Layouts that honor geomagnetic and hydrological flows create resonance;  
+  extractive grids fracture it.  
 
-## Why it matters
-Earth’s hum may entrain biological rhythms:  
-- Alpha brain waves (~8–12 Hz)  
-- Heart coherence rhythms (~0.1 Hz harmonics)  
-
-Ancient cultures tuned to this hum: temples, stone circles, plazas often sit at resonant nodes.
+- **Earth ↔ Cosmos**  
+  Solar winds, lunar tides, and galactic rays continuously re-tune the geomagnetic envelope.  
 
 ---
 
-> ✨ *Recursion:* As above, so below.  
-Geomagnetic resonance → brainwave resonance → social resonance.
+## Anchors & Blueprints
+
+- Cross-link to **`docs/field/earth/data.md`** (catalog of resonant sites).  
+- Cross-link to **`docs/field/earth/schumann.md`** (detailed entrainment window).  
+- Cross-link to **`docs/field/earth/lc_grid.md`** (geometry → resonance spectrum).  
+
+---
+
+## Implications
+
+- Human wellness is inseparable from planetary wellness.  
+- Civilization design must weave with Earth’s lattice, not against it.  
+- Resonant cities become nodal extensions of Earth’s circuitry.  
+
+---
+
+## Next Steps
+
+- Add site-specific case studies: Giza Plateau, Chaco Canyon, Stonehenge, Uluru.  
+- Link to **simulations**: LC grid modes, Schumann coupling.  
+- Develop visual overlays: resonance maps, ley line circuits, node activations.
