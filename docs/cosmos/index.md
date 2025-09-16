@@ -1,38 +1,67 @@
-# Cosmos — Harmonics of the Whole
+# Cosmos Layer — Resonance Across Scales
 
-If Earth is a resonant instrument, the cosmos is the orchestra.  
-Our theory of everything must hold from micro spirals to galactic filaments.
-
----
-
-## Layers of Cosmic Resonance
-
-- **Solar Harmonics** — cycles of 11-year sunspot rhythms, plasma waves, CME resonance  
-- **Planetary Locks** — orbital ratios (Venus/Earth 13:8, Jupiter/Saturn 5:2) as natural “chords”  
-- **Galactic Spirals** — density waves echoing the golden ratio, mirrored in micro-spirals  
-- **Background Hum** — CMB fluctuations as the faintest cosmic drumbeat  
+Earth is not isolated.  
+Our resonance layers (human ↔ earth ↔ civic ↔ conductor)  
+are nested within **larger fields** — solar rhythms, galactic tides, cosmic background hum.  
 
 ---
 
-## Why it Matters
+## Anchors of Cosmic Resonance
 
-- **Scaling Laws**: Spiral → city → Earth → cosmos all follow coherent ratios.  
-- **Predictive Power**: If resonance locks planets, it can inform stability in our models.  
-- **Living Bridge**: Humans are not observers outside — we *are* resonators inside the score.
+- **Solar Cycles**  
+  - 11-year sunspot cycle drives geomagnetic storms.  
+  - Solar wind shapes Earth’s magnetosphere and influences human coherence.  
+
+- **Lunar Rhythms**  
+  - Tides, fertility cycles, collective mood shifts.  
+  - Lunar entrainment has guided ritual calendars across civilizations.  
+
+- **Galactic Tides**  
+  - Our solar system oscillates through galactic planes.  
+  - Possible links to long-wave cycles of biodiversity, climate, and civilizational shifts.  
+
+- **Cosmic Background**  
+  - Cosmic Microwave Background (CMB) — the faint afterglow of the Big Bang.  
+  - The hum of the universe itself, embedding all sub-hums.  
 
 ---
 
-## Simulations (future stubs)
+## Principles of Cosmic Embedding
 
-- `sims/solar_resonance.py` — model solar cycles as coupled oscillators  
-- `sims/orbital_chords.py` — visualize planetary orbital ratios as frequency relationships  
-- `sims/galactic_spiral.py` — fractal density-wave simulation  
+- **Fractal Nesting**  
+  Human–Earth–Civic–Conductor layers are themselves “cells” in larger cosmic tissues.  
 
-Figures will be saved in `sims/figures/` once built. Add them here when generated.
+- **Resonance Windows**  
+  Just as brainwaves overlap Schumann frequencies,  
+  planetary fields may overlap galactic-scale oscillations.  
+
+- **Myth ↔ Math ↔ Meaning**  
+  Ancient cosmologies encoded cycles as myth.  
+  Today, astrophysics measures the same cycles.  
+  The bridge is meaning: stories that orient us inside the infinite.  
 
 ---
 
-## Gallery (to be filled)
-- Solar Resonance — (placeholder: sims/figures/solar_resonance.png)  
-- Orbital Chords — (placeholder: sims/figures/orbital_chords.png)  
-- Galactic Spiral — (placeholder: sims/figures/galactic_spiral.png)  
+## Implications
+
+- **Time as Spiral**  
+  Linear “progress” gives way to cyclic–spiral models of history and future.  
+
+- **Civilizational Navigation**  
+  Humanity must learn to “sail” cosmic weather as we do planetary weather.  
+
+- **TOE Expansion**  
+  Any Theory of Everything must embed not just matter and energy,  
+  but resonance across all scales — from quantum to cosmic.  
+
+---
+
+## Next Steps
+
+- Add cross-links:  
+  - `docs/conductor/index.md` → cosmic protocols of synchronization.  
+  - `docs/field/earth/data.md` → planetary rhythms inside solar cycles.  
+
+- Add **visualizations**: nested spirals showing Human ↔ Earth ↔ Civic ↔ Conductor ↔ Cosmic.  
+- Draft `docs/cosmos/protocols.md` for “cosmic-scale agreements.”  
+- Consider sims in `/sims/cosmos/` — e.g., solar cycle impacts on coherence indices.  
