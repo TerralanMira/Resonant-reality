@@ -40,6 +40,34 @@ They let us test intuitions, reveal thresholds, and visualize coherence flows.
 
 ## Spiral Loop
 
+The simulations are not isolated experiments —  
+they’re **micro mirrors** of the full resonance circuit.
+
+```mermaid
+flowchart LR
+    Earth(("🌍 Earth")) <--> Human(("🧍 Human"))
+    Human <--> Civic(("🏛 Civic"))
+    Civic <--> Cosmos(("✨ Cosmos"))
+    Cosmos <--> Earth
+
+    Earth --- |spectra, Schumann| Human
+    Human --- |entrainment, HRV| Civic
+    Civic --- |policy, design| Cosmos
+    Cosmos --- |archetype, timing| Earth
+Cross-Mapping Simulations
+	•	Spiral Resonance → human ↔ civic ↔ cosmos (fractal growth, myth → math).
+	•	Kuramoto Sync → human ↔ civic (entrainment of many oscillators).
+	•	LC Grid Modes → earth ↔ civic (geometry shapes spectrum).
+	•	Schumann Coupling → earth ↔ human (brainwaves overlap Schumann window).
+	•	Resonant Currency → civic ↔ human (policy tuning to coherence index).
+
+Each micro-model is a window onto the spiral whole.
+Run together, they make the feedback circuit visible.
+
+---
+
+## Spiral Loop
+
 Together these sims form a **resonance circuit**:  
 - From **human oscillators (Kuramoto)** →  
 - To **geometric gathering (Spiral)** →  
