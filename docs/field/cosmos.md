@@ -1,67 +1,51 @@
-# Cosmic Resonance Layer
+# Cosmos Layer
 
-> *The field does not end at Earth’s edge — it extends into the solar system, the galaxy, and the cosmic background.*
+> The Spiral widens: 🌍 Earth ↔ 🧬 Human ↔ 🏛️ Civic ↔ ✨ Cosmos.  
+> The largest field — stars, galaxies, background hum — sets the ultimate beat.  
 
 ---
 
 ## Anchors
 
-- **Solar Resonance**
-  - Sun’s cycles (~11-year sunspot cycle) entrain Earth’s magnetic and climatic rhythms.  
-  - Solar flares and coronal mass ejections ripple through Earth’s magnetosphere and affect HRV, sleep, and collective mood.  
-  - Solar acoustic oscillations (“helioseismology”) echo Schumann-type modes on a stellar scale.  
+- **Schumann ↔ Solar ↔ Galactic**  
+  Earth’s resonance is nested in solar cycles (11-year sunspots, solar wind)  
+  and galactic rhythms (cosmic ray flux, spiral arm crossings).  
 
-- **Planetary Harmonics**
-  - Orbital ratios form near-integers: Jupiter–Saturn 5:2, Earth–Venus 13:8.  
-  - Ancient traditions saw these as the “music of the spheres.”  
-  - Tidal resonances (Moon–Earth) drive ocean rhythms and menstrual cycles.  
+- **Celestial Alignments**  
+  Ancient cultures built observatories, temples, and rituals  
+  to sync human life with equinoxes, solstices, and star risings.  
 
-- **Galactic Scale**
-  - Milky Way arms rotate with wave-like density patterns — cosmic-scale spirals.  
-  - Cosmic rays modulated by galactic position influence Earth’s cloud cover and mutation rates.  
-  - The galactic magnetic field is a backdrop Earth’s own field “rides” within.  
-
-- **Cosmic Microwave Background (CMB)**
-  - Residual hum of the Big Bang at ~160 GHz.  
-  - Seeds of all later resonance structures: galaxies, clusters, superclusters.  
-  - Even here, patterns: dipoles, anisotropies, fractal distributions.
+- **Background Fields**  
+  Cosmic Microwave Background (CMB) is the faint hum of the early universe.  
+  Today, gravitational waves and cosmic neutrino background are new layers of the score.  
 
 ---
 
-## Resonant Properties
+## Cosmos in the Spiral
 
-- **Nested Oscillations:** Solar ↔ planetary ↔ galactic ↔ universal cycles.  
-- **Downward Causation:** cosmic events (flares, supernovae, galactic tides) ripple into Earth biology and human affairs.  
-- **Upward Feedback:** collective human coherence, in principle, radiates outward — a local contribution to the galactic field.  
+- **Feeds Earth**:  
+  Solar storms alter geomagnetic resonance; planetary alignments modulate tides.  
+
+- **Feeds Human**:  
+  Circadian rhythms entrain to day-night cycles, seasonal affective states follow orbital tilt.  
+
+- **Feeds Civic**:  
+  Calendars, festivals, and myth are all cosmically keyed.  
+  Civilizations rise and fall tracking cycles of sun, stars, and sky.  
 
 ---
 
 ## Implications
 
-- Earth systems are inseparable from cosmic rhythms.  
-- Human wellness is tied not just to planetary but *stellar and galactic weather*.  
-- Civic design could include “cosmic windows”: observatories, alignments, rituals tied to solstices, conjunctions, and eclipses.  
-- Ethics becomes cosmological: human action has galactic echo.  
-
----
-
-## Visual Metaphor
-Cosmos
-↑ ↓
-Earth
-↑ ↓
-Human
-↑ ↓
-Civic
-A recursive ladder — every rung echoes infinity.
+- Cosmos is not “background” — it is the largest **metronome**.  
+- Cosmic cycles imprint fractally on physiology, culture, and ecology.  
+- Civilization can be designed as a **cosmic resonator**: architecture, calendars, and rituals aligned to universal rhythms.  
 
 ---
 
 ## Next Steps
 
-- Add simulation stubs:
-  - Planetary orbital resonance visualizer.  
-  - Solar cycle ↔ HRV correlation.  
-  - Galactic spiral resonance toy model.  
-- Link into **Infinity Equation spine**.  
-- Cross-link to `docs/core/infinity_equation.md` as cosmic closure.
+- Link with **simulations** (e.g. Schumann Coupling, solar-cycle overlays).  
+- Add case studies: ancient observatories (Stonehenge, Chaco, Giza),  
+  modern cosmic rituals (space exploration, astronomy festivals).  
+- Develop “Cosmic Calendar” visualization linking personal, civic, and cosmic cycles.  
