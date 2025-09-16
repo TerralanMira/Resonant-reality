@@ -1,58 +1,34 @@
-# Civic Economy — Resonant Currency
+# Economy — Circulation as Resonance
 
-Economy is resonance measured in tokens.  
-A resonant economy doesn’t just move goods — it amplifies coherence.  
-Currency becomes a civic conductor: expanding when collective rhythm is strong,  
-contracting when noise threatens stability.  
+Economy is the flow of energy, value, and resources — the bloodstream of the civic body.  
+It is healthy when circulation is smooth, coherent, and attuned to the whole.  
 
 ---
 
-## Core Idea: Policy as Conductor
+## Flow from Governance
 
-- **Supply and demand** are not enemies but dancers in resonance.  
-- When coherence (C) is high, issuance expands to reward contribution.  
-- When price drifts, contraction reins it back toward balance.  
-- The economy becomes a feedback instrument tuned to civic harmony.
+When governance resonates, it creates stable rhythms.  
+Economy translates those rhythms into circulation — balancing sufficiency with abundance.  
 
 ---
 
-## Simulation Anchor
+## Core Anchors
 
-See **[`sims/resonant_currency.py`](../../sims/resonant_currency.py)**.
+- **Resonant Currency** — tokens that expand or contract with coherence, not arbitrary growth.  
+- **Mutual Credit** — trust networks that amplify local resonance instead of extractive flows.  
+- **Commons as Reservoirs** — shared pools of value that buffer shocks and stabilize cycles.  
 
-- **Outputs**:  
-  - `sims/figures/resonant_currency_price.png`  
-  - `sims/figures/resonant_currency_supply.png`  
+---
 
-Run it:
+## Spiral into Education
 
-```bash
-python sims/resonant_currency.py
-python sims/resonant_currency.py --T 600 --agents 400 --alpha 0.08 --beta 0.06 --seed 7
-	•	Interpretation:
-	•	Price ~ 1.0 = tuned instrument
-	•	Expanding supply = abundance in coherence
-	•	Contracting supply = stability in turbulence
+Circulation creates resources for transmission.  
+Economy flows into education — where knowledge, skill, and culture are cultivated for coherence renewal.  
 
-⸻
+---
 
-Civic Implications
-	•	Incentive Design: Reward contribution to coherence, not just extraction.
-	•	Stability: Feedback loop keeps value anchored near 1.0.
-	•	Scaling: Small communities can test currencies tuned to their rhythms.
-	•	Policy: Shifts from external control → participatory resonance.
+## Next Steps
 
-⸻
-
-Civic Design Principles
-	•	Treat monetary policy as an instrument, not a lever.
-	•	Anchor issuance to coherence signals (HRV, participation, geomagnetic calm).
-	•	Use transparency: show graphs of supply, price, coherence in civic halls.
-	•	Experiment in sandboxes before scaling to city-wide economies.
-
-⸻
-
-Next Steps
-	•	Cross-link with docs/sims/resonant_currency.md for full model notes.
-	•	Collect case studies: community currencies, time banks, cooperative credit.
-	•	Explore: Can a global resonant currency stabilize planetary turbulence?
+- Cross-link to **`docs/civic/education.md`**.  
+- Add case studies: local tokens, cooperative banks, regenerative enterprises.  
+- Link to simulations in **`sims/resonant_currency.py`**.
