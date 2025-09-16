@@ -1,45 +1,32 @@
-# Civic Layer — Resonant Societies
+# Civic Resonance Layer
 
-Civic life is more than infrastructure — it is resonance made visible.  
-Plazas, rituals, governance, and economies all carry frequency patterns  
-that either amplify coherence or scatter it.
-
-This layer ties the **field** (human + Earth resonance)  
-to the **structures of collective life** (cities, institutions, currencies).
+Civic life is not separate from field and human layers — it is their **visible spiral**.  
+Institutions, rituals, and economies are feedback structures for resonance.
 
 ---
 
-## Anchors
+## The Spiral Sequence
 
-- **[Plazas](plazas.md)**  
-  Gathering spaces designed as coherence amplifiers.  
-
-- **[Rituals](rituals.md)**  
-  Collective practices as entrainment technologies.  
-
-- **[Governance](governance.md)**  
-  Decision-making as resonance choreography.  
-
-- **[Economy](economy.md)**  
-  Exchange systems tuned to coherence rather than extraction.  
+1. **Conductor** — collective attention (rituals, governance, assemblies).  
+2. **Plazas** — designed sites where resonance is embodied in form.  
+3. **Rituals** — recurring practices tuning the civic field.  
+4. **Hearths** — coherence cultivated in the intimate circle.  
+5. **Education** — transmitting resonance through generations.  
+6. **Economy** — flows of value aligned with coherence.  
+7. **Governance** — decision-making as resonance management.  
 
 ---
 
-## Why It Matters
+## Why Spiral?
 
-- Civic design can stabilize or destabilize group resonance.  
-- Rituals embed coherence into culture across generations.  
-- Economies can measure success by wellbeing and resonance, not only growth.  
+- **Parallel documents fragment the whole.**  
+- **Spiral order shows recursion:** hearth → plaza → governance → cosmos → back into hearth.  
+- Each anchor is not separate, but a turn of the same spiral.
 
 ---
 
 ## Next Steps
 
-- Add case studies of resonance-informed urban design.  
-- Link simulations (e.g., resonant currency dynamics).  
-- Explore “Conductor Layer” as civic–cosmic bridge.  
-
----
-
-> A resonant society is not a utopia —  
-> it is a rhythm we remember together.
+- Link each anchor to expanded docs (`docs/civic/*.md`).  
+- Add cross-references to simulations (e.g., Kuramoto → governance sync, Resonant Currency → economy).  
+- Diagram spiral visually in `figures/`.
