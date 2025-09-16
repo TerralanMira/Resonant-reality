@@ -17,6 +17,7 @@ Think of them as “portals” where the invisible becomes visible.
 - Law Constraint — `python sims/law_constraint.py`
 - Media Coupler — `python sims/media_coupler.py`
 - - [Reciprocity Network](reciprocity_network.md) — economy as balanced give/receive flows
+  - 	•	Resonant Currency — policy as conductor for coherence-stable value
 ---
 
 ## Quickstart
