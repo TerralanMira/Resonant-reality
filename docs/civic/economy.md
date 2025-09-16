@@ -1,62 +1,85 @@
-# Resonant Economy
+# Civic Economy — Resonance as Currency
 
-The economy is not just trade — it is the flow of energy, matter, and meaning.  
-When tuned to resonance, it shifts from extraction and competition  
-toward balance, reciprocity, and regenerative cycles.
+The economy is not an abstract ledger; it is the flow of resonance embodied.  
+Trust, reciprocity, and shared rhythm are the real infrastructure beneath markets.  
 
----
-
-## Anchors
-
-- **Reciprocity Circles**  
-  Exchanges framed not in currency alone, but in cycles of giving and returning.  
-  → Inspired by Indigenous gift economies and mutual aid networks.  
-  → Anchors community trust, resilience, and non-monetary wealth.
-
-- **Commons Stewardship**  
-  Resources (land, water, airwaves, digital knowledge) as shared inheritance.  
-  → Governed collectively, regenerated before extracted.  
-  → Resonant principle: flows must return to the field that sustains them.
-
-- **Local–Global Resonance**  
-  Small-scale, resilient economies linked in fractal patterns.  
-  → Each neighborhood can sustain basics, while connected globally through exchange.  
-  → Avoids both isolation and dependency.
+When coherence rises — in community, ecology, or culture — value multiplies.  
+When it collapses, no amount of tokens or credit can patch the decay.
 
 ---
 
-## Design Patterns
+## Anchors of a Resonant Economy
 
-- **Circular Flows**  
-  Waste → input for new cycles.  
-  Resonant cities design metabolism like ecosystems, with no “outside.”
+- **Trust as Currency**  
+  Exchange is possible because trust reduces friction.  
+  → Reputation, reliability, and shared rhythm are foundational capital.  
 
-- **Timebanking & Mutual Credit**  
-  Hours, skills, and care labor valued equally with financial capital.  
-  → Creates a substrate of trust, reducing reliance on debt-money.
+- **Flow as Wealth**  
+  Wealth is not hoarded stock but circulating flow.  
+  → Like blood in the body, circulation keeps systems alive.  
 
-- **Resonant Currency**  
-  Local currencies or digital tokens pegged to ecological / social health metrics.  
-  → Value rises with collective coherence, not speculation.
+- **Equity as Resonance**  
+  Resonance cannot exist if some are silenced.  
+  → Inclusive structures create stable long-term growth.  
 
-- **Civic Dividend**  
-  Surpluses from commons (energy, land rents, knowledge licensing) redistributed directly to citizens.  
-  → Reframes prosperity as shared resonance, not private hoarding.
-
----
-
-## Implications
-
-- Economic activity can be reframed as a *tuning practice* —  
-  adjusting flows to avoid dissonance, amplify coherence, and regenerate sources.  
-- Crises (inflation, scarcity, inequality) often reveal blocked or distorted flows.  
-  Resonant framing emphasizes restoring balance, not imposing scarcity.
+- **Resilience as Buffer**  
+  Coherence requires adaptive slack.  
+  → Reserves, commons, and mutual aid act as “dampers” against shocks.  
 
 ---
 
-## Next Steps
+## Currency as Conductor
 
-- Link to **`docs/civic/governance.md`** (who decides stewardship).  
-- Simulate resonant exchange using network flow models in **`sims/`**.  
-- Document real-world pilots: community currencies, commons trusts, regenerative co-ops.
-See: Resonant Currency simulation — tune α (growth) and β (stability) to explore resilience.
+Resonant economies require instruments tuned to coherence.  
+Instead of fiat or extractive tokens, we imagine a **Resonant Currency**:
+
+- Policy is not set top-down but responds dynamically to a **coherence index** (C ∈ [0,1]).  
+- When coherence is high, issuance expands to reward contribution.  
+- When coherence is low, policy prioritizes stability and contraction.  
+
+This transforms money from a blunt exchange tool into a **conductor of resonance**.
+
+---
+
+## Simulation Bridge
+
+We prototype this idea with a toy model:  
+[`sims/resonant_currency.py`](../../sims/resonant_currency.py)
+
+- Agents contribute more when coherence is high.  
+- Supply adjusts with two levers:  
+  - **α (alpha)**: expansion sensitivity to coherence.  
+  - **β (beta)**: contraction sensitivity to price deviation.  
+- Price is stabilized near 1.0 while allowing reward flows.  
+
+Run it yourself:
+
+```bash
+python sims/resonant_currency.py
+python sims/resonant_currency.py --T 600 --agents 400 --alpha 0.08 --beta 0.06 --seed 7
+Outputs:
+	•	sims/figures/resonant_currency_price.png — price vs. coherence.
+	•	sims/figures/resonant_currency_supply.png — circulating supply.
+
+⸻
+
+Resonant Design Implications
+	•	Micro ↔ Macro
+The same way the heart entrains cells, currency policy entrains communities.
+	•	Visible Feedback
+Simulations provide dashboards where coherence becomes tangible —
+allowing policy to be debated in resonance, not ideology.
+	•	Collective Autonomy
+Communities can fork their own “tuning” — adjusting α and β as cultural choice.
+	•	Ecological Parallel
+Just as ecosystems recycle nutrients, resonant currency recycles value.
+Decay is not waste but compost for renewal.
+
+⸻
+
+Next Steps
+	•	Add case studies: time-banks, mutual credit, indigenous gift economies.
+	•	Extend the simulation: multi-community interaction, shocks, policy diversity.
+	•	Cross-link with docs/sims/resonant_currency.md for deeper math notes.
+	•	Tie into governance docs — how policy levers are set and adjusted.
+
