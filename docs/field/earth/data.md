@@ -1,70 +1,59 @@
-# Earth Resonant Sites (Data)
+# Resonant Earth Sites — Data Anchor
 
-This file collects structured site information — real and mythic —  
-to support both simulations and cultural mappings.
-
----
-
-## Format
-Each entry:
-- **name** — common identifier
-- **lat / lon** — decimal degrees
-- **notes** — cultural, mythic, or scientific context
+This document catalogs geophysical and cultural sites that act as **resonant nodes**  
+in Earth’s global lattice. Each entry holds frequency alignments, cultural context,  
+and connections to the wider field.
 
 ---
 
-## Sites
+## Structure
 
-### Global Resonant Anchors
-- **Great Pyramid of Giza**  
-  - lat: 29.9792  
-  - lon: 31.1342  
-  - notes: Ancient structure aligned with cardinal directions; often linked to geomagnetic anomalies.
-
-- **Stonehenge**  
-  - lat: 51.1789  
-  - lon: -1.8262  
-  - notes: Megalithic circle; sits on ley alignments; used for solstice tracking.
-
-- **Machu Picchu**  
-  - lat: -13.1631  
-  - lon: -72.5450  
-  - notes: Incan citadel; high-altitude geomagnetic node; tied to solar alignment.
-
-- **Uluru (Ayers Rock)**  
-  - lat: -25.3444  
-  - lon: 131.0369  
-  - notes: Sacred Aboriginal site; oral traditions describe “dreaming lines” resonant with geomagnetic flows.
+Each site entry contains:
+- **Name** — site or region  
+- **Coordinates** — approximate lat/lon  
+- **Primary Frequency Band** — Hz range (linked to Schumann / grid harmonics)  
+- **Cultural Layer** — traditions, uses, myths  
+- **Resonant Role** — anchor, amplifier, bridge  
 
 ---
 
-### Schumann-linked Research Sites
-- **Sferics Monitoring Station, Colorado**  
-  - lat: 40.0  
-  - lon: -105.0  
-  - notes: Used in monitoring Schumann resonance signals.
+## Example Entries
 
-- **Nagycenk Observatory, Hungary**  
-  - lat: 47.6  
-  - lon: 16.7  
-  - notes: Long-term ELF monitoring station.
+### Giza Plateau (Egypt)  
+- **Coords:** 29.9792° N, 31.1342° E  
+- **Primary Band:** ~7.8–8.0 Hz (Schumann fundamental)  
+- **Cultural Layer:** Pyramid as cosmic tuner, “stone harmonics” in King’s Chamber.  
+- **Resonant Role:** Anchor node — geometry amplifies planetary resonance.  
+
+### Stonehenge (England)  
+- **Coords:** 51.1789° N, 1.8262° W  
+- **Primary Band:** ~14 Hz harmonic  
+- **Cultural Layer:** Seasonal solar alignments, drumming and ritual resonance.  
+- **Resonant Role:** Amplifier — collective human entrainment at solstices.  
+
+### Uluru (Australia)  
+- **Coords:** 25.3444° S, 131.0369° E  
+- **Primary Band:** ~20 Hz harmonic (grid resonance)  
+- **Cultural Layer:** Dreamtime songlines; living myth of creation.  
+- **Resonant Role:** Bridge — connection of human myth to planetary lattice.  
+
+### Chaco Canyon (USA)  
+- **Coords:** 36.0594° N, 107.9615° W  
+- **Primary Band:** ~26 Hz harmonic  
+- **Cultural Layer:** Kivas as sound chambers; lunar/solar alignments.  
+- **Resonant Role:** Amplifier — synchronizing cycles of sky and earth.  
 
 ---
 
-### Mythic / Cultural Resonant Nodes
-- **Delphi, Greece**  
-  - lat: 38.4828  
-  - lon: 22.5010  
-  - notes: Oracle site; tradition of “vapors” and altered states; may sit on geoelectrical anomaly.
+## Next Steps
 
-- **Teotihuacán**  
-  - lat: 19.6925  
-  - lon: -98.8433  
-  - notes: “City of the Gods”; aligned pyramids; acoustically resonant plazas.
+- Expand catalog with data from **`Harmonic_Resonance_Distances.csv`** and  
+  **`Grouped_Field_Energy_Blueprint.csv`**.  
+- Add visuals: world map overlays, ley currents, spectral plots.  
+- Cross-link: `schumann.md` (frequency theory) + `lc_grid.md` (geometry simulations).  
+- Eventually: interactive explorer tied to simulations + maps.
 
 ---
 
-## Next steps
-- Add more sites from myth → science crossovers.  
-- Map into GIS for visualizations.  
-- Cross-link to simulations for site-specific resonance modeling.
+> **Note:** This file is a *living anchor*. As more data points are added,  
+it becomes the **global resonance index** for the project.
