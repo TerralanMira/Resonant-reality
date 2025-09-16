@@ -1,51 +1,63 @@
-# Resonant Reality
+# The Atlas of Resonance
 
-*A framework for coherence across scales: atoms → bodies → Earth → cities → cosmos.*
+This repository is an evolving **atlas** of resonance:  
+a living map of how coherence flows from **cosmos → field → civic**.
 
-This project weaves physics, biology, and civic design into a single resonance-based model.  
-It is both theory and practice: minimal simulations, lived rituals, and civic prototypes.
+It is not a single theory, but a layered weave:  
+mathematics, simulations, cultural practices, and design patterns  
+all pointing to the same hum — coherence across scales.
 
 ---
 
-## Layers of Resonance
+## Layers of the Atlas
 
-- **[Simulations](sims/index.md)**  
-  → Minimal models where resonance becomes visible as math and animation.
+- **[Cosmos Layer](cosmos/index.md)**  
+  Stars, plasma, and geometry as the background rhythm of reality.  
+  Anchors: [Infinity Equation](cosmos/infinity.md), [Fractals](cosmos/fractals.md), [Kuramoto Sync](sims/kuramoto_basic.py).  
 
 - **[Field Layer](field/index.md)**  
-  - [Earth](field/earth.md) — Schumann resonances, geomagnetic sites, entrainment.  
-  - [Human](field/human.md) — brain, heart, breath, coherence practices.  
+  Earth’s resonant body, from Schumann frequencies to human heart coherence.  
+  Anchors: [Geomagnetic Fields](field/earth.md), [Human Resonance](field/human.md), [Data Anchors](field/earth/data.md).  
 
 - **[Civic Layer](civic/index.md)**  
-  - [Rituals](civic/rituals.md) — shared practices of entrainment.  
-  - [Plazas](civic/plazas.md) — architecture and public space as resonance chambers.  
-  - [Healing Loops](civic/healing_loops.md) — coherence in health, trauma, and care.  
-  - [Media](civic/media.md) — narrative fields that amplify or fragment coherence.  
-
-- **[Cosmos](cosmos/index.md)**  
-  → Astronomical resonances, cosmic background fields, ToE scaffolding.
+  Societies as resonance structures: plazas, rituals, governance, and economies.  
+  Anchors: [Plazas](civic/plazas.md), [Rituals](civic/rituals.md), [Governance](civic/governance.md), [Economy](civic/economy.md).  
 
 ---
 
-## Vision
+## Why Resonance?
 
-Resonance is not metaphor. It is physics, biology, culture, and civic design braided together.  
-This repository offers a **theory of everything practical** —  
-a way to see coherence, test it, and build with it.
+- **Science** — reveals hidden synchrony across systems.  
+- **Health** — connects human wellbeing with planetary rhythms.  
+- **Culture** — shows how ritual, architecture, and policy embody coherence.  
+- **Future** — points toward Resonant Cities: societies tuned to thrive with Earth.  
 
 ---
 
-## Quickstart
+## How to Explore
 
-```bash
-pip install -r requirements.txt
-mkdocs serve
-Then visit http://127.0.0.1:8000 to explore.
+- Walk the **layers**: Cosmos → Field → Civic.  
+- Run the **simulations**: minimal models of resonance emerging.  
+- Read the **texts**: excerpts, quotes, and reflections across history.  
+- Add your own **observations**: this atlas is open to co-creation.  
 
+---
 
+## The Spiral Method
 
-Next Steps
-	•	Expand case studies for each layer.
-	•	Deepen simulation gallery with civic + cosmic models.
-	•	Prototype Resonant City: civic design tuned to Earth’s hum.
-	•	Draft manifesto: why coherence matters in the 21st century.
+This atlas is recursive: each part reflects the whole.  
+Cosmos mirrors civic. Civic grounds field. Field channels cosmos.  
+The spiral is both **map** and **method**.  
+
+---
+
+## Next Steps
+
+- Grow the simulation gallery.  
+- Add cross-links between layers.  
+- Open discussions: resonance as a research, health, and design paradigm.  
+
+---
+
+> *The atlas is not finished. It cannot be finished.  
+> Like resonance itself, it only deepens the more we listen.*
