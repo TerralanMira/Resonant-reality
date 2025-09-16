@@ -2,38 +2,49 @@
 """
 Earth Grid Coherence — stub
 
-Creates a simple "standing wave" style field on a lon/lat grid using
-sin/cos patterns (conceptual spherical modes), and renders a heatmap.
-This is independent of lc_grid.py and serves as a quick Earth-layer visual.
+Generates a conceptual "standing-wave" field over lon/lat using simple
+sin/cos patterns (a separable proxy for planetary modes) and saves a heatmap.
 
-Outputs: sims/figures/lc_grid.png
+- Single chart (no subplots), default matplotlib colors/styles.
+- No seaborn. Output saved to sims/figures/lc_grid.png
 """
 
 from pathlib import Path
 import numpy as np
 import matplotlib.pyplot as plt
 
-ROOT = Path(__file__).resolve().parents[1]
+# Paths
+ROOT = Path(__file__).resolve().parents[1]   # .../sims
 OUTDIR = ROOT / "figures"
 OUTDIR.mkdir(parents=True, exist_ok=True)
 OUTPNG = OUTDIR / "lc_grid.png"
 
 def field(lon_deg, lat_deg, k_lon=6, k_lat=3):
-    # Simple separable pattern in degrees (conceptual, not spherical harmonics)
+    """
+    Conceptual standing-wave pattern over degrees.
+    Not true spherical harmonics; illustrative only.
+    """
     lon = np.radians(lon_deg)
     lat = np.radians(lat_deg)
     return np.sin(k_lat * lat) * np.cos(k_lon * lon)
 
 def main():
-    # Grid
-    lon = np.linspace(-180, 180, 361)
-    lat = np.linspace(-90, 90, 181)
+    # Build a lon/lat grid
+    lon = np.linspace(-180, 180, 361)   # 1-degree steps
+    lat = np.linspace(-90, 90, 181)     # 1-degree steps
     LON, LAT = np.meshgrid(lon, lat)
 
+    # Compute intensity field
     Z = field(LON, LAT, k_lon=6, k_lat=3)
 
+    # Render heatmap
     plt.figure(figsize=(10,5))
-    plt.imshow(Z, extent=[-180,180,-90,90], aspect='auto', origin='lower')
+    plt.imshow(
+        Z,
+        extent=[-180, 180, -90, 90],
+        origin="lower",
+        aspect="auto",
+    )
     plt.title("Earth Grid Coherence — conceptual standing-wave pattern")
     plt.xlabel("Longitude")
     plt.ylabel("Latitude")
