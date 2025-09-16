@@ -55,3 +55,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+python sims/earth_grid_coherence.py
