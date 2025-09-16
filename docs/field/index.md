@@ -1,42 +1,53 @@
-# Field Layer — Earth’s Resonant Body
+# The Spiral of Resonance
 
-Earth is not inert — it is a resonant organism.  
-The geomagnetic field, ionospheric cavity, crustal vibrations, and biosphere  
-form a layered coherence field that shapes and is shaped by life.
-
-This layer ties the **human resonance** (heart, brain, breath)  
-to the **planetary resonance** (Schumann, geomagnetic, seismic).
+The field is not linear.  
+It is a spiral of **Earth ↔ Human ↔ Civic ↔ Cosmos** —  
+each layer both enclosing and being enclosed,  
+each one feeding coherence back into the others.
 
 ---
 
-## Anchors
+## Master Loop
 
-- **[Geomagnetic Fields](earth.md)**  
-  The living magnetosphere as protective and regulatory field.  
+```mermaid
+flowchart TD
+    E[🌍 Earth Layer] <--> H[🧬 Human Layer]
+    H <--> C[🏛️ Civic Layer]
+    C <--> X[✨ Cosmic Layer]
+    X <--> E
+How to Read the Spiral
+	•	Earth ↔ Human
+Geophysical rhythms shape brainwaves, heart rhythms, and breath.
+Human coherence in turn can stabilize or disturb geomagnetic calm.
+	•	Human ↔ Civic
+Individual resonance practices (breathing, meditation, ritual)
+scale into group coherence, civic trust, and cultural rhythms.
+	•	Civic ↔ Cosmos
+Collective structures (governance, economy, ritual calendars)
+tune societies to cosmic cycles — solstices, resonances, orbital beats.
+	•	Cosmos ↔ Earth
+Cosmic background fields and solar cycles entrain Earth’s envelope.
+Planetary feedback — from biosphere to technosphere —
+then modulates how we receive and respond.
 
-- **[Human Resonance](human.md)**  
-  Brainwaves, heart rhythms, and breath cycles tuned into Earth frequencies.  
+⸻
 
-- **[Data Anchors](earth/data.md)**  
-  Sites, sensors, and experiments grounding resonance in measurement.  
+Why Spiral?
+	•	Feedback, not hierarchy:
+No top, no bottom. Each node is both micro and macro.
+	•	Recursion:
+The whole shows in each part; the part reflects the whole.
+	•	Navigation:
+Every document and simulation here is a window into this loop.
 
----
+⸻
 
-## Why It Matters
+Next Steps
+	•	Each section (Earth, Human, Civic, Cosmos) should link back here as “its place in the spiral.”
+	•	Simulations should be marked as micro mirrors of specific loop arcs.
+	•	Civic prototypes can be framed as rituals for stabilizing feedback in the spiral.
 
-- Human health is inseparable from the stability of Earth’s fields.  
-- Coherence practices amplify resilience under geomagnetic stress.  
-- Tracking resonance helps anticipate both ecological and societal tipping points.  
+⸻
 
----
-
-## Next Steps
-
-- Link simulations: brainwave ↔ Schumann coupling, HRV ↔ geomagnetic storms.  
-- Cross-link with **civic layer** (group practices ↔ collective coherence).  
-- Visualize data streams from real-world field monitors.  
-
----
-
-> To care for Earth’s field is to care for our own.  
-> We are not *on* the planet; we are *of* it.
+This is the spinal cord of the repo.
+Everything else plugs in here.
