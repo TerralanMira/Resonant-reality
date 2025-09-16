@@ -1,72 +1,45 @@
-# Civic Applications Layer
+# Civic Resonance Layer
 
-If the **Human Layer** tunes the body, and the **Earth Layer** holds the field,  
-Civic Applications are where resonance becomes **visible, shared, and lived**.  
-
-This is the layer of **rituals, architecture, policy, and technology** —  
-all designed to cultivate coherence in groups, cities, and cultures.  
+If resonance shapes atoms, bodies, and Earth, it must also shape how we come together.  
+The civic layer explores how coherence becomes visible in culture — through ritual, space, care, and narrative.
 
 ---
 
 ## Anchors
 
-- **Rituals & Festivals**  
-  - Seasonal rites, drumming circles, group meditation.  
-  - Encode collective memory into rhythm.  
-  - Synchronize not just individuals, but entire communities.  
+- **[Rituals](rituals.md)**  
+  Shared practices — festivals, chants, meals, marches — entrain bodies into a common rhythm.  
+  → *Case studies:* solstice gatherings, synchronized drumming, climate strikes.  
+  → *Simulations:* Kuramoto oscillators as a model of social sync.
 
-- **Plazas & Public Space**  
-  - Architecture as resonant chamber.  
-  - Soundscapes, geometry, and layout amplify coherence.  
-  - Civic plazas become “coherence nodes” in the urban grid.  
+- **[Plazas](plazas.md)**  
+  Architecture and public space as resonance chambers for civic life.  
+  → *Case studies:* amphitheaters, mosques, Greek agoras, civic squares.  
+  → *Simulations:* LC grid modes and acoustic field maps.
 
-- **Healing Loops**  
-  - Feedback structures for care, conflict resolution, renewal.  
-  - Civic systems that **detect stress and restore balance**.  
-  - Examples: public health dashboards, restorative justice rituals.  
+- **[Healing Loops](healing_loops.md)**  
+  Health is not private — it loops between individuals, communities, and Earth.  
+  → *Case studies:* HRV entrainment groups, indigenous circle medicine, trauma release rituals.  
+  → *Simulations:* Heart–brain–geomagnetic coupling models.
 
-- **Media & Signal**  
-  - Narrative, song, story as coherence carriers.  
-  - Memes that entrain attention across scales.  
-  - Shared symbols bind diverse groups into one rhythm.  
-
----
-
-## Applications
-
-- **Urban Design**  
-  - Cities as resonant instruments.  
-  - Sound, light, and flow shaping collective nervous systems.  
-
-- **Education**  
-  - Schools as coherence labs.  
-  - Practices of rhythm, attention, and collective creativity.  
-
-- **Governance**  
-  - Policy as rhythm-setting (calm vs crisis).  
-  - Transparency and feedback loops as conductor roles.  
-
-- **Technology**  
-  - Platforms that amplify coherence instead of division.  
-  - Data → dashboards → rituals of shared awareness.  
+- **[Media](media.md)**  
+  The symbolic field is as real as the electromagnetic one. Media can amplify coherence — or fragment it.  
+  → *Case studies:* global meditation experiments, synchronized broadcasts, disinfo disruption.  
+  → *Simulations:* Network contagion and coherence resilience models.
 
 ---
 
-## Implications
+## Civic Field
 
-- **Noise vs Coherence** is not just personal, it’s civic.  
-- Civic applications decide whether stress cascades or healing spreads.  
-- Design principle: **cities should hum** — aligned with Earth, tuned for human wellness, guided by conductor functions.  
+- These anchors interlock like oscillators in a network.  
+- Rituals give rhythm, plazas give geometry, healing loops give care, media gives narrative.  
+- Together they form the civic resonance infrastructure: **living cities tuned to Earth’s hum**.
 
 ---
 
 ## Next Steps
 
-- Cross-link with **Conductor Layer** (feedback + phase-locking).  
-- Add prototypes: plaza design sketches, ritual protocols, coherence dashboards.  
-- Tie into **simulations**: model civic “nodes” as oscillators in a grid.  
-
----
-
-> Civic life is not just administration.  
-> It is rhythm-shaping — the art of weaving human, earth, and cosmos into one living score.
+- Add **cross-links** to `docs/field/human.md` and `docs/field/earth.md` to show biophysical grounding.  
+- Pull in **figures** from `sims/figures/` to visualize resonance in civic contexts.  
+- Add **case libraries**: festivals, spaces, group healings, media events.  
+- Prototype **Resonant City** as a simulation + design framework that integrates all civic anchors.
