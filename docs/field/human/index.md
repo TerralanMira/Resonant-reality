@@ -1,60 +1,48 @@
-# Human Resonance Layer
+# Human Coherence & Entrainment
 
-The human body is not separate from Earth’s resonance — it is tuned into it.  
-Heart rhythms, brain oscillations, breath cycles, and cellular signaling  
-all fall within frequency bands shaped by the planet’s electromagnetic envelope.
+The human body is a resonant instrument.  
+Heart rhythms, breath cycles, and brainwave patterns entrain to each other,  
+to groups, and to the Earth’s electromagnetic field.  
 
----
-
-## Key Anchors
-
-- **Brainwaves**  
-  - Delta (0.5–4 Hz) — deep sleep, healing states  
-  - Theta (4–8 Hz) — trance, dream, creative flow  
-  - Alpha (8–12 Hz) — calm, meditative awareness  
-  - Beta (12–30 Hz) — active, problem-solving  
-  - Gamma (>30 Hz) — integration, insight, binding consciousness  
-  ↳ Note: Schumann fundamental (~7.83 Hz) sits right in **Theta–Alpha transition**.
-
-- **Heart Rhythms**  
-  - Resting human heartbeat ~1 Hz (60 bpm)  
-  - Heart Rate Variability (HRV) entrains with breath, emotional state, and geomagnetic fields.  
-  - Research (e.g., HeartMath) shows group coherence can measurably alter local EM environments.
-
-- **Breath Cycles**  
-  - Coherent breathing ~0.1 Hz (6 breaths/min) optimizes HRV.  
-  - Resonates with **Mayer waves** and slow baroreflex rhythms.  
-  - Serves as a bridge between voluntary and involuntary systems.
+This section explores how individual coherence scales outward into group flow,  
+and how collective entrainment feeds back into the larger planetary field.  
 
 ---
 
-## Entrainment Windows
+## Key Themes
 
-- **Earth ↔ Brain**  
-  Schumann resonance overlaps with human alpha–theta rhythms.  
-  This is why meditation, trance, and dream states feel “attuned.”
-
-- **Earth ↔ Heart**  
-  HRV coherence aligns with geomagnetic activity.  
-  Storms and calm can be tracked in physiological rhythms.
-
-- **Earth ↔ Collective**  
-  Group meditation experiments suggest amplification effects —  
-  individual coherence resonates outward.
+- **Heart Coherence** — Heart rate variability as the anchor of physiological alignment.  
+- **Breath & Rhythm** — Breath pacing, chant, and movement as levers of synchrony.  
+- **Brainwaves** — Alpha/theta rhythms entrain to sound, light, and group resonance.  
+- **Group Flow** — Synchrony across people produces amplified coherence.  
 
 ---
 
-## Implications
+## Contents
 
-- Human wellness is inseparable from planetary fields.  
-- Practices like meditation, chanting, drumming, or coherent breathing  
-  can be reframed as **entrainment technologies**.  
-- Research direction: Can collective human coherence “feed back” into stabilizing Earth systems?
+- [Introduction to Entrainment](entrainment.md)  
+- [Case Studies](case_studies.md)  
 
 ---
 
-## Next Steps
+## Fractal Connection
 
-- Cross-link to **`docs/field/earth/data.md`** for geophysical anchor sites.  
-- Add case studies of meditation experiments and HRV research.  
-- Connect to **simulations**: e.g., model brainwave–Schumann overlap.
+- **Individual**: Inner alignment through breath, meditation, rhythm.  
+- **Group**: Choirs, drumming, sports, ritual → shared coherence.  
+- **Civic**: Scale group entrainment to design public spaces.  
+- **Planetary**: Link human rhythms to Earth’s Schumann resonances.  
+
+Each layer is not separate — it’s a spiral.  
+Micro entrainment folds into macro order.  
+
+---
+
+## Why It Matters
+
+- Coherence is not just a personal state; it is an infrastructure for collective life.  
+- The same physics governing oscillators and circuits governs our nervous systems.  
+- To build Resonant Cities, we must first understand Resonant Humans.  
+
+---
+
+> Next: [City Entrainment & Resonant Design](../city/index.md)  
