@@ -1,55 +1,44 @@
-# Spiral — Pattern of Resonant Reality
+# Spiral Geometry — Archetype of Coherence
 
-The spiral is the simplest form that holds the whole.  
-It turns repetition into growth, cycles into expansion, and hum into visible path.
-
----
-
-## Core Idea
-
-- **Geometry**: The logarithmic spiral (r = a·e^(bθ)) repeats endlessly, each turn widening but never breaking proportion.  
-- **Myth**: Stories unfold in spirals — returning to themes but at deeper layers.  
-- **Life**: Shells, hurricanes, galaxies, DNA all trace spirals across scales.  
-- **Resonance**: When oscillations entrain, their coherence often unfolds in spiral waves.
+The spiral is the universal pattern of resonance.  
+It bridges the micro and the macro, the living and the cosmic.
 
 ---
 
-## Layers of the Spiral
+## Expressions of the Spiral
 
-- **Human**: Breath cycles entrain HRV in a spiral loop.  
-- **Civic**: Plazas and rituals designed as spiral gatherings guide movement inward/outward.  
-- **Earth**: Cyclones, river bends, and magnetic field lines trace spiral energy paths.  
-- **Cosmos**: Galaxies are the largest spirals we see, echoing the smallest (DNA helix).  
-
-↳ The spiral is the **same shape across scales** — a fractal of coherence.
+- **Nature** — shells, hurricanes, galaxies  
+- **Body** — breath cycle, heartbeat variability, brainwave phases  
+- **Culture** — labyrinth paths, dance spirals, civic plazas  
+- **Cosmos** — golden ratio and wave interference
 
 ---
 
-## Why It Matters
+## Why Spiral?
 
-- **Orientation**: In overwhelming complexity, the spiral offers a map — you can be both *returning* and *moving forward*.  
-- **Connection**: By tracing the spiral, one feels the hum — intent becomes visible as form.  
-- **Design**: Civic spaces, healing loops, and technologies can borrow this geometry to align human life with natural fields.  
+- **Resonance Path**: Energy does not move in straight lines — it coils and distributes.  
+- **Self-Similarity**: Spirals repeat across scales, binding fractals into coherence.  
+- **Memory Structure**: A spiral is not a closed circle but an open return — it carries forward while returning.
 
 ---
 
-## Cross-Links
+## Simulations Connection
 
-- **Simulations** → [Spiral Resonance](../sims/spiral_resonance.md)  
-- **Human** → [Breath & HRV](../field/human.md)  
-- **Civic** → [Plaza Design](../civic/plaza.md)  
-- **Cosmos** → [Galaxies](../cosmos/galaxies.md)
+- [Spiral Resonance Simulation](../sims/spiral_resonance.md) shows how phase patterns spiral outward.  
+- Visual coherence is the first “hello” of resonance.
+
+---
+
+## Mythic Echoes
+
+- The **cosmic egg cracks into a spiral universe**.  
+- Ancient dances (Greek *geranos*, Sufi whirling) embody spiral paths of return.  
+- The spiral is a memory keeper — you come back, but never the same.
 
 ---
 
 ## Next Steps
 
-- Add generated figure from `sims/spiral_resonance.py`.  
-- Expand case studies: spiral rituals, spiral gardens, spiral plazas.  
-- Link spiral as **narrative device** into `overview/story.md`.
-
----
-
-> *To follow the spiral is to follow the hum —  
-> returning, deepening, widening —  
-> until the part reveals the whole.*
+- Add figures: natural spirals (nautilus, galaxies).  
+- Embed GIF of spiral sim once generated.  
+- Cross-link to civic design (spiral plazas).
