@@ -1,47 +1,47 @@
 # Rituals & Festivals
 
-Rituals are the original coherence technology.  
-They entrain groups to a shared rhythm, align the body with the Earth’s cycles,  
-and preserve memory through repetition.
+Rituals are coherence engines.  
+They synchronize individuals into groups, groups into cities, and cities into cosmic cycles.  
 
 ---
 
-## Anchors
+## Case Studies
 
-- **Seasonal Rites**  
-  - Solstice, equinox, harvest, planting.  
-  - Marking time with sky and soil.  
-  - Synchronizes human calendars with cosmic rhythms.  
+- **Sufi Whirling** (Turkey)  
+  - Whirling entrains vestibular, breath, and chant rhythms.  
+  - Brainwave studies show theta–gamma coupling.  
+  - Generates states of collective ecstasy.  
 
-- **Drumming Circles & Chanting**  
-  - Rhythmic entrainment at ~4–8 Hz (theta–alpha).  
-  - Directly overlaps with Schumann resonance.  
-  - Generates embodied collective trance.  
+- **Sun Dance** (Lakota, N. America)  
+  - Annual ritual aligning with solstice.  
+  - Fasting, drumming, dancing in cycles.  
+  - Entrainment of suffering → renewal of community bond.  
 
-- **Group Meditation & Prayer**  
-  - Synchronization of heart–brain rhythms.  
-  - Documented shifts in local geomagnetic fields.  
-  - Subtle but measurable coherence blooms.  
-
----
-
-## Functions
-
-- Preserve **collective memory** through repetition.  
-- Release **tension loops** through catharsis.  
-- Open **entrainment windows** between human ↔ earth ↔ cosmos.  
+- **Kumbh Mela** (India)  
+  - Millions gather for ritual bathing.  
+  - Collective synchrony tracked in HRV studies.  
+  - Temporary cities = resonance laboratories.  
 
 ---
 
-## Implications
+## Data Anchors
 
-Rituals are not “extra.” They are coherence engines.  
-Festivals and rites keep civic life in resonance with natural cycles.  
+- EEG studies: group chanting shows phase-lock across participants.  
+- HRV group coherence correlates with geomagnetic quiet days.  
+- UNESCO cultural heritage database: thousands of rituals as datasets.  
 
 ---
 
-## Next Steps
+## Design Principles
 
-- Catalog case studies: indigenous rites, urban festivals, global meditation events.  
-- Prototype: a **“Resonant Calendar” app** that aligns civic events with geomagnetic and seasonal cycles.  
-- Simulations: model how group entrainment shifts local stress vs coherence.
+- Use **cycles** (seasonal, lunar, solar).  
+- Include **embodied rhythm** (drumming, breath, chant).  
+- Anchor in **sacred geometry** (circular, axial alignments).  
+
+---
+
+## Simulation Pathways
+
+- Model group oscillators entrained by rhythmic stimuli.  
+- Compare ritual with/without geomagnetic alignment.  
+- Simulate diffusion of coherence from ritual hubs into civic space.
