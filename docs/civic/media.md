@@ -1,45 +1,44 @@
 # Media & Signal
 
-Narrative is frequency.  
-Media carries coherence — or noise.  
-Civic signal decides whether cultures entrain to wisdom or distraction.  
+Media is nervous tissue.  
+It determines whether a city entrains into coherence or noise.  
 
 ---
 
-## Anchors
+## Case Studies
 
-- **Song & Story**  
-  - Oral tradition as coherence keeper.  
-  - Myths as frequency codes, not just tales.  
+- **Oral Tradition (West Africa Griots)**  
+  - Story as frequency carrier.  
+  - Cultural memory transmitted across centuries.  
 
-- **Symbol & Meme**  
-  - Shared icons and slogans entrain attention.  
-  - Meme = informational resonance packet.  
+- **Radio Broadcasts (WWII Britain)**  
+  - Churchill’s radio addresses entrained collective morale.  
+  - Coherence as resistance technology.  
 
-- **Broadcast & Platform**  
-  - Technology amplifies signal/noise.  
-  - Design choice: coherence loops or outrage loops?  
-
----
-
-## Functions
-
-- Align cultural attention to shared rhythm.  
-- Carry memory across generations.  
-- Act as “phase couplers” between groups.  
+- **Twitter & Outrage Loops (21st century)**  
+  - Phase-locking into stress, polarization.  
+  - Media as civic arrhythmia.  
 
 ---
 
-## Implications
+## Data Anchors
 
-Media is civic nervous tissue.  
-Bad media = civic arrhythmia.  
-Good media = distributed coherence.  
+- Memetic diffusion models: memes spread like phase-locking oscillators.  
+- Nielsen data: collective attention cycles (TV, streaming).  
+- HRV shifts linked to exposure to positive vs negative media.  
 
 ---
 
-## Next Steps
+## Design Principles
 
-- Map signal pathways in urban contexts (plaza ↔ media ↔ ritual).  
-- Prototype coherence-first platforms.  
-- Simulate meme dynamics as oscillators competing for phase-lock.
+- Use **story as signal**.  
+- Design **coherence-first platforms**.  
+- Weave media into plazas, rituals, healing loops.  
+
+---
+
+## Simulation Pathways
+
+- Model meme resonance as oscillator competition.  
+- Test coherence vs outrage algorithms.  
+- Simulate how narrative shifts alter urban stress maps.
