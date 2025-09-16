@@ -1,47 +1,53 @@
-# Rituals & Festivals
+# Civic Rituals — Collective Entrainment
 
-Rituals are coherence engines.  
-They synchronize individuals into groups, groups into cities, and cities into cosmic cycles.  
-
----
-
-## Case Studies
-
-- **Sufi Whirling** (Turkey)  
-  - Whirling entrains vestibular, breath, and chant rhythms.  
-  - Brainwave studies show theta–gamma coupling.  
-  - Generates states of collective ecstasy.  
-
-- **Sun Dance** (Lakota, N. America)  
-  - Annual ritual aligning with solstice.  
-  - Fasting, drumming, dancing in cycles.  
-  - Entrainment of suffering → renewal of community bond.  
-
-- **Kumbh Mela** (India)  
-  - Millions gather for ritual bathing.  
-  - Collective synchrony tracked in HRV studies.  
-  - Temporary cities = resonance laboratories.  
+Rituals are the oldest resonance technologies.  
+They synchronize breath, voice, gesture, and intention across groups,  
+tuning humans into coherence with one another and the Earth.
 
 ---
 
-## Data Anchors
+## Anchors
 
-- EEG studies: group chanting shows phase-lock across participants.  
-- HRV group coherence correlates with geomagnetic quiet days.  
-- UNESCO cultural heritage database: thousands of rituals as datasets.  
+- **Chanting & Song**  
+  - Group chanting entrains breath and brainwaves.  
+  - Frequencies around 7–10 Hz (alpha-theta) overlap with Schumann resonance.  
+  - Example: Gregorian chant, Sufi zikr, Tibetan overtone.
+
+- **Drumming & Dance**  
+  - Rhythmic drumming aligns heart rate and brain activity across participants.  
+  - Collective dance creates **phase-locking** of movement.  
+  - Indigenous drum circles, rave culture, and military marches share the same physics.
+
+- **Meditation & Breath**  
+  - Coherent breathing (~0.1 Hz) optimizes heart-rate variability (HRV).  
+  - Group meditation amplifies local EM coherence fields.  
+  - Experiments show measurable reductions in crime and conflict during mass meditation.
 
 ---
 
-## Design Principles
+## Entrainment Windows
 
-- Use **cycles** (seasonal, lunar, solar).  
-- Include **embodied rhythm** (drumming, breath, chant).  
-- Anchor in **sacred geometry** (circular, axial alignments).  
+- **Local → Collective**  
+  Small circles (10–20 people) can reach shared coherence measurable in HRV.  
+  Scaling to hundreds or thousands amplifies impact — festivals, vigils, mass meditations.
+
+- **Earth ↔ Ritual**  
+  Ritual rhythms overlapping with Schumann bands create feedback with the geomagnetic field.  
+  This is why global synchronized meditations sometimes correlate with reduced geomagnetic noise.
 
 ---
 
-## Simulation Pathways
+## Implications
 
-- Model group oscillators entrained by rhythmic stimuli.  
-- Compare ritual with/without geomagnetic alignment.  
-- Simulate diffusion of coherence from ritual hubs into civic space.
+- Rituals can be reframed as **social coherence protocols**.  
+- They are not relics of religion, but applied biophysics.  
+- Civic design should reintroduce ritual as **public infrastructure**.
+
+---
+
+## Next Steps
+
+- Add case studies: e.g., HeartMath Global Coherence Initiative.  
+- Link to **`docs/field/human.md`** for physiological grounding.  
+- Connect to **`docs/sims/kuramoto.md`** for oscillator entrainment models.  
+- Propose **new civic rituals** blending ancient practice and modern science.
