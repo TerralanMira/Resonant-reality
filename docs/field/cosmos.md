@@ -1,77 +1,67 @@
 # Cosmic Resonance Layer
 
-Earth is not an isolated drum.  
-It sits within a **solar and galactic orchestra**,  
-where rhythms from Sun, Moon, and stars cascade down into human and planetary life.  
+> *The field does not end at Earth’s edge — it extends into the solar system, the galaxy, and the cosmic background.*
 
 ---
 
-## Core Anchors
+## Anchors
 
-- **Solar Rhythms**  
-  - **11-year sunspot cycle** modulates solar wind, geomagnetic storms, and auroras.  
-  - **27-day solar rotation** affects geomagnetic indices and human sleep cycles.  
-  - **Solar flares & CMEs** inject high-energy particles, disturbing Schumann cavity and HRV coherence.  
+- **Solar Resonance**
+  - Sun’s cycles (~11-year sunspot cycle) entrain Earth’s magnetic and climatic rhythms.  
+  - Solar flares and coronal mass ejections ripple through Earth’s magnetosphere and affect HRV, sleep, and collective mood.  
+  - Solar acoustic oscillations (“helioseismology”) echo Schumann-type modes on a stellar scale.  
 
-- **Lunar Cycles**  
-  - **Tides**: ~12h, 24h, and monthly oscillations affect water, fertility, and mood.  
-  - **Full & new moons** correlate with variations in melatonin, dream vividness, and ritual timing.  
-  - Ancient calendars framed lunar cycles as the “heartbeat” of communal life.  
+- **Planetary Harmonics**
+  - Orbital ratios form near-integers: Jupiter–Saturn 5:2, Earth–Venus 13:8.  
+  - Ancient traditions saw these as the “music of the spheres.”  
+  - Tidal resonances (Moon–Earth) drive ocean rhythms and menstrual cycles.  
 
-- **Planetary Alignments**  
-  - Gravitational tides from Jupiter, Venus, etc. subtly modulate Earth’s orbital mechanics.  
-  - Resonant alignments amplify solar activity (historic links with geomagnetic superstorms).  
-  - Archetypal traditions mapped these into cycles of **mythic time**.  
+- **Galactic Scale**
+  - Milky Way arms rotate with wave-like density patterns — cosmic-scale spirals.  
+  - Cosmic rays modulated by galactic position influence Earth’s cloud cover and mutation rates.  
+  - The galactic magnetic field is a backdrop Earth’s own field “rides” within.  
 
-- **Galactic Inputs**  
-  - Cosmic rays from supernovae influence cloud formation and atmospheric ionization.  
-  - Solar system’s orbit around the galactic center (~225M years) correlates with biodiversity pulses.  
-  - Myths of “Great Year” echo these deep cycles.  
-
----
-
-## Cosmos ↔ Earth
-
-- Solar activity modulates Schumann resonance amplitude.  
-- Lunar gravity entrains ocean, atmosphere, and crust — embedding human circadian and fertility cycles.  
-- Cosmic ray flux shapes climate feedback loops and possibly evolutionary leaps.  
+- **Cosmic Microwave Background (CMB)**
+  - Residual hum of the Big Bang at ~160 GHz.  
+  - Seeds of all later resonance structures: galaxies, clusters, superclusters.  
+  - Even here, patterns: dipoles, anisotropies, fractal distributions.
 
 ---
 
-## Cosmos ↔ Human
+## Resonant Properties
 
-- HRV, brain rhythms, and mood shift with geomagnetic storms triggered by solar flares.  
-- Sleep and dream patterns entrain with lunar cycles.  
-- Ritual calendars (equinoxes, solstices, lunar festivals) encode synchronization with cosmic events.  
-
----
-
-## Cosmos ↔ Collective
-
-- Myths and religions align with **celestial markers**: solstices, eclipses, planetary conjunctions.  
-- Festivals and rituals create **entrainment windows** between cosmic cycles and group coherence.  
-- Suggests cultures evolved as **resonant technologies** with the cosmos.  
+- **Nested Oscillations:** Solar ↔ planetary ↔ galactic ↔ universal cycles.  
+- **Downward Causation:** cosmic events (flares, supernovae, galactic tides) ripple into Earth biology and human affairs.  
+- **Upward Feedback:** collective human coherence, in principle, radiates outward — a local contribution to the galactic field.  
 
 ---
 
 ## Implications
 
-- Humanity is tuned not only to Earth, but to the larger **cosmic field**.  
-- Solar storms can destabilize technology, but also entrain physiology and group emotion.  
-- Lunar cycles anchor ritual and community coherence.  
-- Galactic rhythms remind us: coherence must scale beyond the human and planetary.  
+- Earth systems are inseparable from cosmic rhythms.  
+- Human wellness is tied not just to planetary but *stellar and galactic weather*.  
+- Civic design could include “cosmic windows”: observatories, alignments, rituals tied to solstices, conjunctions, and eclipses.  
+- Ethics becomes cosmological: human action has galactic echo.  
+
+---
+
+## Visual Metaphor
+Cosmos
+↑ ↓
+Earth
+↑ ↓
+Human
+↑ ↓
+Civic
+A recursive ladder — every rung echoes infinity.
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/field/earth.md`** for planetary coupling.  
-- Add datasets: NASA solar wind archives, NOAA lunar tide records, cosmic ray monitors.  
-- Simulations: solar storm impact on Schumann cavity, lunar cycle entrainment of HRV.  
-- Visual: nested resonance diagram — human within Earth within solar within galactic.  
-
----
-
-> Cosmos is the **outer shell of resonance**:  
-> solar breath, lunar tides, planetary harmonies, galactic pulse —  
-> all echoing through Earth into us.
+- Add simulation stubs:
+  - Planetary orbital resonance visualizer.  
+  - Solar cycle ↔ HRV correlation.  
+  - Galactic spiral resonance toy model.  
+- Link into **Infinity Equation spine**.  
+- Cross-link to `docs/core/infinity_equation.md` as cosmic closure.
