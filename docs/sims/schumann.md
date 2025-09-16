@@ -1,30 +1,50 @@
-# Schumann Resonance Coupling
+# Schumann Coupling — Earth’s Global Resonance
 
-This sim explores the **entrainment window** near Earth’s natural resonance (~7.83 Hz).  
-It shows how local oscillators can lock into the planetary hum.
-
----
-
-## What it shows
-- A driven oscillator with a frequency sweep near 7–8 Hz.
-- Locking occurs when drive frequency ≈ Schumann band.
-- Visual: phase slip → phase lock.
+This simulation illustrates how the Earth–ionosphere cavity supports  
+**standing electromagnetic waves**, with the lowest mode near **7.83 Hz**.  
+These are the Schumann resonances — planetary “heartbeat” frequencies.
 
 ---
 
-## How to run
+## Concept
+
+- The Earth and ionosphere form a **spherical LC cavity**.  
+- Lightning strikes excite this cavity, feeding global-scale oscillations.  
+- Human alpha–theta brain rhythms overlap these bands, suggesting possible coupling.  
+
+---
+
+## What It Shows
+
+- The fundamental mode (~7.83 Hz) and higher harmonics.  
+- Dependence of frequency on cavity radius (Earth’s size).  
+- How coherence across lightning strikes sustains resonances.  
+
+---
+
+## Run It
+
 ```bash
 python sims/schumann_coupling.py
-Output
-
-Saved to: sims/figures/schumann.png
-Read the plot
-	•	X-axis: time steps.
-	•	Y-axis: phase difference between oscillator and driver.
-	•	Locking visible as phase difference stabilizes.
+This produces spectrum and coupling plots saved to:
+	•	sims/figures/schumann.png
 
 ⸻
 
-Pass / Falsifier
-	•	✅ Pass: phase lock occurs near ~7.83 Hz.
-	•	❌ Falsifier: no visible lock around Schumann band.
+Outputs
+	•	Spectrum showing the fundamental and first few harmonics.
+	•	Example: peaks near 7.8, 14, 20, 26 Hz (approximate).
+
+⸻
+
+Implications
+	•	Physics: Earth acts like a resonant cavity, coupling global weather and EM fields.
+	•	Biology: Overlap with human brainwave bands suggests windows for entrainment.
+	•	Civic: Global coherence practices (e.g., synchronized meditation) may interact with these bands.
+
+⸻
+
+Next Steps
+	•	Cross-link to docs/field/human.md (alpha–theta overlap).
+	•	Compare model frequencies with real data in docs/earth/data.md.
+	•	Add figure (sims/figures/schumann.png) to the gallery in docs/sims/index.md.
