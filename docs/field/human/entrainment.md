@@ -1,102 +1,56 @@
-# Human Entrainment Practices
+Human Entrainment
 
-Resonance is not abstract — it is lived.  
-Every culture has discovered techniques for syncing body, mind, and community with rhythm.  
-Here we gather methods old and new, scientific and experiential.
+The human body entrains to rhythms both internal and external.
+Brainwaves, heart rhythms, breath cycles, and cellular oscillations
+all fall into resonance bands shaped by Earth’s electromagnetic field.
 
----
+⸻
 
-## 1. Breath
+Brainwaves
+	•	Delta (0.5–4 Hz) — deep sleep, cellular repair, healing states.
+	•	Theta (4–8 Hz) — trance, dream, creativity, liminal awareness.
+	•	Alpha (8–12 Hz) — calm focus, meditative states, quiet flow.
+	•	Beta (12–30 Hz) — analytical thought, problem solving.
+	•	Gamma (>30 Hz) — integration, insight, binding consciousness.
 
-- **Coherent Breathing (0.1 Hz)**  
-  ~6 breaths/minute → maximizes HRV, balances autonomic nervous system.  
-  Practiced in yoga (pranayama), qigong, and modern biofeedback.  
+🔑 Note: The Schumann fundamental (~7.83 Hz) sits right in the Theta–Alpha transition,
+making it a natural resonance bridge between dreaming and wakeful flow.
 
-- **Box Breathing (Navy, yogic roots)**  
-  Inhale–hold–exhale–hold (equal length).  
-  Creates stability and focus.  
+⸻
 
-- **Resonant Exhalation**  
-  Singing, chanting, sighing — extends vagal tone, relaxes body.  
+Heart Rhythms
+	•	Resting heart rate: ~1 Hz (60 bpm).
+	•	Heart Rate Variability (HRV): entrains with breath, emotional states, and geomagnetic conditions.
+	•	Research (e.g., HeartMath): group coherence can measurably alter local EM environments.
 
----
+⸻
 
-## 2. Sound
+Breath Cycles
+	•	Coherent breathing: ~0.1 Hz (6 breaths/min) optimizes HRV.
+	•	Resonates with Mayer waves and baroreflex rhythms.
+	•	Functions as a bridge between voluntary and involuntary systems.
 
-- **Chant & Mantra**  
-  Frequencies anchor attention, extend breath, induce synchrony.  
+⸻
 
-- **Drumming**  
-  Group drumming entrains brainwaves and HRV,  
-  facilitating trance and bonding (studies show alignment across participants).  
+Entrainment Windows
+	•	Earth ↔ Brain
+Schumann resonance overlaps with human alpha–theta rhythms.
+Explains why meditation and trance feel “tuned.”
+	•	Earth ↔ Heart
+HRV coherence shifts with geomagnetic calm vs storm.
+	•	Earth ↔ Collective
+Group meditation and chanting amplify resonance outward.
 
-- **Music**  
-  Structured resonance: tempo → heartbeat entrainment; harmony → emotion regulation.  
+⸻
 
----
+Implications
+	•	Human wellness is inseparable from planetary fields.
+	•	Ancient practices (chanting, drumming, ritual breathing) are entrainment technologies.
+	•	Research direction: Can large-scale human coherence stabilize Earth’s geomagnetic systems?
 
-## 3. Movement
+⸻
 
-- **Walking Meditation**  
-  Step rhythm couples to breath and attention.  
-
-- **Dance**  
-  Individual → catharsis; group → synchronization (tribal, rave, ecstatic).  
-
-- **Tai Chi / Qigong**  
-  Slow periodic cycles, aligning inner and outer fields.  
-
----
-
-## 4. Stillness
-
-- **Meditation**  
-  Alpha–theta states → entrain with Schumann frequencies.  
-
-- **Prayer / Contemplation**  
-  Directed coherence of attention and intent.  
-
-- **Float / Isolation tanks**  
-  Amplify internal rhythms, reduce external noise.  
-
----
-
-## 5. Collective Entrainment
-
-- **Group Meditation Experiments**  
-  Measured decreases in local crime/violence during large synchronized practice.  
-
-- **Choral Singing**  
-  HRV synchrony across singers; shared breathing cycles.  
-
-- **Mass Events**  
-  Ritual, sports, concerts → temporary “one-body” effect.  
-
----
-
-## 6. Emerging Technologies
-
-- **Biofeedback & Neurofeedback**  
-  Real-time HRV/EEG entrainment guidance.  
-
-- **Binaural Beats / Brainwave Entrainment**  
-  Artificial audio stimulation at frequency differences.  
-
-- **Wearables**  
-  HRV monitors, resonance-breath pacers, collective dashboards.  
-
----
-
-## Implications
-
-- Entrainment = an *interface layer* between individual humans and planetary resonance.  
-- Practices are not just “wellness tools” but **field-alignment protocols**.  
-- Collective synchronization may represent a lever for stabilizing social–ecological systems.  
-
----
-
-## Next Steps
-
-- Add case studies (e.g., TM studies, HeartMath Global Coherence).  
-- Cross-link to **`docs/field/city/index.md`** (Resonant City) — collective entrainment → civic design.  
-- Connect to **simulations**: model feedback loops of individual coherence → group → field.
+Cross-links
+	•	↔ docs/field/human/case_studies.md — HRV + group coherence experiments.
+	•	↔ docs/field/earth/data.md — geophysical resonance sites.
+	•	↔ docs/sims/schumann.md — simulation of brainwave–Schumann overlap.
