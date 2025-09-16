@@ -1,48 +1,55 @@
-# Civic Resonance Layer
+# Civic Resonance
 
-Civic life is where human resonance takes form in collective structures.  
-Rather than isolated domains, the civic anchors form a **spiral sequence** —  
-each amplifying the next, weaving coherence across scales.
-
----
-
-## The Spiral Sequence
-
-1. **Rituals** — shared embodied practices (breath, chant, ceremony) create local coherence fields.  
-   ↳ These are the civic “entry points,” grounding resonance in human groups.
-
-2. **Plazas** — physical gathering sites where rituals scale outward into public space.  
-   ↳ Coherent plazas seed the geometry of collective encounter.
-
-3. **Hearths** — smaller nodes of warmth (homes, circles, commons) sustain coherence between gatherings.  
-   ↳ They link intimate rhythm with broader civic resonance.
-
-4. **Education** — transmission of rhythm and resonance literacy.  
-   ↳ Schools, workshops, and apprenticeships teach *how* to hold coherence.
-
-5. **Governance** — decision processes tuned by coherence metrics.  
-   ↳ Instead of adversarial structures, policy becomes a conductor of resonance.
-
-6. **Economy** — flows of value and tokens aligned with coherence.  
-   ↳ Contribution is rewarded not just by output, but by resonance with the whole.
-
-7. **Conductor** — meta-layer that tunes the entire civic spiral.  
-   ↳ Not a ruler, but a resonance role: orchestrating, listening, balancing.
+Civic life is where coherence becomes visible and shared.  
+Plazas, rituals, governance, and economy are not separate “sectors” —  
+they are phases of a spiral: each one unfolds from the last, feeding the next.  
 
 ---
 
-## Spiral Dynamics
+## Spiral Sequence
 
-Unlike a hierarchy, the civic spiral is recursive:  
-- Each node feeds the next.  
-- The sequence can start anywhere (ritual → economy, education → governance, etc.).  
-- The spiral does not close — it loops back into **cosmos** through cultural broadcast.  
+1. **Conductor — The Civic Field**  
+   The shared “atmosphere” of a city.  
+   Architecture, soundscapes, and rhythms set the background resonance.
 
-### Diagram
-Rituals → Plazas → Hearths → Education → Governance → Economy → Conductor
-↖───────────────────────────────────────────────────────────────↙
+2. **Plazas — Spaces of Gathering**  
+   Civic plazas act as resonant chambers.  
+   Design, geometry, and flow amplify coherence from private to collective.
+
+3. **Rituals — Binding Time**  
+   Once gathered, people weave shared meaning.  
+   Rituals entrain heartbeats, breaths, and voices to the civic field.
+
+4. **Governance — Resonance in Decision**  
+   From ritual coherence, governance emerges.  
+   Councils and assemblies become more than debate: they become tuning.
+
+5. **Economy — Circulation of Resonance**  
+   Value is not abstracted extraction but circulation of coherence.  
+   Tokens, trade, and work distribute and sustain resonant surplus.
+
 ---
 
-📎 Next Steps:  
-- Cross-link each civic doc (rituals, plazas, hearths, etc.) back to this spiral map.  
-- Add resonance “thresholds” (what coherence level enables the next node).  
+## Feedback Spiral
+
+```mermaid
+graph TD
+    A[Conductor] --> B[Plazas]
+    B --> C[Rituals]
+    C --> D[Governance]
+    D --> E[Economy]
+    E --> A
+Each civic anchor is not static, but a phase in a cycle.
+	•	Conductor sets the tone.
+	•	Plazas gather bodies.
+	•	Rituals weave meaning.
+	•	Governance channels choice.
+	•	Economy circulates energy.
+And the cycle renews.
+
+⸻
+
+Next Steps
+	•	Flesh out cross-links: each civic file should begin with “Flow from previous, into next.”
+	•	Add case studies: Athens agora, Gothic cathedrals, Burning Man, cooperative markets.
+	•	Integrate with simulations: e.g., resonant currency models economy as conductor feedback.
