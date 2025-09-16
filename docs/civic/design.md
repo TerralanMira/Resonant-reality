@@ -1,69 +1,77 @@
-# Civic Design — Spaces that Resonate
+# Civic Design — Resonant Architecture
 
-Design is not just functional — it is **acoustic, symbolic, and relational**.  
-A well-shaped civic space can amplify coherence like a resonant chamber.  
-
----
-
-## Core Patterns
-
-- **Circles and Spirals**  
-  Geometry shapes flow. Circular plazas and spiral walkways  
-  create centers without edges, movement without dead ends.  
-
-- **Thresholds**  
-  Entrances act as tuning forks — portals where the individual  
-  shifts into collective awareness.  
-
-- **Nested Scales**  
-  Small hearths feed into plazas, plazas into civic centers,  
-  centers into city-scale webs. Micro mirrors macro.  
+Civic design is how resonance becomes tangible in stone, wood, glass, and light.  
+The city itself can be tuned as an instrument for coherence.  
 
 ---
 
-## Resonant Materials
+## Design Principles
 
-- **Stone**  
-  Holds vibration; anchors memory.  
-  Used in hearths, monuments, grounding structures.  
+- **Geometry as Tuning Fork**  
+  - Circles, spirals, and golden-ratio proportions  
+  - Sacred geometry aligns with human nervous systems  
+  - Civic spaces shaped as resonant chambers  
 
-- **Wood**  
-  Warm, flexible, responsive. Ideal for gathering spaces.  
+- **Acoustic & Light Fields**  
+  - Domes, amphitheaters, and reflective surfaces  
+  - Natural reverberation fosters shared voice and song  
+  - Sunlight, firelight, and candlelight anchor circadian rhythms  
 
-- **Water & Air**  
-  Moving elements woven into design — fountains, wind corridors,  
-  open plazas that breathe with climate.  
-
-- **Light**  
-  Sun paths, moon phases, and celestial alignments  
-  embedded into architecture.  
+- **Porosity & Flow**  
+  - Open plazas for gatherings  
+  - Thresholds marking transitions between states  
+  - Movement designed as ritual pathways  
 
 ---
 
-## Dynamics of Flow
+## Hearth-Centered Layouts
 
-- **Concentric Seating**  
-  People arranged to face one another, reducing hierarchy.  
+- **Neighborhood Hearths**  
+  Small-scale resonant nodes for daily life  
+  → circles, kitchens, firepits, meditation rooms  
 
-- **Sound Chambers**  
-  Domes, amphitheaters, or acoustic shells that allow  
-  voices, chants, and music to circulate naturally.  
+- **Civic Plazas**  
+  Medium-scale nodes for festivals, councils, rituals  
+  → stages, circles, trees, altars, fountains  
 
-- **Green Corridors**  
-  Living pathways that connect hearths, plazas, and civic centers.  
+- **Regional Sanctuaries**  
+  Large-scale coherence hubs  
+  → temples, amphitheaters, landscapes aligned to solstices/equinoxes  
+
+---
+
+## Healing Through Space
+
+- **Ritual Architecture**  
+  Spaces that invite ceremony and collective coherence  
+  → drum circles, chanting halls, labyrinth paths  
+
+- **Restorative Urbanism**  
+  Green corridors as breathing lungs of the city  
+  Flowing water features as circulation systems  
+  Quiet sanctuaries within noisy grids  
+
+- **Trauma-Informed Design**  
+  Architecture that soothes dysregulated nervous systems  
+  → soft materials, curved lines, natural light, sensory grounding  
 
 ---
 
 ## Simulation Ideas
 
-- **Acoustic Mapping**: Model how sound travels through different geometries.  
-- **Flow of Movement**: Agent-based simulations of plaza gatherings.  
-- **Light Resonance**: Track how solstice/equinox alignments shape civic rhythm.  
+- **Resonant Chamber Models**  
+  How geometry amplifies sound and coherence waves  
+
+- **Urban Flow Mapping**  
+  Model citizen movement like blood circulation — identify blockages and open flow  
+
+- **Light / Shadow Dynamics**  
+  Simulate sunlight and firelight rhythms across civic gatherings  
 
 ---
 
 ## Next Steps
 
-- Add design sketches (spirals, domes, hearths) into `/figures/`.  
-- Cross-link to **Hearths (hearths.md)** and **Plaza (plaza.md)**.  
-- Expand into **Resonant City layer**: scaling civic design principles to the urban web.  
+- Cross-link to **`docs/civic/hearths.md`** and **`docs/civic/rituals.md`**.  
+- Add diagrams of resonant city layouts (spirals, mandalas, grids).  
+- Prototype civic plaza simulation in `/sims/civic_design/`.  
