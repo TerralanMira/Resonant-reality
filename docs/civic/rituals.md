@@ -1,72 +1,97 @@
-# Civic Rituals — Tuning the Collective
+# Civic Rituals — Weaving Coherence
 
-Rituals are not empty repetition. They are **technologies of resonance**:  
-structured ways for people to synchronize body, heart, and mind.  
-
----
-
-## Core Forms
-
-- **Gathered Breath**  
-  Groups inhaling/exhaling together at ~0.1 Hz  
-  align HRV coherence across individuals.  
-
-- **Chant & Song**  
-  Shared vocalization entrains brainwaves,  
-  heart rhythms, and emotional state.  
-
-- **Circle Dances**  
-  Spiral and circular motion creates embodied geometry.  
-  Feet stamping syncs with Earth’s natural pulses.  
-
-- **Silence & Stillness**  
-  Collective quiet is not absence but a tuning pause —  
-  the “zero point” from which resonance emerges.  
+Rituals are how communities rehearse resonance together.  
+They are the pulse of civic life, turning architecture into lived coherence.  
 
 ---
 
-## Seasonal Anchors
+## Core Functions of Ritual
 
-- **Solstice & Equinox**  
-  Mark celestial alignments with collective gatherings.  
-  Light and shadow rituals tie human rhythm to cosmic cycles.  
+- **Alignment**  
+  - Syncing hearts, breath, and movement  
+  - Generating shared temporal rhythm (weekly, seasonal, annual cycles)  
 
-- **Harvest & Planting**  
-  Ground rituals in ecological cycles.  
-  Reconnect civic identity to the land’s abundance.  
+- **Memory**  
+  - Encoding collective values into embodied practice  
+  - Reinforcing myth and story through repetition  
 
-- **Storms & Calms**  
-  Adaptive rituals respond to environmental events,  
-  turning disruption into coherence.  
+- **Regulation**  
+  - Soothing nervous systems and resolving tension  
+  - Offering predictable containers for grief, joy, and transition  
 
 ---
 
-## Collective Amplification
+## Ritual Scales
 
-- **Hearth Loops**  
-  Small group rituals that scale outward.  
-  Local hearths connect into city-wide coherence webs.  
+- **Personal Practice**  
+  Meditation, journaling, breathwork, song  
+  ↳ anchors individual resonance  
 
-- **Witnessing & Story**  
-  Shared narratives reinforce resonance.  
-  The act of witnessing is itself a ritual.  
+- **Household & Hearth**  
+  Shared meals, fire circles, bedtime songs  
+  ↳ micro-coherence units  
 
-- **Civic Choirs**  
-  Singing as a city — layers of harmony  
-  weaving individual voices into a single field.  
+- **Neighborhood & Civic Plazas**  
+  Festivals, dances, parades, councils  
+  ↳ meso-scale resonance amplification  
+
+- **Regional & Global Synchrony**  
+  Solstice ceremonies, synchronized meditations, mass chanting  
+  ↳ macro-scale entrainment  
+
+---
+
+## Ritual Technologies
+
+- **Sound**  
+  Drumming, chanting, bells, silence  
+  ↳ entrains collective breath and heart  
+
+- **Movement**  
+  Circle dances, labyrinth walking, synchronized gestures  
+  ↳ aligns kinesthetic fields  
+
+- **Offerings & Symbols**  
+  Altars, flowers, shared meals, fire  
+  ↳ material anchors of the sacred  
+
+- **Story & Myth**  
+  Storytelling, theater, procession  
+  ↳ carries cultural coherence forward  
+
+---
+
+## Healing Loops
+
+- **Grief Rituals**  
+  Safe containers for mourning and release  
+  → keeps trauma from fracturing community resonance  
+
+- **Celebration Rituals**  
+  Festivals and dances that raise collective frequency  
+  → joy as coherence fuel  
+
+- **Reconciliation Rituals**  
+  Circles for apology, forgiveness, repair  
+  → prevents civic “scar tissue”  
 
 ---
 
 ## Simulation Ideas
 
-- **HRV Synchrony Models**: Track how group breathing shifts collective physiology.  
-- **Chant Resonance Maps**: Visualize frequencies in architectural spaces.  
-- **Agent-Based Ritual Scaling**: Model how local hearths link into civic coherence.  
+- **Group Coherence Model**  
+  Model how synchronized movement and breath amplify resonance  
+
+- **Festival Dynamics**  
+  Simulate how a festival propagates coherence through a city grid  
+
+- **Entrainment Windows**  
+  Compare ritual rhythm bands (drumming, chanting) with Schumann & brainwave frequencies  
 
 ---
 
 ## Next Steps
 
-- Cross-link to **Hearths (hearths.md)** and **Healing Loops (loops.md)**.  
-- Add simulation outputs into `/sims/civic_rituals/`.  
-- Document case studies of real-world civic rituals that generated measurable coherence.  
+- Cross-link to **`docs/civic/hearths.md`**, **`docs/civic/loops.md`**, and **`docs/civic/design.md`**.  
+- Add ethnographic examples (e.g., potlatch, powwow, solstice festival).  
+- Prototype **ritual entrainment sim** in `/sims/civic_rituals/`.  
