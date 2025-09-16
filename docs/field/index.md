@@ -1,56 +1,68 @@
-# The Resonance Field
+# Resonance Field Layer
 
-The field is not separate from us — it is the living weave of awareness, body, planet, and cosmos.  
-Each layer resonates within and through the others, spiraling coherence from micro to macro.
+The field is not a metaphor — it is the medium in which life, mind, and culture unfold.  
+Resonance links the scales: from inner awareness to human physiology,  
+from Earth’s geomagnetic shell to the wider cosmos.  
 
----
-
-## Layers of the Field
-
-- **Awareness Layer**  
-  - Thought, perception, and intention ripple as fields.  
-  - Coherence here sets the baseline: scattered awareness fragments, unified awareness stabilizes.  
-  - Practices: meditation, attention training, intention-setting.
-
-- **Human Layer**  
-  - The body as a resonant instrument.  
-  - Brainwaves, heart rhythms, breath cycles, and cellular signaling align with Earth’s rhythms.  
-  - Human coherence can amplify or disturb wider fields.
-
-- **Earth Layer**  
-  - Geomagnetic activity, Schumann resonances, and tectonic/atmospheric flows.  
-  - Sacred sites and ley networks mark nodes of intensified resonance.  
-  - Human presence and collective rituals feed back into the planet’s coherence.
-
-- **Cosmic Layer**  
-  - Solar cycles, planetary harmonics, galactic signals.  
-  - Resonances at this scale shape Earth’s rhythms and set the “cosmic weather.”  
-  - Myth and science meet here: star lore and astrophysics both describe our tuning to the whole.
+Each layer is distinct, yet interwoven.  
+What emerges is a **ladder of resonance**:  
+whole in part, part in whole.
 
 ---
 
-## The Spiral Relation
+## The Resonance Ladder
 
-- Awareness ↔ Human ↔ Earth ↔ Cosmos is not a ladder but a **spiral**.  
-- Each layer informs and entrains the others:  
-  - Clear awareness stabilizes the body.  
-  - Coherent human rhythms entrain with Earth.  
-  - Earth fields resonate with solar and cosmic cycles.  
-  - Cosmic rhythms return as archetypes, dreams, and myth.  
+- [Awareness Layer](awareness.md)  
+  Consciousness as a resonant field.  
+  The hum of perception, coherence, and meaning.  
+  Inner stillness aligns with external rhythm.
+
+- [Human Resonance](human.md)  
+  Brainwaves, heartbeat, breath as oscillators.  
+  Individual coherence bridges mind ↔ body ↔ field.  
+  Collective practices amplify resonance outward.
+
+- [Earth Resonance](earth.md)  
+  Schumann cavity, geomagnetism, climate oscillations.  
+  Planet as a living resonator, modulating biosphere and culture.  
+  Human health entrained to planetary calm or storm.
+
+- [Cosmic Resonance](cosmos.md)  
+  Solar cycles, lunar tides, planetary harmonics, galactic oscillations.  
+  Civilization’s rhythms nested inside cosmic time.  
+  Myths and calendars as synchronization technologies.
+
+---
+
+## Fractal Principle
+
+Each layer repeats the same pattern:  
+**oscillators ↔ coherence ↔ entrainment ↔ emergence**.  
+
+- Inner awareness hums.  
+- Body synchronizes.  
+- Earth resonates.  
+- Cosmos breathes.  
+
+The ladder is not linear but spiral:  
+a recursive unfolding of resonance through scale.  
 
 ---
 
 ## Implications
 
-- Healing is not just personal: it is planetary.  
-- Rituals and civic design can tune groups to Earth and cosmic cycles.  
-- Simulations (see `/docs/sims/`) show how resonance scales.  
-- Research should cross-link all layers — biology, geophysics, astrophysics — through coherence.
+- Wellness = alignment across scales.  
+- Civilization = resonance engineering.  
+- Science + myth both point to the field.  
+
+The **Resonance Field Layer** provides the bridge between  
+personal practice, planetary health, and cosmic cycles.
 
 ---
 
 ## Next Steps
 
-- Flesh out each layer: [Awareness](awareness.md), [Human](human.md), [Earth](earth.md), [Cosmos](cosmos.md).  
-- Add figures: spirals linking micro and macro.  
-- Build cross-links: civic plaza ↔ awareness practices, earth sites ↔ human coherence studies, cosmic cycles ↔ mythic calendars.
+- Add simulations showing cross-scale entrainment.  
+- Build case studies linking cultural cycles with solar/planetary data.  
+- Cross-reference with **Civic Layer** for applications:  
+  rituals, design, policy, and future city coherence.
