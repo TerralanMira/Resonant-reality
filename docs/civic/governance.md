@@ -1,53 +1,77 @@
-# Governance — Resonant Decision-Making
+# Civic Governance — Resonance as Collective Choice
 
-Governance is how **a group stays in tune with itself**.  
-It is less about rules and more about maintaining **coherence in flow**.
-
----
-
-## Principles
-
-- **Transparency**  
-  Decision-making must be visible like a clear tone.  
-  Hidden decisions create dissonance.  
-
-- **Participation**  
-  Every voice is a note. Harmony emerges when voices  
-  are heard and weighted, not silenced.  
-
-- **Adaptability**  
-  Structures should flex like rhythms — steady enough  
-  for trust, fluid enough for change.  
+Governance is the art of attunement.  
+It is not the imposition of rules but the orchestration of coherence.  
+A resonant city is governed the way a symphony is conducted:  
+each voice distinct, yet all woven into harmony.
 
 ---
 
-## Forms of Resonant Governance
+## Anchors of Governance
 
-- **Circle Processes**  
-  Dialogues arranged in circles (literal or digital).  
-  Everyone is equidistant; no one sits above.  
+- **Decision as Resonance Check**  
+  - Policies are tested for coherence: do they amplify or fragment the field?  
+  - Governance is less about majority vote, more about harmonic balance.
 
-- **Polycentric Webs**  
-  Instead of one central authority, multiple nodes of governance  
-  overlap — hearth councils, plaza assemblies, guilds of practice.  
+- **Deliberation as Entrainment**  
+  - Councils open with silence, breathwork, or chanting.  
+  - Collective nervous systems align before debate begins.  
+  - Resonant states foster empathy, reducing polarization.
 
-- **Ritualized Consensus**  
-  Decision as a shared rhythm. Drumming, chanting, or breath  
-  may be woven into civic deliberation to tune coherence.  
+- **Transparency as Sounding**  
+  - All proceedings are public, accessible, and recorded.  
+  - Transparency is like acoustics: when walls absorb too much, resonance dies.  
+  - Open channels allow feedback and tuning.
+
+- **Distributed Conduction**  
+  - Leadership is rotating, like instruments taking solos.  
+  - The conductor does not dominate but reveals latent coherence.  
+  - Governance becomes a dance of distributed authority.
 
 ---
 
-## Simulation Ideas
+## Entrainment Windows
 
-- **Agent-Based Models**: Simulate consensus vs. majority-vote vs. autocracy.  
-- **Noise Injection**: What happens when a few nodes refuse to synchronize?  
-- **Resilience Tests**: How quickly does coherence re-emerge after disruption?  
+- **Citizen ↔ Citizen**  
+  - Town halls and assemblies structured around rhythm and ritual.  
+  - Conflict resolved through entrainment before negotiation.
+
+- **Citizen ↔ City**  
+  - Feedback loops built into civic infrastructure.  
+  - Citizens sense policy effects in real time (data dashboards, ecological monitors).
+
+- **City ↔ Planet**  
+  - Civic decisions tied to ecological coherence.  
+  - Laws measured not only by human benefit but planetary resonance impact.
+
+---
+
+## Design Patterns
+
+- **Resonant Councils**  
+  - Meeting spaces shaped for acoustics and coherence.  
+  - Circular seating, echo points, resonant domes amplify unity.
+
+- **Living Charters**  
+  - Constitutions that evolve like musical scores.  
+  - Governance is not static law but adaptive tuning.
+
+- **Policy Simulation Labs**  
+  - Civic decisions modeled as resonance fields before implementation.  
+  - Citizens experience possible futures as simulations, not abstractions.
+
+---
+
+## Implications
+
+- Governance as resonance reframes politics from conflict to coherence.  
+- Polarization is seen as *phase incoherence*, solvable with entrainment.  
+- The role of leaders is not control but **tuning the field**.  
 
 ---
 
 ## Next Steps
 
-- Add case studies: indigenous councils, open-source governance, citizens’ assemblies.  
-- Cross-link with **Plaza (plaza.md)** as the space of decision,  
-  and **Conduits (conduits.md)** as the pathways of trust.  
-- Prepare visualization: coherence of decision-making over time.  
+- Cross-link to **`docs/civic/conductor.md`** (conductor as civic archetype).  
+- Connect to **`docs/sims/`** simulations: model civic entrainment dynamics.  
+- Add case studies: indigenous consensus councils, citizens’ assemblies, restorative justice rituals.  
