@@ -62,6 +62,10 @@ Feedback loop Cosmos → Earth → Human → Civic as a single spiral.
 **Pass/Falsifier**: Cross-check against meditation/global coherence experiment data.
 
 ---
+python sims/sunspot_cycle.py
+python sims/orbital_ratios.py
+python sims/lunar_wheel.py
+python sims/galactic_pulse.py
 
 ## Next Steps
 
