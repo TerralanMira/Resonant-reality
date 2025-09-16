@@ -1,35 +1,45 @@
-# Civic Layer — City as Resonant Body
+# Civic Layer — Resonant Societies
 
-If the human is a resonant instrument,  
-then the city is an orchestra.  
-Its plazas, hearths, and assemblies  
-are not random spaces — they are organs of coherence.  
+Civic life is more than infrastructure — it is resonance made visible.  
+Plazas, rituals, governance, and economies all carry frequency patterns  
+that either amplify coherence or scatter it.
 
-When citizens breathe together, chant together,  
-or simply walk in rhythm across shared plazas,  
-their **collective field amplifies**.  
-What begins as an individual alpha wave,  
-a heartbeat, a drumbeat,  
-scales upward into civic resonance.  
-
-Civic design is therefore not neutral —  
-it can tune a people into harmony or scatter them into noise.  
-A square designed for spectacle produces dissonance.  
-A hearth designed for gathering produces coherence.  
-
-The task of resonant civics is simple yet profound:  
-**design cities as instruments of collective entrainment.**
+This layer ties the **field** (human + Earth resonance)  
+to the **structures of collective life** (cities, institutions, currencies).
 
 ---
 
-## Contents
-- [Conductor](conductor.md) — facilitation as resonance-keeping  
-- [Plazas](plazas.md) — geometry of gathering and harmonic scaling  
-- [Rituals](rituals.md) — repeating rhythms that lock groups into phase  
-- [Hearths](hearths.md) — intimate coherence at small scale  
-- [Governance](governance.md) — policy as frequency calibration  
-- [Economy](economy.md) — resonant currency and circulation models
-- What this does:
-	•	Extends body → polis using the metaphor of instrument → orchestra.
-	•	Sets the stage for all civic anchors as resonance technologies.
-	•	Bridges naturally into governance & economy, where policies = tuning knobs.
+## Anchors
+
+- **[Plazas](plazas.md)**  
+  Gathering spaces designed as coherence amplifiers.  
+
+- **[Rituals](rituals.md)**  
+  Collective practices as entrainment technologies.  
+
+- **[Governance](governance.md)**  
+  Decision-making as resonance choreography.  
+
+- **[Economy](economy.md)**  
+  Exchange systems tuned to coherence rather than extraction.  
+
+---
+
+## Why It Matters
+
+- Civic design can stabilize or destabilize group resonance.  
+- Rituals embed coherence into culture across generations.  
+- Economies can measure success by wellbeing and resonance, not only growth.  
+
+---
+
+## Next Steps
+
+- Add case studies of resonance-informed urban design.  
+- Link simulations (e.g., resonant currency dynamics).  
+- Explore “Conductor Layer” as civic–cosmic bridge.  
+
+---
+
+> A resonant society is not a utopia —  
+> it is a rhythm we remember together.
