@@ -2,12 +2,10 @@
 """
 Atlas Overlay — stub
 
-Conceptual overlay:
-- Draws a simple spiral (memory of the whole).
-- Plots Earth sites (from earth/data/sites.json) on a lon/lat scatter.
-- Shows how mythic spiral and planetary nodes can be seen in one view.
-
-Outputs: sims/figures/atlas_overlay.png
+Concept:
+- Plot a simple spiral (the 'memory of the whole').
+- Overlay Earth sites from earth/data/sites.json on a lon/lat scatter.
+- One figure, default matplotlib settings (no seaborn), saved to sims/figures/atlas_overlay.png
 """
 
 from pathlib import Path
@@ -15,7 +13,8 @@ import json
 import numpy as np
 import matplotlib.pyplot as plt
 
-ROOT = Path(__file__).resolve().parents[1]
+# Paths
+ROOT = Path(__file__).resolve().parents[1]   # .../sims
 DATA = ROOT.parent / "earth" / "data" / "sites.json"
 OUTDIR = ROOT / "figures"
 OUTDIR.mkdir(parents=True, exist_ok=True)
@@ -28,33 +27,36 @@ def load_sites(path: Path):
     with path.open("r", encoding="utf-8") as f:
         data = json.load(f)
     pts = []
-    for s in data if isinstance(data, list) else []:
-        if "lat" in s and "lon" in s:
-            pts.append((float(s["lon"]), float(s["lat"]), s.get("name","")))
+    if isinstance(data, list):
+        for s in data:
+            if "lat" in s and "lon" in s:
+                pts.append((float(s["lon"]), float(s["lat"]), s.get("name","")))
     return pts
 
-def spiral_points(turns=3, steps=600, scale_x=180, scale_y=90):
-    # Parametric spiral in abstract space, scaled to lon/lat ranges
-    t = np.linspace(0, 2*np.pi*turns, steps)
-    r = np.linspace(0.1, 1.0, steps)  # outward growth
-    x = scale_x * r * np.cos(t)       # map to -180..180 ish
-    y = scale_y * r * np.sin(t)       # map to  -90..90 ish
+def spiral_points(turns=3, steps=600, scale_x=180.0, scale_y=90.0):
+    """
+    Parametric spiral in abstract space, scaled into lon/lat bounds.
+    This is illustrative (not a geodesic); it’s a myth→math overlay.
+    """
+    t = np.linspace(0.0, 2.0*np.pi*turns, steps)
+    r = np.linspace(0.1, 1.0, steps)   # outward growth from center
+    x = scale_x * r * np.cos(t)        # ~ -180..180
+    y = scale_y * r * np.sin(t)        # ~  -90..90
     return x, y
 
 def main():
     sites = load_sites(DATA)
-    # Spiral
-    sx, sy = spiral_points()
+    sx, sy = spiral_points(turns=3, steps=800)
 
     plt.figure(figsize=(10,5))
-    # Spiral line
+    # Spiral path
     plt.plot(sx, sy, linewidth=1.5)
-    # Sites
+    # Sites overlay
     if sites:
         xs = [p[0] for p in sites]
         ys = [p[1] for p in sites]
         plt.scatter(xs, ys, s=25)
-        # label a few to avoid clutter
+        # Light labeling for first few to avoid clutter
         for (x, y, name) in sites[:8]:
             plt.text(x, y, f" {name}", fontsize=8)
 
