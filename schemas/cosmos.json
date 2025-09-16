@@ -1,0 +1,50 @@
+---
+
+### 📄 `schemas/cosmos.json`
+```json
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cosmos Resonance Schema",
+  "description": "Structured representation of resonance phenomena at cosmic scales.",
+  "type": "object",
+  "properties": {
+    "background_resonances": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "frequency_hz": { "type": "number" },
+          "source": { "type": "string" },
+          "notes": { "type": "string" }
+        },
+        "required": ["name", "frequency_hz", "source"]
+      }
+    },
+    "oscillators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "entity": { "type": "string" },
+          "period": { "type": "string", "description": "Orbital or cycle period" },
+          "medium": { "type": "string", "description": "Coupling medium (plasma, gravity, etc.)" }
+        },
+        "required": ["entity", "period"]
+      }
+    },
+    "simulations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "status": { "type": "string", "enum": ["planned", "running", "complete"] }
+        },
+        "required": ["name", "status"]
+      }
+    }
+  },
+  "required": ["background_resonances", "oscillators"]
+}
