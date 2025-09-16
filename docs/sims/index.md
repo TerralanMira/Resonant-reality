@@ -1,48 +1,60 @@
-# Simulations — myth → math → visible coherence
+# Simulation Layer
 
-These models are not just “physics toys.”  
-Each is a lens into resonance across scales — from oscillators to societies.  
-They show how the same hum that locks fireflies in sync  
-also tunes human hearts, Earth’s ionosphere, and even our economies.
-
-> **Note:** Simulations are optional. This site publishes without running Python.
-> Figures are placeholders until someone runs them on a laptop and adds images to `sims/figures/`.
-> The concepts and civic applications stand on their own.
-To run them is to *see coherence emerge*.  
-To read them is to glimpse the **fractal rhyme** of myth and math:  
-micro spirals mirroring macro fields, signals binding into wholeness.
+Simulations here are not “games of numbers” but **mirrors of resonance**.  
+Each model is a **microcosm** of the Earth ↔ Human ↔ Civic ↔ Cosmos spiral.  
+They let us test intuitions, reveal thresholds, and visualize coherence flows.
 
 ---
 
-## Index
-- [Spiral Resonance](spiral_resonance.md) — micro → macro spiral of coherence (animated)
-- [Kuramoto Sync](kuramoto.md) — many oscillators locking as coupling rises
-- [LC Grid Modes](lc_grid.md) — geometry shapes resonance spectra
-- [Schumann Coupling](schumann.md) — entrainment window near 7.83 Hz
-- [Resonant Currency](resonant_currency.md) — policy as conductor; coherence as value
+## Cross-Map: Sims ↔ Spiral
+
+1. **Kuramoto Sync** (`sims/kuramoto.py`)  
+   ↳ Micro of **Rituals** — agents entraining like drummers or chanters.  
+   Demonstrates how local oscillators fall into shared rhythm.
+
+2. **Spiral Resonance** (`sims/spiral_resonance.py`)  
+   ↳ Micro of **Plazas** — geometry shaping coherence.  
+   The spiral form shows how structure guides convergence.
+
+3. **LC Grid Modes** (`sims/lc_grid.py`)  
+   ↳ Micro of **Hearths** — local circuits storing and radiating resonance.  
+   Coherence persists as standing waves in a grid.
+
+4. **Schumann Coupling** (`sims/schumann.py`)  
+   ↳ Micro of **Education** — the planet itself as teacher.  
+   Shows how brainwaves and breath entrain to Earth’s EM fields.
+
+5. **Resonant Currency** (`sims/resonant_currency.py`)  
+   ↳ Micro of **Economy** — tokens expand/contract with coherence.  
+   Illustrates policy as conductor balancing supply, demand, and resonance.
+
+6. **Governance Dynamics** (`sims/governance.py`) *(stub)*  
+   ↳ Micro of **Governance** — decision nodes tuned by coherence.  
+   Would model how groups shift policy when resonance drops or rises.
+
+7. **Conductor Role** (`sims/conductor.py`) *(stub)*  
+   ↳ Micro of **Conductor** — one oscillator adjusting phase to lift the whole.  
+   Embodies the meta-layer of tuning, listening, and guiding.
 
 ---
 
-Figures will be saved in `sims/figures/`  
-→ Add them here at the bottom for a visual gallery once generated.
+## Spiral Loop
+
+Together these sims form a **resonance circuit**:  
+- From **human oscillators (Kuramoto)** →  
+- To **geometric gathering (Spiral)** →  
+- To **stored resonance (LC Grid)** →  
+- To **planetary entrainment (Schumann)** →  
+- To **value flows (Currency)** →  
+- To **decision flows (Governance)** →  
+- To **meta-tuning (Conductor)**.  
+
+And the loop closes back into human practice.
 
 ---
 
-## 🔗 Cross-Maps — Each Simulation as Micro of Macro
+## Next Steps
 
-- **Spiral Resonance** → mirrors **cosmos** (galaxies, vortices) and **civic plazas**.  
-- **Kuramoto Sync** → mirrors **human brain/heart sync** and **civic governance assemblies**.  
-- **LC Grid Modes** → mirrors **field geometries** and **civic architecture**.  
-- **Schumann Coupling** → mirrors **Earth–human entrainment** and **collective ritual timing**.  
-- **Resonant Currency** → mirrors **economy as conductor**, balancing coherence with flow.
-
-> Each minimal model is a **toy proof**:  
-> part showing the whole, whole shaping the part.
----
-
-## Gallery (to be filled as sims run)
-- Spiral Resonance — (placeholder: sims/figures/spiral.png)
-- Kuramoto Sync — (placeholder: sims/figures/kuramoto_R.png)
-- LC Grid Modes — (placeholder: sims/figures/lc_grid.png)
-- Schumann Coupling — (placeholder: sims/figures/schumann.png)
-- Resonant Currency — (placeholder: sims/figures/resonant_currency_price.png)
+- Fill stubs (`governance.py`, `conductor.py`) with minimal working models.  
+- Generate figures (`sims/figures/`) for each sim.  
+- Cross-link sims back to civic docs (e.g. `docs/civic/economy.md` ↔ `resonant_currency.py`).
