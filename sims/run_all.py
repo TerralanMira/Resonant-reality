@@ -7,6 +7,9 @@ Usage:
 import subprocess, sys, os, textwrap
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+---
+
+```python
 SIMS = [
     "spiral_resonance.py",
     "kuramoto_basic.py",
@@ -17,8 +20,10 @@ SIMS = [
     "governance_sync.py",
     "civic_coherence_grid.py",
     "meta_resonance.py",
+    "planetary_orbital_resonance.py",
+    "solar_hrv_correlation.py",
+    "galactic_spiral_toy.py",
 ]
-
 def run(cmd):
     print("\n" + "="*72)
     print("RUN:", " ".join(cmd))
