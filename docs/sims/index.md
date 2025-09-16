@@ -35,3 +35,10 @@ Gallery (to be filled as sims run)
 	•	LC Grid Modes — (placeholder: sims/figures/lc_grid.png)
 	•	Schumann Coupling — (placeholder: sims/figures/schumann.png)
 	•	Resonant Currency — (placeholder: sims/figures/resonant_currency_price.png, sims/figures/resonant_currency_supply.png)
+---
+
+## Run everything (local)
+
+```bash
+pip install -r sims/requirements.txt
+python sims/run_all.py
