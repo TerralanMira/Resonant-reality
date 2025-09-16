@@ -1,63 +1,96 @@
-# The Atlas of Resonance
+# Resonant Reality
 
-This repository is an evolving **atlas** of resonance:  
-a living map of how coherence flows from **cosmos → field → civic**.
-
-It is not a single theory, but a layered weave:  
-mathematics, simulations, cultural practices, and design patterns  
-all pointing to the same hum — coherence across scales.
+*A living atlas of coherence — tracing resonance across physics, earth, human, and civic layers.*  
+From myth → math → simulation → application.  
+This is not a fixed theory, but a resonant field to enter, refine, and extend.
 
 ---
 
-## Layers of the Atlas
+## 🌌 Cosmic Coherence
 
-- **[Cosmos Layer](cosmos/index.md)**  
-  Stars, plasma, and geometry as the background rhythm of reality.  
-  Anchors: [Infinity Equation](cosmos/infinity.md), [Fractals](cosmos/fractals.md), [Kuramoto Sync](sims/kuramoto_basic.py).  
+The universe is vibration first, form second.  
+Resonance is the hidden order through which systems self-organize:  
+spirals in galaxies, oscillations in atoms, rhythms in life.
 
-- **[Field Layer](field/index.md)**  
-  Earth’s resonant body, from Schumann frequencies to human heart coherence.  
-  Anchors: [Geomagnetic Fields](field/earth.md), [Human Resonance](field/human.md), [Data Anchors](field/earth/data.md).  
-
-- **[Civic Layer](civic/index.md)**  
-  Societies as resonance structures: plazas, rituals, governance, and economies.  
-  Anchors: [Plazas](civic/plazas.md), [Rituals](civic/rituals.md), [Governance](civic/governance.md), [Economy](civic/economy.md).  
+Key anchors:
+- Waves couple across scale (micro ↔ macro).
+- Synchrony stabilizes systems.
+- Coherence generates energy efficiency.
 
 ---
 
-## Why Resonance?
+## 🌍 Earth Layer
 
-- **Science** — reveals hidden synchrony across systems.  
-- **Health** — connects human wellbeing with planetary rhythms.  
-- **Culture** — shows how ritual, architecture, and policy embody coherence.  
-- **Future** — points toward Resonant Cities: societies tuned to thrive with Earth.  
+Earth is a resonant body — atmosphere, crust, and ionosphere form cavities that sing.
 
----
+- **Schumann resonances**: global EM modes, fundamental ~7.83 Hz.  
+- **Geomagnetic rhythms**: daily and seasonal pulsations entraining living systems.  
+- **Seismic/acoustic echoes**: Earth’s crust as a vibrating drum.  
 
-## How to Explore
-
-- Walk the **layers**: Cosmos → Field → Civic.  
-- Run the **simulations**: minimal models of resonance emerging.  
-- Read the **texts**: excerpts, quotes, and reflections across history.  
-- Add your own **observations**: this atlas is open to co-creation.  
+See: [`docs/field/earth/data.md`](field/earth/data.md)
 
 ---
 
-## The Spiral Method
+## 🧠 Human Resonance
 
-This atlas is recursive: each part reflects the whole.  
-Cosmos mirrors civic. Civic grounds field. Field channels cosmos.  
-The spiral is both **map** and **method**.  
+The body is tuned to Earth’s frequencies.  
+Brainwaves, heart rhythms, and breath cycles all fall within planetary bands.
 
----
+- **Brainwaves**: Delta → Theta → Alpha → Beta → Gamma.  
+  ↳ Schumann overlaps alpha–theta transition.  
+- **Heart coherence**: HRV entrains with breath & geomagnetic calm.  
+- **Breath cycles**: ~0.1 Hz coherent breathing bridges voluntary and involuntary systems.  
 
-## Next Steps
-
-- Grow the simulation gallery.  
-- Add cross-links between layers.  
-- Open discussions: resonance as a research, health, and design paradigm.  
+See: [`docs/field/human.md`](field/human.md)
 
 ---
 
-> *The atlas is not finished. It cannot be finished.  
-> Like resonance itself, it only deepens the more we listen.*
+## 🏙 Civic Resonance
+
+Cities are fields of fields: plazas, hearths, schools, rituals, and economies all act as resonant chambers.  
+Civic design can amplify coherence the way a conductor synchronizes an orchestra.
+
+Anchors:
+- **Plazas** → civic-scale resonance chambers.  
+- **Rituals** → patterned practices that align collective rhythms.  
+- **Education** → knowledge as resonance transmission.  
+- **Governance** → decision as synchrony.  
+- **Economy** → flow of tokens/resources as frequency.  
+
+See: [`docs/civic/conductor.md`](civic/conductor.md)
+
+---
+
+## 🧪 Simulations — myth → math → visible coherence
+
+Minimal models that let anyone *see* resonance emerge.  
+Each sim is both playful and testable: falsifiable myths.
+
+- **Spiral Resonance** — micro ↔ macro spiral of coherence  
+- **Kuramoto Sync** — oscillators locking with coupling  
+- **LC Grid Modes** — geometry shaping resonance spectra  
+- **Schumann Coupling** — entrainment at ~7.83 Hz  
+- **Resonant Currency** — coherence-indexed token economy  
+
+See: [`docs/sims/index.md`](sims/index.md)
+
+---
+
+## 🔭 Why This Matters
+
+Resonance is not metaphorical — it is measurable.  
+What we call “society” and “consciousness” ride on physical rhythms.  
+By tuning design to resonance, we can stabilize fragile systems, amplify vitality, and align civic life with planetary cycles.
+
+---
+
+## 🚀 Next Steps
+
+- Run the simulations in `/sims` and contribute new ones.  
+- Add datasets (HRV, geomagnetic indices, urban rhythms).  
+- Prototype civic designs: plazas, rituals, resonant currencies.  
+- Treat this as a *living document*: fork, extend, hum back.
+
+---
+
+**Resonant Reality is not finished — it is a field to be tuned.**
