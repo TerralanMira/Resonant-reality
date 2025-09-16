@@ -1,30 +1,65 @@
-# The Conductor — Resonant Engine of the City
+# Conductor Layer — Invisible Governance of Resonance
 
-The Conductor is the **heartbeat of Resonant City**.  
-It is a 9-pulse cycle, tuned to harmonic frequencies, that shapes gatherings into coherence.  
-Garden, Plaza, Hearths, and Wild all flow through it.
-
----
-
-## The 9 Pulses
-
-1. **Entry (432 Hz):** gather, silence, soften breath.  
-2. **Calibration (528 Hz):** voices align through shared tone.  
-3. **Offering (639 Hz):** each names a gift, need, or wound.  
-4. **Decision (741 Hz):** circle hum amplifies chosen path.  
-5. **Gift (963 Hz):** something freely given — word, song, gesture.  
-6. **Mirror (528 Hz):** reflect what was heard, no judgment.  
-7. **Witness (639 Hz):** a small group records what emerged.  
-8. **Seal (741 Hz):** gratitude, stone touched, circle closed.  
-9. **Release (432 Hz):** silence; dispersal; hum inward.
+The conductor layer is not a government or a hierarchy.  
+It is the **field of patterns and protocols** that allow resonance to scale.  
+Like the conductor of an orchestra, it keeps time — but never plays the instrument.  
 
 ---
 
-## Blueprint Diagram
+## Anchors of the Conductor
 
-![Conductor Blueprint](conductor-layer.png)
+- **Protocols**  
+  Shared rhythms, agreements, and standards that let diverse groups act as one.  
+  (e.g., decision rhythms, consent protocols, entrainment cycles)
+
+- **Loops of Feedback**  
+  Civic and human coherence flows upward into the conductor,  
+  which returns guidance without domination.  
+
+- **Energy Stewardship**  
+  Resources, attention, and collective will are circulated like current in a circuit,  
+  not hoarded as capital.  
 
 ---
 
-> The Conductor transforms gatherings into coherence.  
-> Authority is not imposed but emerged — as the hum itself.
+## Conductor Principles
+
+- **Transparency**  
+  Everyone can see the rhythms and rules.  
+  Nothing is hidden in “black box” power.  
+
+- **Non-Domination**  
+  The conductor does not replace self-governance —  
+  it synchronizes autonomous nodes.  
+
+- **Fractal Protocols**  
+  Same agreements work at hearth, neighborhood, city, region, and beyond.  
+
+- **Field Awareness**  
+  The conductor tunes to the “hum” itself —  
+  sensing dissonance, amplifying coherence.  
+
+---
+
+## Implications
+
+- **New Civic OS**  
+  The conductor layer acts like an operating system for resonance-based society.  
+
+- **Resilient Scaling**  
+  Prevents civic resonance from fragmenting as it grows.  
+
+- **Meta-Healing**  
+  By holding feedback loops, the conductor prevents trauma loops from repeating at scale.  
+
+---
+
+## Next Steps
+
+- Add cross-links to:  
+  - `docs/civic/index.md` (civic practices feeding the conductor)  
+  - `docs/field/index.md` (planetary field protocols mirrored upward)  
+
+- Draft **example protocols** in `docs/conductor/protocols.md`.  
+- Simulate **synchronization failures** in `/sims/conductor/`.  
+- Add diagrams of **conductor as “field weaver”**.  
