@@ -70,7 +70,52 @@ all fall within frequency bands shaped by the planet’s electromagnetic envelop
 - Cross-link to **`docs/field/earth.md`** for planetary rhythms.  
 - Add data sets: HRV studies, EEG–Schumann overlays.  
 - Connect to **simulations**: e.g., brain–earth resonance models, coherence wave propagation.  
+---
 
+## Feedback Loop: Earth ↔ Human ↔ Civic ↔ Cosmos
+
+The resonance framework is not linear but cyclical —  
+each layer entrains, modulates, and amplifies the others.  
+Below is a systems sketch in Markdown/ASCII form:
+      ┌──────────┐
+      │  COSMOS  │
+      └────┬─────┘
+           │
+           ▼
+    ┌────────────┐
+    │   EARTH    │
+    │  Fields    │
+    └────┬───────┘
+         │
+         ▼
+    ┌────────────┐
+    │   HUMAN    │
+    │  Rhythms   │
+    └────┬───────┘
+         │
+         ▼
+    ┌────────────┐
+    │   CIVIC    │
+    │  Systems   │
+    └────┬───────┘
+         │
+         ▼
+      (loops back)
+      - **Cosmos → Earth**: Solar, lunar, and galactic inputs drive geomagnetic and atmospheric resonance.  
+- **Earth → Human**: Schumann and geomagnetic rhythms entrain brainwaves, HRV, breath cycles.  
+- **Human → Civic**: Coherence practices scale into governance, economy, and culture.  
+- **Civic → Cosmos**: Coordinated human activity generates detectable EM and atmospheric perturbations.  
+
+### Implication
+Every practice — from meditation to policy design — is a tuning fork.  
+Each node is a **feedback point**:  
+- A coherent Earth stabilizes humans.  
+- Coherent humans shape civic systems.  
+- Civic systems, in resonance, broadcast into the wider cosmos.  
+
+---
+
+📎 Next Steps: Cross-reference this loop in `sims/index.md` with explicit simulation maps.
 ---
 
 > The human is the **bridge node**:  
