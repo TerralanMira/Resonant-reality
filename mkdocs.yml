@@ -1,7 +1,7 @@
 site_name: Resonant Reality
-site_description: A living atlas of resonance — from human breath to galactic spirals.
-site_author: Terralan Mira
-repo_url: https://github.com/TerralanMira/Resonant-reality
+site_description: "Field, human, civic, and cosmic resonance — models, maps, and simulations"
+site_author: "Terralan Mira"
+repo_url: "https://github.com/TerralanMira/Resonant-reality"
 
 theme:
   name: material
@@ -9,70 +9,59 @@ theme:
     - navigation.expand
     - navigation.sections
     - navigation.top
-    - search.highlight
-    - search.suggest
+    - toc.integrate
   palette:
-    primary: indigo
-    accent: amber
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+  icon:
+    repo: fontawesome/brands/github
 
 markdown_extensions:
-  - toc:
-      permalink: true
   - admonition
   - codehilite
   - footnotes
+  - meta
+  - toc:
+      permalink: true
   - tables
-  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.emoji
 
 nav:
   - Home: index.md
-  - Theory of Resonance: docs/theory.md
-
+  - Field Layer:
+      - Overview: docs/field/index.md
+      - Earth Data: docs/field/earth/data.md
+      - Human Resonance: docs/field/human.md
+      - Cosmos Resonance: docs/field/cosmos.md
+  - Civic Layer:
+      - Hearths: docs/civic/hearths.md
+      - Governance: docs/civic/governance.md
+      - Economy: docs/civic/economy.md
+      - Education: docs/civic/education.md
+      - Plazas: docs/civic/plazas.md
+      - Rituals: docs/civic/rituals.md
   - Simulations:
-      - Overview: docs/sims/index.md
-      - Quickstart: docs/sims/quickstart.md
-      - Spiral Resonance: docs/sims/spiral_resonance.md
+      - Index: docs/sims/index.md
+      - Spiral Resonance: docs/sims/spiral.md
       - Kuramoto Sync: docs/sims/kuramoto.md
       - LC Grid Modes: docs/sims/lc_grid.md
       - Schumann Coupling: docs/sims/schumann.md
       - Resonant Currency: docs/sims/resonant_currency.md
-      - Governance Sync: docs/sims/governance_sync.md
-      - Civic Coherence Grid: docs/sims/civic_coherence_grid.md
-      - Meta-Resonance: docs/sims/meta_resonance.md
-      - Reciprocity Network: docs/sims/reciprocity_network.md
-      # NEW cosmic sims
-      - Planetary Orbital Resonance: docs/sims/planetary_orbital_resonance.md
-      - Solar ↔ HRV Correlation: docs/sims/solar_hrv_correlation.md
-      - Galactic Spiral Toy: docs/sims/galactic_spiral_toy.md
-
-  - Field:
-      - Overview: docs/field/index.md
-      - Earth: docs/field/earth/index.md
-      - Earth Data: docs/field/earth/data.md
-      - Human Resonance: docs/field/human/index.md
-      - Cosmic Resonance: docs/field/cosmos.md
-
-  - Civic:
-      - Overview: docs/civic/index.md
-      - Conductor: docs/civic/conductor.md
-      - Plazas: docs/civic/plazas.md
-      - Rituals: docs/civic/rituals.md
-      - Hearths: docs/civic/hearths.md
-      - Governance: docs/civic/governance.md
-      - Education: docs/civic/education.md
-      - Economy: docs/civic/economy.md
-      - Commons: docs/civic/commons.md
-      - Conduits: docs/civic/conduits.md
-      - Design: docs/civic/design.md
-      - Loops: docs/civic/loops.md
-      - Media: docs/civic/media.md
-
-  - Cosmos:
-      - Overview: docs/cosmos/index.md
-      - Schumann Resonances: docs/cosmos/schumann.md
-      - Solar Rhythms: docs/cosmos/solar.md
-      - Lunar Tides: docs/cosmos/lunar.md
-      - Galactic Spirals: docs/cosmos/galactic.md
-
-  - Core:
-      - Infinity Equation: docs/core/infinity_equation.md
+  - Awareness & Coherence:
+      - Overview: docs/awareness/index.md
+      - Practices: docs/awareness/practices.md
+      - Collective Field: docs/awareness/collective.md
+  - Books & References:
+      - Core Texts: docs/books/index.md
+      - Excerpts: docs/books/excerpts.md
+  - Exports:
+      - Knowledge Maps: docs/exports/maps.md
+      - Data Sheets: docs/exports/data.md
