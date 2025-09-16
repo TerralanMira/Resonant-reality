@@ -1,53 +1,53 @@
-# Civic Rituals — Collective Entrainment
+# Civic Rituals
 
-Rituals are the oldest resonance technologies.  
-They synchronize breath, voice, gesture, and intention across groups,  
-tuning humans into coherence with one another and the Earth.
-
----
-
-## Anchors
-
-- **Chanting & Song**  
-  - Group chanting entrains breath and brainwaves.  
-  - Frequencies around 7–10 Hz (alpha-theta) overlap with Schumann resonance.  
-  - Example: Gregorian chant, Sufi zikr, Tibetan overtone.
-
-- **Drumming & Dance**  
-  - Rhythmic drumming aligns heart rate and brain activity across participants.  
-  - Collective dance creates **phase-locking** of movement.  
-  - Indigenous drum circles, rave culture, and military marches share the same physics.
-
-- **Meditation & Breath**  
-  - Coherent breathing (~0.1 Hz) optimizes heart-rate variability (HRV).  
-  - Group meditation amplifies local EM coherence fields.  
-  - Experiments show measurable reductions in crime and conflict during mass meditation.
+Ritual is civic resonance made visible.  
+Through rhythm, chant, procession, or shared silence, people entrain to each other —  
+aligning heartbeats, breath, and attention into spirals of coherence.  
+Rituals are not extras to governance, they are the *tuning events* of civic life.  
 
 ---
 
-## Entrainment Windows
+## Core Idea: Spiral Resonance
 
-- **Local → Collective**  
-  Small circles (10–20 people) can reach shared coherence measurable in HRV.  
-  Scaling to hundreds or thousands amplifies impact — festivals, vigils, mass meditations.
+- **Spirals** capture the micro → macro → micro recursion of ritual.  
+- Each participant contributes a cycle (breath, clap, chant).  
+- The cycles interlock, spiraling outward into shared rhythm.  
+- The form scales fractally: a small circle, a plaza, a nation, a planet.
 
-- **Earth ↔ Ritual**  
-  Ritual rhythms overlapping with Schumann bands create feedback with the geomagnetic field.  
-  This is why global synchronized meditations sometimes correlate with reduced geomagnetic noise.
-
----
-
-## Implications
-
-- Rituals can be reframed as **social coherence protocols**.  
-- They are not relics of religion, but applied biophysics.  
-- Civic design should reintroduce ritual as **public infrastructure**.
+This is modeled in the **Spiral Resonance simulation**.
 
 ---
 
-## Next Steps
+## Simulation Anchor
 
-- Add case studies: e.g., HeartMath Global Coherence Initiative.  
-- Link to **`docs/field/human.md`** for physiological grounding.  
-- Connect to **`docs/sims/kuramoto.md`** for oscillator entrainment models.  
-- Propose **new civic rituals** blending ancient practice and modern science.
+See **[`sims/spiral_resonance.py`](../../sims/spiral_resonance.py)**.
+
+- **What it shows**: A spiral of oscillators visually converging to resonance.  
+- **Output**: `sims/figures/spiral.png` (animated if run interactively).  
+- **Interpretation**: Disorder at the edges → coherence at the core.  
+  This is the “hum” of ritual.
+
+Run it yourself:
+
+```bash
+python sims/spiral_resonance.py
+Ritual Implications
+	•	Tuning: Ritual opens civic space with coherence, like tuning an instrument.
+	•	Inclusivity: Everyone can contribute a beat, a step, a breath.
+	•	Scaling: Small rituals spiral into city-wide coherence.
+	•	Healing: Shared rhythm stabilizes stress and trauma in the field.
+
+⸻
+
+Civic Design Principles
+	•	Begin assemblies with shared rhythm (drumming, breath, chant).
+	•	Design plazas and halls to amplify sound and rhythm into spirals.
+	•	Use seasonal rituals to anchor civic cycles (solstice, harvest, equinox).
+	•	Rituals are interfaces where the invisible coherence becomes visible.
+
+⸻
+
+Next Steps
+	•	Cross-link with docs/sims/spiral_resonance.md (explanation of the sim).
+	•	Collect examples: powwows, cathedral chants, protest marches, haka.
+	•	Develop metrics: measure group HRV or brainwave coherence during ritual.
