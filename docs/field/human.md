@@ -1,60 +1,78 @@
 # Human Resonance Layer
 
-The human body is not separate from Earth’s resonance — it is tuned into it.  
+The human body is not separate from Earth’s resonance — it is **tuned into it**.  
 Heart rhythms, brain oscillations, breath cycles, and cellular signaling  
 all fall within frequency bands shaped by the planet’s electromagnetic envelope.
 
 ---
 
-## Key Anchors
+## Core Anchors
 
 - **Brainwaves**  
-  - Delta (0.5–4 Hz) — deep sleep, healing states  
-  - Theta (4–8 Hz) — trance, dream, creative flow  
-  - Alpha (8–12 Hz) — calm, meditative awareness  
-  - Beta (12–30 Hz) — active, problem-solving  
-  - Gamma (>30 Hz) — integration, insight, binding consciousness  
-  ↳ *Note*: Schumann fundamental (~7.83 Hz) sits right in **Theta–Alpha transition**.
+  - **Delta (0.5–4 Hz)** — deep sleep, cellular repair, unconscious healing  
+  - **Theta (4–8 Hz)** — dream, trance, imaginal vision, creativity  
+  - **Alpha (8–12 Hz)** — calm presence, meditative awareness, flow  
+  - **Beta (12–30 Hz)** — active focus, problem-solving, vigilance  
+  - **Gamma (>30 Hz)** — integration, insight, binding consciousness  
+  ↳ Note: Schumann fundamental (~7.83 Hz) sits right in the **Theta–Alpha bridge**.
 
 - **Heart Rhythms**  
-  - Resting human heartbeat ~1 Hz (60 bpm)  
-  - Heart Rate Variability (HRV) entrains with breath, emotional state, and geomagnetic fields.  
-  - Research (e.g., HeartMath) shows group coherence can measurably alter local EM environments.
+  - Resting heartbeat ~1 Hz (60 bpm).  
+  - **Heart Rate Variability (HRV)** entrains with breath, emotion, and geomagnetic fields.  
+  - Group heart coherence → local electromagnetic changes (e.g., HeartMath studies).
 
 - **Breath Cycles**  
-  - Coherent breathing ~0.1 Hz (6 breaths/min) optimizes HRV.  
-  - Resonates with **Mayer waves** and slow baroreflex rhythms.  
-  - Serves as a bridge between voluntary and involuntary systems.
+  - **Coherent breathing ~0.1 Hz (6 breaths/min)** optimizes HRV.  
+  - Resonates with **Mayer waves** and autonomic balance.  
+  - Serves as a **bridge** between voluntary (mind) and involuntary (body) systems.
+
+- **Cellular Oscillations**  
+  - Circadian rhythms (~24h) entrain to solar light/dark cycles.  
+  - DNA transcription and repair cycles run in resonance bands.  
+  - Suggests body as a **nested oscillator** array.
 
 ---
 
-## Entrainment Windows
+## Human ↔ Awareness
 
-- **Earth ↔ Brain**  
-  Schumann resonance overlaps with human alpha–theta rhythms.  
-  This is why meditation, trance, and dream states feel “attuned.”
+- Attention reshapes physiology: focused awareness shifts brain rhythm and HRV.  
+- Stress/fracture in awareness → incoherence in body rhythms.  
+- Ritual, mindfulness, prayer → stabilize human resonance.
 
-- **Earth ↔ Heart**  
-  HRV coherence aligns with geomagnetic activity.  
-  Storms and calm can be tracked in physiological rhythms.
+---
 
-- **Earth ↔ Collective**  
-  Group meditation experiments suggest amplification effects —  
-  individual coherence resonates outward.
+## Human ↔ Earth
+
+- Brainwaves and HRV align with Schumann bands.  
+- Solar storms and geomagnetic fluctuations show measurable impact on mood, sleep, cognition.  
+- Human coherence can also **feed back** into local geomagnetic calm.
+
+---
+
+## Human ↔ Cosmos
+
+- Circadian rhythm entrains to solar day; lunar cycles modulate sleep and fertility.  
+- Cosmic radiation and solar flares ripple into biology.  
+- Ancient calendars (Mayan, Vedic, Chinese) embedded cosmic cycles into human timekeeping.  
 
 ---
 
 ## Implications
 
-- Human wellness is inseparable from planetary fields.  
-- Practices like meditation, chanting, drumming, or coherent breathing  
-  can be reframed as **entrainment technologies**.  
-- Research direction: Can collective human coherence “feed back” into stabilizing Earth systems?
+- Human health is inseparable from planetary and cosmic cycles.  
+- Practices like drumming, chanting, yoga, tai chi, and meditation can be reframed as **entrainment technologies**.  
+- Research direction: group coherence experiments as stabilizers in times of ecological or social turbulence.
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/field/earth.md`** for geophysical resonance.  
-- Add case studies of meditation experiments and HRV research.  
-- Connect to **simulations**: e.g., model brainwave–Schumann overlap.
+- Cross-link to **`docs/field/earth.md`** for planetary rhythms.  
+- Add data sets: HRV studies, EEG–Schumann overlays.  
+- Connect to **simulations**: e.g., brain–earth resonance models, coherence wave propagation.  
+
+---
+
+> The human is the **bridge node**:  
+> body as antenna, heart as conductor, brain as tuner —  
+> translating awareness into earth and cosmos.
