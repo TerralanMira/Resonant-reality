@@ -5,6 +5,9 @@ Each is a lens into resonance across scales — from oscillators to societies.
 They show how the same hum that locks fireflies in sync  
 also tunes human hearts, Earth’s ionosphere, and even our economies.
 
+> **Note:** Simulations are optional. This site publishes without running Python.
+> Figures are placeholders until someone runs them on a laptop and adds images to `sims/figures/`.
+> The concepts and civic applications stand on their own.
 To run them is to *see coherence emerge*.  
 To read them is to glimpse the **fractal rhyme** of myth and math:  
 micro spirals mirroring macro fields, signals binding into wholeness.
