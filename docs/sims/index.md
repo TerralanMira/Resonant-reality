@@ -11,7 +11,11 @@ Think of them as “portals” where the invisible becomes visible.
 - [Kuramoto Sync](kuramoto.md) — many oscillators locking as coupling rises
 - [LC Grid Modes](lc_grid.md) — geometry shapes resonance spectra
 - [Schumann Coupling](schumann.md) — entrainment window near 7.83 Hz
-
+### Civic Sims
+- [Plaza Synchrony](civic_coherence.md) — crowd lock-in (Kuramoto)
+- Calendar Drift — `python sims/calendar_drift.py`
+- Law Constraint — `python sims/law_constraint.py`
+- Media Coupler — `python sims/media_coupler.py`
 ---
 
 ## Quickstart
