@@ -1,51 +1,55 @@
 site_name: Resonant Reality
-site_description: "From myth to math to visible coherence — a Theory of Everything in fractal form."
-site_url: https://terralanmira.github.io/Resonant-reality/
-
+site_description: >
+  A living atlas of resonance — from physics to human coherence to civic design.
+  Simulations, field anchors, and civic applications woven into one navigable whole.
+repo_url: https://github.com/TerralanMira/Resonant-reality
 theme:
   name: material
   features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.sections
     - navigation.expand
-    - search.suggest
-    - search.highlight
-
-nav:
-  - Home: index.md
-  - Simulations:
-      - Overview: sims/index.md
-      - Quickstart: sims/quickstart.md
-      - Spiral Resonance: sims/spiral_resonance.md
-      - Kuramoto Sync: sims/kuramoto.md
-      - LC Grid Modes: sims/lc_grid.md
-      - Schumann Coupling: sims/schumann.md
-    - Overview: sims/index.md
-    - Deepening: sims/deepening.md
-    - Meta-Resonance: sims/meta.md
-  - Earth Grid:
-      - Data: earth/data.md
-      - Resonance Map: earth/map.md
-  - Cosmos:
-      - Layers: cosmos/layers.md
-      - Coupling: cosmos/coupling.md
-  - City:
-      - Garden: city/garden.md
-      - Wild: city/wild.md
-      - Civic Plaza: city/civic_plaza.md
-      - Conductor: city/conductor.md
-  - Frameworks:
-      - Atlas Model: frameworks/atlas_model.md
-      - Resonant Frameworks: frameworks/resonant_frameworks.md
-  - Field:
-      - Awareness: field/awareness.md
-      - Coherence: field/coherence.md
-      - Applications: field/applications.md
-
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 markdown_extensions:
   - admonition
   - codehilite
   - footnotes
+  - tables
   - toc:
       permalink: true
+
+nav:
+  - Home: index.md
+  - Simulations:
+      - Overview: docs/sims/index.md
+      - Spiral Resonance: docs/sims/spiral_resonance.md
+      - Kuramoto Sync: docs/sims/kuramoto.md
+      - LC Grid Modes: docs/sims/lc_grid.md
+      - Schumann Coupling: docs/sims/schumann.md
+      - Resonant Currency: docs/sims/resonant_currency.md
+  - Field:
+      - Earth Anchors: docs/field/earth/data.md
+      - Human Resonance: docs/field/human.md
+  - Civic:
+      - Conductor: docs/civic/conductor.md
+      - Plazas: docs/civic/plazas.md
+      - Rituals: docs/civic/rituals.md
+      - Governance: docs/civic/governance.md
+      - Education: docs/civic/education.md
+      - Economy: docs/civic/economy.md
+      - Hearths: docs/civic/hearths.md
+  - About:
+      - Vision: docs/about/vision.md
+      - Theory: docs/about/theory.md
