@@ -7,7 +7,6 @@ Usage:
 import subprocess, sys, os, textwrap
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-
 SIMS = [
     "spiral_resonance.py",
     "kuramoto_basic.py",
@@ -15,6 +14,9 @@ SIMS = [
     "schumann_coupling.py",
     "resonant_currency.py",
     "reciprocity_network.py",
+    "governance_sync.py",
+    "civic_coherence_grid.py",
+    "meta_resonance.py",
 ]
 
 def run(cmd):
