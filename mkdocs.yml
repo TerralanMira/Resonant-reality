@@ -55,6 +55,9 @@ nav:
       - LC Grid Modes: docs/sims/lc_grid.md
       - Schumann Coupling: docs/sims/schumann.md
       - Resonant Currency: docs/sims/resonant_currency.md
+      - Solar–Schumann Coupling (toy): docs/cosmos/simulations.md
+      - Orbital Resonance Maps (toy): docs/cosmos/simulations.md
+      - Cosmic ↔ Civic Calendar (toy): docs/cosmos/simulations.md
   - Awareness & Coherence:
       - Overview: docs/awareness/index.md
       - Practices: docs/awareness/practices.md
