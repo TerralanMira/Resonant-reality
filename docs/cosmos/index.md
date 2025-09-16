@@ -1,65 +1,72 @@
 # Cosmos Resonance Layer
 
-The cosmos is not a backdrop — it is the field within which Earth, human, and civic life resonate.  
-From planetary orbits to stellar pulsations to the cosmic background hum, all layers of reality  
-are nested within wider spirals.
+The cosmos is not distant — it is the wider field in which Earth, human, and civic rhythms are nested.  
+Celestial cycles imprint frequencies that cascade downward: planetary orbits, solar rhythms, and galactic pulses  
+all entrain life and meaning on Earth.
 
 ---
 
 ## Key Anchors
 
+- **Planetary Orbits**  
+  - Each orbit generates a cycle frequency (yearly, synodic, retrograde beats).  
+  - Harmonics of orbital ratios (e.g., Jupiter–Saturn 5:2, Venus–Earth 8:13) resonate with musical intervals.  
+  - These patterns historically guided calendars, agriculture, and ritual festivals.  
+
 - **Solar Rhythms**  
-  - 11-year sunspot cycle → geomagnetic storms, aurora, shifts in Schumann resonance stability.  
-  - Solar flares modulate atmospheric ionization, affecting radio bands and human physiology.  
+  - Sunspot cycle (~11 years) modulates geomagnetic activity and Schumann resonance coherence.  
+  - Solar flares and coronal mass ejections can disturb heart–brain coherence globally.  
+  - Ancient cultures tracked solar max/min as epochs of collective renewal or instability.  
 
-- **Planetary Harmonics**  
-  - Orbital resonances (e.g., Jupiter–Saturn 5:2) generate long-wave coherence patterns.  
-  - Tidal forces (Moon ↔ Earth) entrain ocean rhythms, reproduction cycles, and biological clocks.  
+- **Lunar Resonance**  
+  - The Moon’s 29.5-day synodic cycle links to tides, fertility, and sleep–dream rhythms.  
+  - Lunar standstills (18.6-year cycle) are embedded in megalithic sites worldwide.  
+  - Lunar calendars remain key in civic rituals (Ramadan, Easter, Chinese New Year).  
 
-- **Stellar Pulsations**  
-  - Cepheid variables and pulsars act as galactic metronomes.  
-  - Their signals are used in navigation — and metaphorically as cosmic timekeepers.  
-
-- **Cosmic Background**  
-  - The CMB (Cosmic Microwave Background) is the oldest resonance field: ~160 GHz peak.  
-  - It is the hum of the Big Bang, still shaping spacetime structure.  
+- **Galactic Anchors**  
+  - Milankovitch cycles (eccentricity, obliquity, precession) shape Earth’s ice ages.  
+  - Galactic cosmic ray flux influences cloud formation and possibly human evolution.  
+  - The galactic center (Sagittarius A*) radiates frequencies tied to deep mythologies of origin.  
 
 ---
 
 ## Entrainment Windows
 
 - **Cosmos ↔ Earth**  
-  Planetary orbits and solar storms couple into Earth’s magnetic field.  
-  Seasonal cycles reflect celestial alignments.  
+  Orbital harmonics resonate with tectonic, climate, and biospheric rhythms.  
 
 - **Cosmos ↔ Human**  
-  Circadian rhythms are tuned to light/dark cycles set by Earth’s orbit.  
-  Lunar cycles modulate fertility, sleep, and ritual timing.  
+  Lunar and solar cycles entrain sleep, fertility, and cultural rituals.  
 
 - **Cosmos ↔ Civic**  
-  Calendars, festivals, and cultural rhythms are cosmic entrainment made social.  
-  Civic order has always been shaped by skywatching.  
+  Civic calendars, governance cycles, and festivals were historically aligned with celestial timing.  
+  Modern disconnect creates temporal dissonance; re-alignment restores coherence.  
+
+- **Cosmos ↔ Atlas**  
+  The Resonant Reality framework nests within a larger **Atlas of systemic resonance**,  
+  where planetary–stellar–galactic rhythms scaffold civilizational design.
 
 ---
 
 ## Implications
 
-- Civic rhythms (rituals, governance, economy) are fractal extensions of cosmic time.  
-- Research: how solar activity modulates collective mood, decision-making, and health.  
-- Hypothesis: resonance with cosmic cycles stabilizes both ecological and social systems.  
-
----
-
-## Simulations to Extend
-
-- **Solar–Schumann coupling**: extend the Schumann model with solar cycle inputs.  
-- **Orbital resonance maps**: visualize harmonic ratios in planetary orbits.  
-- **Cosmic → Civic**: agent-based models of calendars/festivals as stabilizers.  
+- Celestial cycles are **not abstract** — they are living rhythms that shape biology and society.  
+- Civic design can re-integrate cosmic timing (festivals, fiscal calendars, governance cycles).  
+- Personal coherence practices (meditation, ritual, dreamwork) are amplified when synced to sky rhythms.  
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/earth/data.md`** for anchor sites sensitive to cosmic inputs.  
-- Connect to **human brainwave entrainment** (theta–alpha ~ lunar cycles).  
-- Spiral upward: show cosmos as the outer layer of the feedback loop.  
+- Cross-link to **`docs/sims/index.md`** for simulations of orbital harmonics and solar cycles.  
+- Add diagrams: planetary ratio “music of the spheres,” lunar phase wheel, solar cycle curve.  
+- Bridge with **Atlas Model**: position Resonant Reality as the “local planetary octave” inside a larger cosmic score.  
+
+---
+
+## Gallery (to be filled)
+
+- Planetary Ratios — (placeholder: sims/figures/orbital_ratios.png)  
+- Sunspot Cycle — (placeholder: sims/figures/sunspot_cycle.png)  
+- Lunar Phase Wheel — (placeholder: sims/figures/lunar_wheel.png)  
+- Galactic Center Flow — (placeholder: sims/figures/galactic_pulse.png)
