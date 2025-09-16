@@ -1,62 +1,80 @@
 # Earth Resonance Layer
 
-Earth is not just a stage for life — it is a resonant body.  
-Its fields, cavities, and cycles shape every living system.  
-Mountains, oceans, forests, and ionospheric layers  
-all contribute to a global electromagnetic orchestra.
+Earth is a resonant body.  
+Its electromagnetic envelope, fluid circulations, and tectonic oscillations  
+all provide **carrier waves** in which human and collective rhythms embed.  
 
 ---
 
-## Key Anchors
+## Core Anchors
 
 - **Schumann Resonances**  
-  - Global EM cavity between Earth’s surface and ionosphere.  
-  - Fundamental ~7.83 Hz, with higher modes (14, 20, 26, 33 Hz).  
-  - Overlaps with human brainwave bands → natural entrainment.
+  - Global electromagnetic cavity between Earth’s surface and ionosphere.  
+  - Fundamental at **7.83 Hz**, with higher harmonics (~14, 20, 26, 33 Hz).  
+  - Overlaps directly with human **alpha–theta brainwaves**.  
+  - Varies with lightning activity, ionosphere height, and solar input.
 
 - **Geomagnetic Field**  
-  - Shields Earth from solar wind.  
-  - Daily fluctuations align with circadian biology.  
-  - Storms trigger measurable changes in HRV and global mood.
+  - Dynamic shield driven by Earth’s liquid iron core.  
+  - Pulses in **ULF/ELF bands** (0.01–10 Hz).  
+  - Storms and quiet phases affect human HRV, cognition, and collective mood.  
 
-- **Ley & Energy Lines**  
-  - Ancient traditions mapped “dragon lines,” “songlines,” or meridians.  
-  - Modern geomancy + geophysics suggest correlations with crustal conductivity,  
-    groundwater flows, and geomagnetic anomalies.
+- **Ocean & Atmospheric Tides**  
+  - Lunar and solar gravity entrain ~12h and 24h oscillations.  
+  - Seasonal shifts and El Niño/La Niña cycles ripple into ecosystems and behavior.  
 
-- **Geological Oscillators**  
-  - Volcanoes, tectonic stress, and ocean waves generate ELF signals.  
-  - These serve as slow planetary metronomes.
+- **Seismic & Tectonic Rhythms**  
+  - Earthquakes and volcanic tremors emit ELF infrasound and ground oscillations.  
+  - Indigenous traditions often interpreted these as Earth’s “voice.”
+
+- **Global Electric Circuit**  
+  - Thunderstorms, ionosphere, and ground create a planetary-scale circuit.  
+  - Lightning discharges pump energy into Schumann cavity.  
 
 ---
 
-## Entrainment Windows
+## Earth ↔ Human
 
-- **Earth ↔ Human**  
-  Brainwaves and HRV couple with Schumann and geomagnetic frequencies.  
-  Geomagnetic storms affect sleep, mood, and cognition.
+- Schumann bands overlap brain and heart rhythms.  
+- Geomagnetic activity correlates with hospital admissions, accidents, and mood shifts.  
+- HRV studies show **direct coupling** between human physiology and geomagnetic indices.
 
-- **Earth ↔ Cosmos**  
-  Solar flares and cosmic rays drive fluctuations in geomagnetics.  
-  Earth resonates within a broader stellar system.
+---
 
-- **Earth ↔ Collective Culture**  
-  Sacred sites often align with nodes of geomagnetic significance.  
-  Architecture, ritual, and pilgrimage reflect unconscious mapping of fields.
+## Earth ↔ Awareness
+
+- Meditation, ritual, and coherent group practices show correlation with geomagnetic calm.  
+- Suggests **bidirectional feedback**: not only are humans affected by Earth’s field,  
+  but human coherence may stabilize local geophysical turbulence.
+
+---
+
+## Earth ↔ Cosmos
+
+- Solar flares, coronal mass ejections, and cosmic rays drive geomagnetic storms.  
+- Lunar cycles entrain tides, reproduction, and sleep patterns.  
+- Planetary alignments affect tidal forces and magnetosphere currents.  
 
 ---
 
 ## Implications
 
-- Human–Earth coherence is not metaphor but physics.  
-- Cultural myths about sacred landscapes are encoded **field knowledge**.  
-- Monitoring Schumann + geomagnetics offers a way to measure  
-  “collective weather” alongside physical climate.
+- Earth is a **nested resonator** within the solar system.  
+- Its bands create **channels of coherence** between human, collective, and cosmic scales.  
+- Disruption in geomagnetic stability links to mental health, ecological stress, and social turbulence.  
+- Coherent human collectives may act as **resonant stabilizers** for Earth systems.
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/field/human.md`** (entrainment overlaps).  
-- Build a **resonance atlas**: map sacred sites + geophysical data.  
-- Connect to **simulations**: e.g., LC-grid models of planetary cavities.
+- Cross-link to **`docs/field/human.md`** for physiological resonance.  
+- Add anchor data: NOAA geomagnetic indices, Schumann monitoring stations.  
+- Connect to **simulations**: ELF wave propagation, coupling models with HRV datasets.  
+- Prepare visualization of **Earth’s resonant cavity** with overlay of human bands.  
+
+---
+
+> Earth is the **resonant drum**:  
+> Schumann as bass pulse, geomagnetics as shifting rhythm,  
+> tides as cyclical melody — all weaving the field we inhabit.
