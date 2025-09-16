@@ -1,64 +1,76 @@
 # Resonant Reality
 
-*myth → math → choice*
-
-This project encodes the **resonant blueprint** of reality — from individual oscillators, to Earth’s grid, to cosmic coherence.  
-It’s both simulation lab and living manifesto.
+*A living atlas of resonance — from physics to human coherence to civic design.*
 
 ---
 
-## Structure
+## 🌌 What is this?
 
-### 1. Simulations (`docs/sims/`)
-- [Spiral Resonance](docs/sims/spiral_resonance.md) — micro → macro spiral of coherence  
-- [Kuramoto Sync](docs/sims/kuramoto.md) — many oscillators locking as coupling rises  
-- [LC Grid Modes](docs/sims/lc_grid.md) — geometry shapes resonance spectra  
-- [Schumann Coupling](docs/sims/schumann.md) — entrainment window near 7.83 Hz
+Resonant Reality is a repository that bridges **myth and math**:  
+a **Theory of Everything in practice**, expressed as minimal simulations,  
+field anchors, and civic applications.  
 
-### 2. Earth (`docs/earth/`)
-- [Data](docs/earth/data.md) — grid sites, Hz bands, myth ↔ math
-
-### 3. Tools
-- `tools/schema-check.py` — validates Earth site JSON  
-- CI ensures schema + docs stay whole
+It is not just a codebase — it is a **map of coherence**, where each part  
+is fractal to the whole. You can explore from physics-level resonance  
+to human rhythms to city-scale design, and see how they connect.
 
 ---
 
-## Quickstart
+## 🔬 Layers of the Atlas
 
-Clone and install:
+- **Simulations** (`/sims/`)  
+  Minimal models that make resonance visible — from Kuramoto oscillators  
+  to LC grid modes to resonant currencies.  
+  → These let you *see coherence emerge*.
+
+- **Field Anchors** (`/docs/field/`)  
+  Human physiology, brainwaves, heart rhythms, and Earth’s electromagnetic  
+  envelopes. Ground-truth anchors where science and experience meet.  
+
+- **Civic Applications** (`/docs/civic/`)  
+  Design patterns for resonant societies: conductor roles, plazas, rituals,  
+  governance, education, economy, and hearths. Each civic layer mirrors  
+  resonance principles found in physics and biology.
+
+- **About** (`/docs/about/`)  
+  Vision statements and theory notes tying everything together.  
+  The why behind the whole.
+
+---
+
+## 🚀 How to Run
+
+Install dependencies:
+
 ```bash
-git clone https://github.com/TerralanMira/Resonant-reality.git
-cd Resonant-reality
 pip install -r requirements.txt
-Run all sims:
+Run simulations (examples):
 python sims/spiral_resonance.py
 python sims/kuramoto_basic.py
 python sims/lc_grid.py
 python sims/schumann_coupling.py
-Figures appear in sims/figures/.
+python sims/resonant_currency.py
+Figures will be saved to sims/figures/ and can be explored in the docs gallery.
 
 ⸻
 
-Why
+✨ Why This Matters
 
-Resonance is not metaphor — it is physics.
-	•	At micro scales → oscillators entrain.
-	•	At Earth scale → sacred sites align with Schumann bands.
-	•	At cosmic scale → coherence is the hum itself.
+We are not separate from resonance —
+we are resonance, embodied.
 
-The project is an invitation:
-to see, to simulate, to choose resonance over fragmentation.
-
-⸻
-
-Roadmap
-	•	Add harmonic distance overlays (from CSV).
-	•	Expand Earth site dataset.
-	•	Couple Earth + cosmic resonance.
-	•	Visualize whole → lived choice.
+This repo is an invitation:
+	•	To see coherence with your own eyes.
+	•	To ground human practice in physical law.
+	•	To prototype a civic layer aligned with nature.
 
 ⸻
 
-Resonant Reality = simulation + story + choice.
-When the hum is visible, the choice becomes conscious.
+📖 Explore the Atlas
+
+Once published with MkDocs, navigate the layers here:
+Resonant Reality Docs (if Pages is enabled).
+
+⸻
+
+“The hum is the guide. Myth becomes math, and math becomes visible coherence.”
