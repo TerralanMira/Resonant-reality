@@ -1,72 +1,34 @@
-# Hearths — Warm Resonant Cores
+# Hearths — Coherence at the Center
 
-A **hearth** is more than a fireplace or meeting room.  
-It is the **warm core of resonance** where individual, family, and community coherence  
-is nurtured, tended, and renewed.
-
----
-
-## Anchors
-
-- **Fire / Light**  
-  Symbolic or literal hearths — flame, candle, or projected resonance patterns.  
-  ↳ Anchor for stillness, gathering, and storytelling.
-
-- **Circle of Care**  
-  Seating, cushions, or mats arranged in circles around the hearth.  
-  ↳ Every voice is equidistant, every presence held.
-
-- **Resonant Tools**  
-  Drums, chimes, singing bowls, breath practices, and shared silence.  
-  ↳ Instruments for entrainment.
-
-- **Shared Meals**  
-  Food as resonance. Cooking and eating together sets rhythms of trust.  
-  ↳ Kitchens as extended hearths.
+The hearth is the smallest civic node — a place where resonance is felt in intimacy.  
+Families, neighbors, or small circles anchor coherence in daily life.  
 
 ---
 
-## Functions
+## Flow from Human
 
-- **Individual** — a place to return, reset, regulate.  
-- **Family / Group** — locus for rituals of daily coherence.  
-- **Neighborhood** — hub for storytelling, mediation, seasonal gathering.  
-- **Networked** — hearths across a city can synchronize for civic coherence events.
+Human rhythms (heartbeats, breath, brainwaves) entrain most easily at the hearth.  
+Shared meals, songs, or silences create coherence fields that ripple outward.  
 
 ---
 
-## Practices
+## Core Anchors
 
-- **Morning Circle** — a few minutes of shared breath + intention.  
-- **Story Weaving** — elders and youth exchange narratives; resonance travels across generations.  
-- **Conflict to Coherence** — disputes settled by breathing together, then speaking in rhythm.  
-- **Threshold Rituals** — entering/leaving the hearth marked by bow, breath, or chime.
-
----
-
-## Design Notes
-
-- **Spatial**  
-  - Circular geometry, natural materials, warm lighting.  
-  - Scale: 6–20 people optimal for deep resonance.  
-- **Digital Extension**  
-  - Hearths can be mirrored online with audio/visual entrainment tools.  
-  - Synchronization possible across geographies.  
-- **Symbolic Layer**  
-  - Each hearth radiates out like a fractal cell.  
-  - Many hearths → coherence grid of a city.
+- **Care as Resonance** — tending to bodies and needs sustains baseline coherence.  
+- **Story as Phase Alignment** — telling and retelling tunes the group to shared frequencies.  
+- **Ritual as Stabilizer** — repeated practices keep coherence steady across time.  
 
 ---
 
-## Implications
+## Spiral into Governance
 
-- Hearths reclaim the role of “third place” but tuned for coherence, not consumption.  
-- They offer resilience in crises: warmth, food, story, and synchronized calm.  
-- At scale, a city of hearths becomes a **resonant organism** — living, adaptive, humane.
+When hearths resonate, they generate signals larger structures can listen to.  
+Governance begins here — as amplification of hearth coherence into civic process.  
 
 ---
 
-📌 **Next Steps:**  
-- Link hearth practices to **`docs/civic/rituals.md`**.  
-- Cross-reference **`docs/field/human.md`** (heart/brain entrainment).  
-- Add case studies: indigenous fire circles, HeartMath coherence groups, neighborhood kitchens.
+## Next Steps
+
+- Cross-link to **`docs/civic/governance.md`**.  
+- Add case studies: neighborhood assemblies, communal kitchens, health and care rituals.  
+- Explore how hearths serve as sensors of coherence decline (early-warning for civic stress).
