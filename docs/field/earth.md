@@ -1,60 +1,62 @@
-# Human Resonance Layer
+# Earth Resonance Layer
 
-The human body is not separate from Earth’s resonance — it is tuned into it.  
-Heart rhythms, brain oscillations, breath cycles, and cellular signaling  
-all fall within frequency bands shaped by the planet’s electromagnetic envelope.
+Earth is not just a stage for life — it is a resonant body.  
+Its fields, cavities, and cycles shape every living system.  
+Mountains, oceans, forests, and ionospheric layers  
+all contribute to a global electromagnetic orchestra.
 
 ---
 
 ## Key Anchors
 
-- **Brainwaves**  
-  - Delta (0.5–4 Hz) — deep sleep, healing states  
-  - Theta (4–8 Hz) — trance, dream, creative flow  
-  - Alpha (8–12 Hz) — calm, meditative awareness  
-  - Beta (12–30 Hz) — active, problem-solving  
-  - Gamma (>30 Hz) — integration, insight, binding consciousness  
-  ↳ *Note*: Schumann fundamental (~7.83 Hz) sits right in **Theta–Alpha transition**.
+- **Schumann Resonances**  
+  - Global EM cavity between Earth’s surface and ionosphere.  
+  - Fundamental ~7.83 Hz, with higher modes (14, 20, 26, 33 Hz).  
+  - Overlaps with human brainwave bands → natural entrainment.
 
-- **Heart Rhythms**  
-  - Resting human heartbeat ~1 Hz (60 bpm)  
-  - Heart Rate Variability (HRV) entrains with breath, emotional state, and geomagnetic fields.  
-  - Research (e.g., HeartMath) shows group coherence can measurably alter local EM environments.
+- **Geomagnetic Field**  
+  - Shields Earth from solar wind.  
+  - Daily fluctuations align with circadian biology.  
+  - Storms trigger measurable changes in HRV and global mood.
 
-- **Breath Cycles**  
-  - Coherent breathing ~0.1 Hz (6 breaths/min) optimizes HRV.  
-  - Resonates with **Mayer waves** and slow baroreflex rhythms.  
-  - Serves as a bridge between voluntary and involuntary systems.
+- **Ley & Energy Lines**  
+  - Ancient traditions mapped “dragon lines,” “songlines,” or meridians.  
+  - Modern geomancy + geophysics suggest correlations with crustal conductivity,  
+    groundwater flows, and geomagnetic anomalies.
+
+- **Geological Oscillators**  
+  - Volcanoes, tectonic stress, and ocean waves generate ELF signals.  
+  - These serve as slow planetary metronomes.
 
 ---
 
 ## Entrainment Windows
 
-- **Earth ↔ Brain**  
-  Schumann resonance overlaps with human alpha–theta rhythms.  
-  This is why meditation, trance, and dream states feel “attuned.”
+- **Earth ↔ Human**  
+  Brainwaves and HRV couple with Schumann and geomagnetic frequencies.  
+  Geomagnetic storms affect sleep, mood, and cognition.
 
-- **Earth ↔ Heart**  
-  HRV coherence aligns with geomagnetic activity.  
-  Storms and calm can be tracked in physiological rhythms.
+- **Earth ↔ Cosmos**  
+  Solar flares and cosmic rays drive fluctuations in geomagnetics.  
+  Earth resonates within a broader stellar system.
 
-- **Earth ↔ Collective**  
-  Group meditation experiments suggest amplification effects —  
-  individual coherence resonates outward.
+- **Earth ↔ Collective Culture**  
+  Sacred sites often align with nodes of geomagnetic significance.  
+  Architecture, ritual, and pilgrimage reflect unconscious mapping of fields.
 
 ---
 
 ## Implications
 
-- Human wellness is inseparable from planetary fields.  
-- Practices like meditation, chanting, drumming, or coherent breathing  
-  can be reframed as **entrainment technologies**.  
-- Research direction: Can collective human coherence “feed back” into stabilizing Earth systems?
+- Human–Earth coherence is not metaphor but physics.  
+- Cultural myths about sacred landscapes are encoded **field knowledge**.  
+- Monitoring Schumann + geomagnetics offers a way to measure  
+  “collective weather” alongside physical climate.
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/field/earth.md`** for geophysical resonance.  
-- Add case studies of meditation experiments and HRV research.  
-- Connect to **simulations**: e.g., model brainwave–Schumann overlap.
+- Cross-link to **`docs/field/human.md`** (entrainment overlaps).  
+- Build a **resonance atlas**: map sacred sites + geophysical data.  
+- Connect to **simulations**: e.g., LC-grid models of planetary cavities.
