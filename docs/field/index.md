@@ -32,22 +32,39 @@ then modulates how we receive and respond.
 
 ⸻
 
-Why Spiral?
-	•	Feedback, not hierarchy:
-No top, no bottom. Each node is both micro and macro.
-	•	Recursion:
-The whole shows in each part; the part reflects the whole.
-	•	Navigation:
-Every document and simulation here is a window into this loop.
+---
+
+# Spiral Feedback Loop
+
+The four layers — **Earth ↔ Human ↔ Civic ↔ Cosmos** — are not parallel notes,  
+but a **resonant feedback loop**. Each feeds forward and back, spiraling coherence.
+
+```mermaid
+flowchart TD
+    A[🌍 Earth] <--> B[🧬 Human]
+    B <--> C[🏛️ Civic]
+    C <--> D[✨ Cosmos]
+    D <--> A
+Reading the Diagram
+	•	Earth ↔ Human
+Brainwaves, heart rhythms, and breath entrain to planetary fields.
+	•	Human ↔ Civic
+Individual coherence aggregates into rituals, governance, and economy.
+	•	Civic ↔ Cosmos
+Calendars, architecture, and myth align culture with stars and sky.
+	•	Cosmos ↔ Earth
+Solar cycles, planetary tides, and galactic rhythms imprint on geomagnetism.
+
+⸻
+
+Spiral Dynamics
+	•	The loop is not static — it spirals.
+	•	Each turn integrates feedback → coherence → emergence.
+	•	Breaks in one link ripple through the whole chain; strengthening one link strengthens all.
 
 ⸻
 
 Next Steps
-	•	Each section (Earth, Human, Civic, Cosmos) should link back here as “its place in the spiral.”
-	•	Simulations should be marked as micro mirrors of specific loop arcs.
-	•	Civic prototypes can be framed as rituals for stabilizing feedback in the spiral.
-
-⸻
-
-This is the spinal cord of the repo.
-Everything else plugs in here.
+	•	Cross-map with simulations: each minimal model sits as “micro ↔ macro” of the loop.
+	•	Prototype a spiral calendar overlaying Earth, Human, Civic, and Cosmic cycles.
+	•	Develop metrics: coherence indexes at each scale feeding into a unified “Resonant Index.”
