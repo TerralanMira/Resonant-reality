@@ -28,6 +28,18 @@ Figures will be saved in `sims/figures/`
 
 ---
 
+## 🔗 Cross-Maps — Each Simulation as Micro of Macro
+
+- **Spiral Resonance** → mirrors **cosmos** (galaxies, vortices) and **civic plazas**.  
+- **Kuramoto Sync** → mirrors **human brain/heart sync** and **civic governance assemblies**.  
+- **LC Grid Modes** → mirrors **field geometries** and **civic architecture**.  
+- **Schumann Coupling** → mirrors **Earth–human entrainment** and **collective ritual timing**.  
+- **Resonant Currency** → mirrors **economy as conductor**, balancing coherence with flow.
+
+> Each minimal model is a **toy proof**:  
+> part showing the whole, whole shaping the part.
+---
+
 ## Gallery (to be filled as sims run)
 - Spiral Resonance — (placeholder: sims/figures/spiral.png)
 - Kuramoto Sync — (placeholder: sims/figures/kuramoto_R.png)
