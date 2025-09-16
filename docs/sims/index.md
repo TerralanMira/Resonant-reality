@@ -11,6 +11,9 @@ Each sim includes what it shows, how to run it, and what counts as a pass/falsif
 - [LC Grid Modes](lc_grid.md) — geometry shapes resonance spectra
 - [Schumann Coupling](schumann.md) — entrainment window near 7.83 Hz
 - [Resonant Currency](resonant_currency.md) — economy-as-conductor, policy tuned to coherence
+- - [Governance Sync](governance_sync.md) — councils as Kuramoto synchronization
+- [Civic Coherence Grid](civic_coherence_grid.md) — plaza/hearth mode shapes
+- [Meta-Resonance](meta_resonance.md) — coupling coherence across layers
 
 ---
 
