@@ -1,97 +1,47 @@
-# Civic Rituals — Weaving Coherence
+# Rituals & Festivals
 
-Rituals are how communities rehearse resonance together.  
-They are the pulse of civic life, turning architecture into lived coherence.  
-
----
-
-## Core Functions of Ritual
-
-- **Alignment**  
-  - Syncing hearts, breath, and movement  
-  - Generating shared temporal rhythm (weekly, seasonal, annual cycles)  
-
-- **Memory**  
-  - Encoding collective values into embodied practice  
-  - Reinforcing myth and story through repetition  
-
-- **Regulation**  
-  - Soothing nervous systems and resolving tension  
-  - Offering predictable containers for grief, joy, and transition  
+Rituals are the original coherence technology.  
+They entrain groups to a shared rhythm, align the body with the Earth’s cycles,  
+and preserve memory through repetition.
 
 ---
 
-## Ritual Scales
+## Anchors
 
-- **Personal Practice**  
-  Meditation, journaling, breathwork, song  
-  ↳ anchors individual resonance  
+- **Seasonal Rites**  
+  - Solstice, equinox, harvest, planting.  
+  - Marking time with sky and soil.  
+  - Synchronizes human calendars with cosmic rhythms.  
 
-- **Household & Hearth**  
-  Shared meals, fire circles, bedtime songs  
-  ↳ micro-coherence units  
+- **Drumming Circles & Chanting**  
+  - Rhythmic entrainment at ~4–8 Hz (theta–alpha).  
+  - Directly overlaps with Schumann resonance.  
+  - Generates embodied collective trance.  
 
-- **Neighborhood & Civic Plazas**  
-  Festivals, dances, parades, councils  
-  ↳ meso-scale resonance amplification  
-
-- **Regional & Global Synchrony**  
-  Solstice ceremonies, synchronized meditations, mass chanting  
-  ↳ macro-scale entrainment  
-
----
-
-## Ritual Technologies
-
-- **Sound**  
-  Drumming, chanting, bells, silence  
-  ↳ entrains collective breath and heart  
-
-- **Movement**  
-  Circle dances, labyrinth walking, synchronized gestures  
-  ↳ aligns kinesthetic fields  
-
-- **Offerings & Symbols**  
-  Altars, flowers, shared meals, fire  
-  ↳ material anchors of the sacred  
-
-- **Story & Myth**  
-  Storytelling, theater, procession  
-  ↳ carries cultural coherence forward  
+- **Group Meditation & Prayer**  
+  - Synchronization of heart–brain rhythms.  
+  - Documented shifts in local geomagnetic fields.  
+  - Subtle but measurable coherence blooms.  
 
 ---
 
-## Healing Loops
+## Functions
 
-- **Grief Rituals**  
-  Safe containers for mourning and release  
-  → keeps trauma from fracturing community resonance  
-
-- **Celebration Rituals**  
-  Festivals and dances that raise collective frequency  
-  → joy as coherence fuel  
-
-- **Reconciliation Rituals**  
-  Circles for apology, forgiveness, repair  
-  → prevents civic “scar tissue”  
+- Preserve **collective memory** through repetition.  
+- Release **tension loops** through catharsis.  
+- Open **entrainment windows** between human ↔ earth ↔ cosmos.  
 
 ---
 
-## Simulation Ideas
+## Implications
 
-- **Group Coherence Model**  
-  Model how synchronized movement and breath amplify resonance  
-
-- **Festival Dynamics**  
-  Simulate how a festival propagates coherence through a city grid  
-
-- **Entrainment Windows**  
-  Compare ritual rhythm bands (drumming, chanting) with Schumann & brainwave frequencies  
+Rituals are not “extra.” They are coherence engines.  
+Festivals and rites keep civic life in resonance with natural cycles.  
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/civic/hearths.md`**, **`docs/civic/loops.md`**, and **`docs/civic/design.md`**.  
-- Add ethnographic examples (e.g., potlatch, powwow, solstice festival).  
-- Prototype **ritual entrainment sim** in `/sims/civic_rituals/`.  
+- Catalog case studies: indigenous rites, urban festivals, global meditation events.  
+- Prototype: a **“Resonant Calendar” app** that aligns civic events with geomagnetic and seasonal cycles.  
+- Simulations: model how group entrainment shifts local stress vs coherence.
