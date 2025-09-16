@@ -1,77 +1,57 @@
-# Civic Governance — Resonance as Collective Choice
+# Resonant Governance
 
-Governance is the art of attunement.  
-It is not the imposition of rules but the orchestration of coherence.  
-A resonant city is governed the way a symphony is conducted:  
-each voice distinct, yet all woven into harmony.
-
----
-
-## Anchors of Governance
-
-- **Decision as Resonance Check**  
-  - Policies are tested for coherence: do they amplify or fragment the field?  
-  - Governance is less about majority vote, more about harmonic balance.
-
-- **Deliberation as Entrainment**  
-  - Councils open with silence, breathwork, or chanting.  
-  - Collective nervous systems align before debate begins.  
-  - Resonant states foster empathy, reducing polarization.
-
-- **Transparency as Sounding**  
-  - All proceedings are public, accessible, and recorded.  
-  - Transparency is like acoustics: when walls absorb too much, resonance dies.  
-  - Open channels allow feedback and tuning.
-
-- **Distributed Conduction**  
-  - Leadership is rotating, like instruments taking solos.  
-  - The conductor does not dominate but reveals latent coherence.  
-  - Governance becomes a dance of distributed authority.
+Governance is not just laws or procedures — it is *synchronization*.  
+Like oscillators aligning phases, people align around shared attractors:  
+values, visions, narratives, and trust. The stability of a civic system  
+depends on how well its diversity of voices can *phase-lock* without  
+collapsing into uniformity.
 
 ---
 
-## Entrainment Windows
+## Core Idea: Phase-Locked Diversity
 
-- **Citizen ↔ Citizen**  
-  - Town halls and assemblies structured around rhythm and ritual.  
-  - Conflict resolved through entrainment before negotiation.
+- **Too little coupling** → fragmentation, noise, no collective action.  
+- **Too much coupling** → authoritarian lockstep, brittle uniformity.  
+- **Resonant coupling** → coherence with freedom: oscillators entrain,  
+  but retain individuality.
 
-- **Citizen ↔ City**  
-  - Feedback loops built into civic infrastructure.  
-  - Citizens sense policy effects in real time (data dashboards, ecological monitors).
-
-- **City ↔ Planet**  
-  - Civic decisions tied to ecological coherence.  
-  - Laws measured not only by human benefit but planetary resonance impact.
+This is exactly the **Kuramoto model** of synchronization.
 
 ---
 
-## Design Patterns
+## Simulation Anchor
 
-- **Resonant Councils**  
-  - Meeting spaces shaped for acoustics and coherence.  
-  - Circular seating, echo points, resonant domes amplify unity.
+See **[`sims/kuramoto_basic.py`](../../sims/kuramoto_basic.py)**.
 
-- **Living Charters**  
-  - Constitutions that evolve like musical scores.  
-  - Governance is not static law but adaptive tuning.
+- **What it shows**: N oscillators with random natural frequencies  
+  gradually lock into coherence as coupling rises.  
+- **Output**: `sims/figures/kuramoto_R.png` shows the “order parameter” R(t).  
+- **Interpretation**: R ~ 0 → chaos, R ~ 1 → lockstep,  
+  sweet spot is a dynamic balance in-between.
 
-- **Policy Simulation Labs**  
-  - Civic decisions modeled as resonance fields before implementation.  
-  - Citizens experience possible futures as simulations, not abstractions.
+Run it yourself:
 
----
+```bash
+python sims/kuramoto_basic.py
+Governance Implications
+	•	Deliberation = adjusting coupling strength.
+	•	Too loose → factions drift apart.
+	•	Too tight → innovation dies.
+	•	Transparency = common signal that aids phase-locking.
+	•	Trust = lowers the threshold for resonance.
+	•	Pluralism = ensures the system does not collapse into brittle lockstep.
 
-## Implications
+⸻
 
-- Governance as resonance reframes politics from conflict to coherence.  
-- Polarization is seen as *phase incoherence*, solvable with entrainment.  
-- The role of leaders is not control but **tuning the field**.  
+Civic Design Principles
+	•	Build forums and plazas as resonance chambers.
+	•	Use ritual (opening, breath, rhythm) to tune collective frequency.
+	•	Measure coherence not by votes alone but by how well diverse voices stay entrained.
+	•	Allow oscillation: governance should breathe, not freeze.
 
----
+⸻
 
-## Next Steps
-
-- Cross-link to **`docs/civic/conductor.md`** (conductor as civic archetype).  
-- Connect to **`docs/sims/`** simulations: model civic entrainment dynamics.  
-- Add case studies: indigenous consensus councils, citizens’ assemblies, restorative justice rituals.  
+Next Steps
+	•	Cross-link with docs/sims/kuramoto.md (explanation of the sim).
+	•	Add case studies: citizen assemblies, consensus councils, indigenous circles.
+	•	Explore metrics: order parameter R as a proxy for civic coherence.
