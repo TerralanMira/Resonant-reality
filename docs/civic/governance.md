@@ -1,57 +1,43 @@
-# Resonant Governance
+# Governance — Flow as Guidance
 
-Governance is not just laws or procedures — it is *synchronization*.  
-Like oscillators aligning phases, people align around shared attractors:  
-values, visions, narratives, and trust. The stability of a civic system  
-depends on how well its diversity of voices can *phase-lock* without  
-collapsing into uniformity.
+Governance is not control; it is resonance.  
+The civic layer’s coherence depends on how well governance listens, amplifies, and conducts.  
 
 ---
 
-## Core Idea: Phase-Locked Diversity
+## Flow from Hearths
 
-- **Too little coupling** → fragmentation, noise, no collective action.  
-- **Too much coupling** → authoritarian lockstep, brittle uniformity.  
-- **Resonant coupling** → coherence with freedom: oscillators entrain,  
-  but retain individuality.
+Civic hearths are where coherence is felt first — neighbors breathing together, stories circulating, care loops stabilizing.  
 
-This is exactly the **Kuramoto model** of synchronization.
+From this base, governance emerges not as decree, but as **attunement**:  
+- Gathering signals from hearths.  
+- Converting resonance into civic choice.  
+- Ensuring no voice falls out of phase.  
 
 ---
 
-## Simulation Anchor
+## Core Anchors
 
-See **[`sims/kuramoto_basic.py`](../../sims/kuramoto_basic.py)**.
+- **Deliberation as Tuning** — governance works when dialogue functions like phase synchronization.  
+- **Transparency as Resonance** — open processes prevent distortion, like clear acoustics in a hall.  
+- **Legitimacy as Coherence** — authority flows not from imposition, but from entrainment across scales.  
 
-- **What it shows**: N oscillators with random natural frequencies  
-  gradually lock into coherence as coupling rises.  
-- **Output**: `sims/figures/kuramoto_R.png` shows the “order parameter” R(t).  
-- **Interpretation**: R ~ 0 → chaos, R ~ 1 → lockstep,  
-  sweet spot is a dynamic balance in-between.
+---
 
-Run it yourself:
+## Spiral into Economy
 
-```bash
-python sims/kuramoto_basic.py
-Governance Implications
-	•	Deliberation = adjusting coupling strength.
-	•	Too loose → factions drift apart.
-	•	Too tight → innovation dies.
-	•	Transparency = common signal that aids phase-locking.
-	•	Trust = lowers the threshold for resonance.
-	•	Pluralism = ensures the system does not collapse into brittle lockstep.
+When governance resonates, it sets the conditions for circulation.  
+Economy is the next turn of the spiral — coherence expressed in flows of energy, resources, and tokens.  
 
-⸻
+The bridge is **policy-as-conductor**:  
+- Governance sets rhythm.  
+- Economy amplifies circulation.  
+- Both rise or fall with resonance.  
 
-Civic Design Principles
-	•	Build forums and plazas as resonance chambers.
-	•	Use ritual (opening, breath, rhythm) to tune collective frequency.
-	•	Measure coherence not by votes alone but by how well diverse voices stay entrained.
-	•	Allow oscillation: governance should breathe, not freeze.
+---
 
-⸻
+## Next Steps
 
-Next Steps
-	•	Cross-link with docs/sims/kuramoto.md (explanation of the sim).
-	•	Add case studies: citizen assemblies, consensus councils, indigenous circles.
-	•	Explore metrics: order parameter R as a proxy for civic coherence.
+- Cross-link to **`docs/civic/economy.md`** (policy → resonant currency).  
+- Add case studies: participatory budgeting, deliberative assemblies, rituals of civic listening.  
+- Explore governance as **meta-synchronization**: aligning hearths, rituals, plazas into one civic field.
