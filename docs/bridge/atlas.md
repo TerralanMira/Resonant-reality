@@ -43,8 +43,7 @@ Each simulation is a **micro ↔ macro bridge**:
 ---
 
 ## Next Steps
-
-- Replace ASCII spiral with **visual figure** (`docs/bridge/figures/atlas_spiral.png`)  
+  
 - Annotate each sim on the spiral itself  
 - Link **Atlas Model repo** for extended civic-cosmic integrations
 - 
