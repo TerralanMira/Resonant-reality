@@ -36,38 +36,45 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+
   - Field Layer:
       - Overview: docs/field/index.md
-      - Earth Data: docs/field/earth/data.md
-      - Human Resonance: docs/field/human.md
-      - Cosmos Resonance: docs/field/cosmos.md
-  - Civic Layer:
+      - Earth: docs/field/earth.md
+      - Human: docs/field/human.md
+      - Civic: docs/field/civic.md
+      - Cosmos: docs/field/cosmos.md
+
+  - Civic Layer (spiral):
       - Hearths: docs/civic/hearths.md
       - Governance: docs/civic/governance.md
       - Economy: docs/civic/economy.md
       - Education: docs/civic/education.md
-      - Plazas: docs/civic/plazas.md
+      - Plazas: docs/civic/plaza.md
       - Rituals: docs/civic/rituals.md
+
   - Simulations:
       - Index: docs/sims/index.md
-      - Spiral Resonance: docs/sims/spiral.md
+      - Spiral Resonance: docs/sims/spiral_resonance.md
       - Kuramoto Sync: docs/sims/kuramoto.md
       - LC Grid Modes: docs/sims/lc_grid.md
       - Schumann Coupling: docs/sims/schumann.md
       - Resonant Currency: docs/sims/resonant_currency.md
-      - Solar–Schumann Coupling (toy): docs/cosmos/simulations.md
-      - Orbital Resonance Maps (toy): docs/cosmos/simulations.md
-      - Cosmic ↔ Civic Calendar (toy): docs/cosmos/simulations.md
+      - Cosmos Sims Overview: docs/cosmos/simulations.md
+
   - Awareness & Coherence:
       - Overview: docs/awareness/index.md
       - Practices: docs/awareness/practices.md
       - Collective Field: docs/awareness/collective.md
-        - Core:
+
+  - Core:
       - Infinity Equation: docs/core/infinity_equation.md
       - Atlas Model (Engine): docs/core/atlas_model.md
+      - Bridge (RR ↔ Atlas): docs/bridge.md
+
   - Books & References:
       - Core Texts: docs/books/index.md
       - Excerpts: docs/books/excerpts.md
+
   - Exports:
       - Knowledge Maps: docs/exports/maps.md
       - Data Sheets: docs/exports/data.md
