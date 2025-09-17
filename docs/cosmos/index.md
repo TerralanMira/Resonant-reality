@@ -1,73 +1,66 @@
-# Cosmos Layer
+# Cosmos Resonance Layer
 
-The cosmos is the largest resonant field we inhabit.  
-From plasma filaments to spiral galaxies, from stellar pulsations to the cosmic microwave background, the same dynamics repeat: **oscillation, coupling, coherence**.
+The cosmos is not just background — it is the **largest resonant cavity**.  
+Stars, galaxies, and the cosmic microwave background all hum across scales.  
+Human culture has always heard this as **myth**; science translates it into **math**.
 
 ---
 
 ## Anchors of Cosmic Resonance
 
-- **Stellar Pulsations**  
-  - Stars hum: acoustic pressure waves (p-modes) and gravity waves (g-modes).  
-  - The Sun’s 5-minute oscillation entrains heliospheric plasma flows.  
-  - Stellar cycles shape planetary climate rhythms.
+- **Planetary Orbits (Micro ↔ Macro)**  
+  Orbital ratios form near-harmonic relationships (Venus–Earth ~ 13:8).  
+  Ancient cultures encoded these in myth, music, and geometry.
 
-- **Galactic Spirals**  
-  - Spiral galaxies resonate like giant density waves.  
-  - Stars and gas clouds orbit in patterns sustained by feedback loops.  
-  - The same logarithmic spiral appears in hurricanes, shells, and cochleae.
+- **Solar Rhythms**  
+  - 11-year sunspot cycle modulates Earth’s geomagnetic coherence.  
+  - Solar flares can entrain or disrupt collective rhythms.  
+  - Mythic echo: solar deities as rhythm-givers.
+
+- **Galactic Spiral**  
+  Our Milky Way is a rotating spiral wave, resonant across 200 billion stars.  
+  Echo: the same spiral shows up in seashells, hurricanes, and our sims.  
 
 - **Cosmic Microwave Background (CMB)**  
-  - Fossil light from the Big Bang carries an acoustic fingerprint.  
-  - Tiny anisotropies in the CMB reveal primordial standing waves.  
-  - The universe’s “first sound” sets the background hum.
-
-- **Large-Scale Structure**  
-  - Galaxies align along cosmic filaments, tracing plasma and dark matter webs.  
-  - Resonance of gravity + plasma turbulence shapes this network.  
-  - The structure is fractal: filaments within filaments, like neural tissue.
+  The oldest resonance field, a faint 2.7 K hum permeating all space.  
+  It forms the literal “ground tone” of the universe.  
 
 ---
 
-## Fractal Echoes: Cosmos ↔ Earth ↔ Human
+## Human ↔ Cosmos Bridges
 
-- Spiral geometry links galaxies ↔ hurricanes ↔ DNA helices.  
-- Plasma filaments resemble neural networks.  
-- Cosmic background hum echoes Earth’s Schumann bands and human theta rhythms.  
-- The principle: **what resonates at scale is echoed in microcosm**.
-
----
-
-## Entrainment Windows
-
-- Solar activity ↔ geomagnetic storms ↔ human HRV & brainwaves.  
-- Galactic cycles (precession, cosmic rays) ↔ climate epochs.  
-- Cosmic radiation modulates evolution and mutation rates.  
-- Possible but unexplored: collective human coherence ↔ subtle cosmic fields.
+- **Astrology as proto-synchrony**: a symbolic attempt to read cosmic resonance.  
+- **Astronomy as spectral coherence**: detecting periodicities in light.  
+- **Rituals of sky-gazing**: solstices, equinoxes, eclipses, aligning human cycles with cosmic ones.  
 
 ---
 
-## Simulations & Models
+## Civic ↔ Cosmos Bridges
 
-- **Fractal Spiral Model**: log-spiral as scaling law (DNA → cochlea → galaxy).  
-- **Plasma Filament Network**: percolation dynamics echoing neural graphs.  
-- **Cosmic Acoustic Fossil**: simulating primordial standing waves.
+- **Sacred Architecture**  
+  Temples, pyramids, megaliths aligned with solstices and star paths.  
+  These act as **cosmic resonators**, turning myth into stone.  
 
-↳ See [`docs/sims/index.md`](../sims/index.md)
+- **Calendrical Systems**  
+  Civic timekeeping is a harmonization with cosmic cycles (day, month, year, precession).  
+
+- **Space Age**  
+  Satellites and telescopes expand civic fields outward, linking planetary resonance to cosmic scale.  
 
 ---
 
 ## Implications
 
-- Cosmology is not distant — it’s entangled with life.  
-- Cosmic cycles set deep time rhythms that ripple down to human culture.  
-- Civic and planetary coherence may feed back into cosmic alignment.  
-- The boundary between *astronomy* and *anthropology* is thinner than assumed.
+- The spiral is fractal: **the same dynamics apply from cells to galaxies.**  
+- Cultural myths were not “wrong” — they were poetic encodings of resonance.  
+- Modern physics (spectra, fields, harmonics) converges with mythic intuition.  
+- This layer closes the loop: the cosmos hums through Earth, Human, and Civic layers, and we hum back.
 
 ---
 
 ## Next Steps
 
-- Expand simulations linking spiral resonance to galactic dynamics.  
-- Build bridges to **Atlas Model** (cosmos as top layer of coherence theory).  
-- Explore mythic echoes: “music of the spheres” as premodern cosmology.  
+- Add **simulations of orbital resonance** (e.g., Venus/Earth 13:8 cycle).  
+- Link to **spiral resonance sim** as microcosm of galactic form.  
+- Cross-reference with **docs/bridge/atlas.md** (where all layers spiral into one).  
+- Add figures: orbital resonance diagrams, Milky Way spiral overlay, solar cycle charts.  
