@@ -1,61 +1,76 @@
 site_name: Resonant Reality
+site_description: Explorations of coherence, resonance, and civic-cosmic design
+site_author: Terralan Mira
 repo_url: https://github.com/TerralanMira/Resonant-reality
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
-    - navigation.top
+    - navigation.tabs
     - toc.integrate
     - content.code.copy
   palette:
-    scheme: slate
-    primary: indigo
-    accent: teal
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+  font:
+    text: Inter
+    code: JetBrains Mono
 
-nav:
-  - Home: index.md
-  - Field:
-      - Earth Layer:
-          - Overview: field/earth.md
-          - Data: field/earth/data.md
-      - Human Layer: field/human.md
-      - Civic Layer:
-          - Overview: civic/index.md
-          - Conductor: civic/conductor.md
-          - Plazas: civic/plazas.md
-          - Rituals: civic/rituals.md
-          - Hearths: civic/hearths.md
-          - Governance: civic/governance.md
-          - Education: civic/education.md
-          - Economy: civic/economy.md
-      - Cosmos Layer: cosmos/index.md
-      - Bridge: bridge.md
-  - Sims:
-      - Overview: sims/index.md
-      - Spiral Resonance: sims/spiral.md
-      - Kuramoto Sync: sims/kuramoto.md
-      - LC Grid Modes: sims/lc_grid.md
-      - Schumann Coupling: sims/schumann.md
-      - Resonant Currency: sims/resonant_currency.md
-      - Atlas Model: sims/atlas.md
+plugins:
+  - search
+  - awesome-pages
+  - mkdocs-jupyter
 
 markdown_extensions:
   - admonition
+  - codehilite
+  - footnotes
   - toc:
       permalink: true
-  - tables
-  - footnotes
-  - attr_list
-  - md_in_html
+  - def_list
+  - pymdownx.arithmatex
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
+  - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Civic Layer:
+      - Overview: civic/index.md
+      - Plazas: civic/plazas.md
+      - Hearths: civic/hearths.md
+      - Conductor: civic/conductor.md
+      - Governance: civic/governance.md
+      - Education: civic/education.md
+      - Economy: civic/economy.md
+      - Rituals: civic/rituals.md
+  - Field Layer:
+      - Overview: field/index.md
+      - Human: field/human.md
+      - Earth: field/earth.md
+      - Cosmos: field/cosmos.md
+      - Bridge: field/bridge.md
+  - Awareness & Coherence:
+      - index.md
+  - Applications:
+      - index.md
+  - Simulations:
+      - Overview: sims/index.md
+      - Resonant Currency: sims/resonant_currency.md
+      - Plaza Simulation: sims/plaza.md
+      - Atlas Model: sims/atlas_model.md
+  - Books:
+      - index.md
