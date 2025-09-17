@@ -89,3 +89,10 @@ This is not just a repository.
 It is a **score**: a way to read reality as music,  
 and to play together in tune.
 ∞ = coherence across scales
+
+## Browse the Atlas
+- Site (when Pages is enabled): built from `mkdocs.yml`
+- Entry: `docs/index.md`
+- Spiral: Earth ↔ Human ↔ Civic ↔ Cosmos
+- Sims: `docs/sims/index.md` (figures auto-save to `sims/figures/`)
+- Bridge to engine: `docs/bridge.md` → The Atlas Model
