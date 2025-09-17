@@ -1,71 +1,48 @@
 site_name: Resonant Reality
-site_description: "Field, human, civic, and cosmic resonance — models, maps, and simulations"
-repo_url: "https://github.com/TerralanMira/Resonant-reality"
+site_description: "A living, testable blueprint for Earth↔Human↔Civic↔Cosmos coherence."
+site_url: ""
+repo_name: Resonant-reality
+repo_url: https://github.com/TerralanMira/Resonant-reality
 
 theme:
   name: material
-  features:
-    - navigation.expand
-    - navigation.sections
-    - navigation.top
-    - toc.integrate
 
-markdown_extensions:
-  - admonition
-  - codehilite
-  - footnotes
-  - meta
-  - tables
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.tasklist
-  - pymdownx.emoji
-  - toc:
-      permalink: true
-
-plugins:
-  - search
-  - mkdocs-jupyter
-  - awesome-pages
+# IMPORTANT: no plugins for now (keeps CI green)
+plugins: []
 
 nav:
   - Home: index.md
-  - SPIRA (Keystone): spiral.md
-
-  - Field Layer:
-      - Overview: field/index.md
-      - Earth: field/earth.md
-      - Human: field/human.md
-      - Civic: field/civic.md
-      - Cosmos: field/cosmos.md
-
-  - Civic Layer (spiral):
-      - Hearths: civic/hearths.md
-      - Governance: civic/governance.md
-      - Economy: civic/economy.md
-      - Education: civic/education.md
-      - Plaza: civic/plaza.md
-      - Rituals: civic/rituals.md
-
-  - Simulations:
-      - Index: sims/index.md
-      - Spiral Resonance: sims/spiral_resonance.md
-      - Kuramoto Sync: sims/kuramoto.md
-      - LC Grid Modes: sims/lc_grid.md
-      - Schumann Coupling: sims/schumann.md
-      - Resonant Currency: sims/resonant_currency.md
-      - Plaza (toy): sims/plaza.md
-      - Orbital Resonance: sims/orbital_resonance.md
-
-  - Bridge:
-      - Atlas (Fractal Bridge): bridge/atlas.md
-      - The Atlas Model (external): https://github.com/TerralanMira/The-Atlas-Model
-
-  - Books & References:
-      - Core Texts: books/index.md
-      # - Excerpts: books/excerpts.md   # uncomment only if file exists
-
-  - Exports:
-      - Knowledge Maps: exports/maps.md
-      - Data Sheets: exports/data.md
+  - Overview:
+      - Roadmap: docs/overview/00-roadmap.md
+      - Atlas Spiral: docs/overview/01-spiral.md
+  - Theory (TOE):
+      - Index: docs/toe/index.md
+  - Field:
+      - Index: docs/field/index.md
+      - Earth:
+          - Index: docs/field/earth/index.md
+          - Data: docs/field/earth/data.md
+          - Human: docs/field/earth/human.md
+      - Civic:
+          - Index: docs/civic/index.md
+          - Plazas: docs/civic/plazas.md
+          - Hearths: docs/civic/hearths.md
+          - Conductor: docs/civic/conductor.md
+          - Economy: docs/civic/economy.md
+          - Education: docs/civic/education.md
+          - Governance: docs/civic/governance.md
+      - Cosmos:
+          - Index: docs/cosmos/index.md
+          - Bridge: docs/cosmos/bridge.md
+  - Sims:
+      - Index: docs/sims/index.md
+      - Quickstart: docs/sims/quickstart.md
+      - Spiral Resonance: docs/sims/spiral_resonance.md
+      - Kuramoto Sync: docs/sims/kuramoto.md
+      - LC Grid Modes: docs/sims/lc_grid.md
+      - Schumann Coupling: docs/sims/schumann.md
+      - Resonant Currency: docs/sims/resonant_currency.md
+  - City:
+      - Index: docs/city/index.md
+  - Glossary: docs/glossary.md
+  - Cosmos: docs/cosmos/index.md
