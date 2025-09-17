@@ -1,62 +1,50 @@
 # The Atlas Bridge
 
-The Atlas is not a static map but a living **resonant spiral**.  
-It connects scales: Earth ↔ Human ↔ Civic ↔ Cosmos.  
-Each part is whole; each whole is part.  
+The Atlas Model is not a single simulation or essay —  
+it is the **bridge** between scales: Earth, Human, Civic, and Cosmos.  
+Each layer resonates within the others, forming a recursive whole.
 
 ---
 
-## Feedback Loops
 
-- **Earth ↔ Human**  
-  - Schumann resonance (~7.83 Hz) aligns with alpha–theta rhythms.  
-  - Human physiology is not separate from geophysical hum.  
+  Each axis connects two scales:  
+- **Earth ↔ Human** — physiology ↔ Schumann resonance  
+- **Human ↔ Civic** — heart coherence ↔ ritual & design  
+- **Civic ↔ Cosmos** — plazas & governance ↔ orbital cycles  
+- **Cosmos ↔ Earth** — solar winds & seasons ↔ geomagnetics  
 
-- **Human ↔ Civic**  
-  - Heart coherence entrains groups.  
-  - Rituals, plazas, and collective breathing scale individual resonance into culture.  
-
-- **Civic ↔ Cosmos**  
-  - City designs echo orbital resonance patterns.  
-  - Civic time (festivals, calendars) encode celestial ratios.  
-
-- **Cosmos ↔ Earth**  
-  - Orbital cycles shape climate, season, agricultural life.  
-  - Celestial resonances anchor earthly rhythms.  
+The spiral means there is no beginning, no end — only flow.
 
 ---
 
-## Simulation Cross-Links
+## Nodes on the Spiral
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ed8ae1ba-0cf5-45fb-8415-e5545be7e249" />
 
-- `sims/resonant_currency.py` — Civic economy as coherence feedback.  
-- `sims/plaza_resonance.py` — Architecture as harmonic amplifier.  
-- `sims/orbital_resonance.py` — Planetary cycles as cosmic geometry.  
-- `sims/heart_brain_entrainment.py` — Human physiology in sync with geomagnetic fields.  
 
-Each simulation is a **microcosm of the macrocosm**.  
 
----
+Each simulation is a **micro ↔ macro bridge**:  
 
-## Atlas as Navigation
-
-Think of the Atlas as a **compass rose**:  
-
-- **North** — Cosmos: orbits, stars, resonant ratios  
-- **East** — Earth: Schumann fields, geomagnetics  
-- **South** — Human: brainwaves, HRV, breath cycles  
-- **West** — Civic: plazas, rituals, resonant economies  
-
-The center point is **Coherence** — the measure of alignment across scales.  
+- **Spiral Resonance** — oscillator phase alignment ↔ ritual dance  
+- **Kuramoto Sync** — coupled oscillators ↔ brainwaves ↔ group coherence  
+- **LC Grid Modes** — resonant circuits ↔ civic infrastructure ↔ energy flows  
+- **Schumann Coupling** — planetary cavity ↔ neural entrainment  
+- **Resonant Currency** — token supply ↔ coherence-driven policy  
+- **Atlas Plaza** — urban node ↔ planetary synchronization
 
 ---
 
-## Next Step
+## Function of the Bridge
 
-Atlas is not final.  
-It must always be lived.  
+- To **hold the whole** — showing that no document or sim is isolated  
+- To **cross-link** — so a reader can move from micro detail to macro resonance  
+- To **remind** — that coherence is recursive, and the atlas is never “finished,”  
+  only refined as the spiral deepens.
 
-- Researchers: run sims as experiments.  
-- Designers: embed resonance into cities and rituals.  
-- Citizens: breathe, move, and create coherence together.  
+---
 
-The Bridge is the **spinal cord of the project** — carrying signals both up and down the spiral.
+## Next Steps
+
+- Replace ASCII spiral with **visual figure** (`docs/bridge/figures/atlas_spiral.png`)  
+- Annotate each sim on the spiral itself  
+- Link **Atlas Model repo** for extended civic-cosmic integrations
+- 
