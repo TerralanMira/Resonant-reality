@@ -55,7 +55,16 @@ Human culture has always heard this as **myth**; science translates it into **ma
 - Cultural myths were not “wrong” — they were poetic encodings of resonance.  
 - Modern physics (spectra, fields, harmonics) converges with mythic intuition.  
 - This layer closes the loop: the cosmos hums through Earth, Human, and Civic layers, and we hum back.
+---
 
+## Spiral Bridge
+
+The **Cosmos layer** is not distant.  
+It spirals down into Civic patterns, Human coherence, and Earth’s resonance.
+
+![](../assets/SPIRA.png)
+
+*SPIRA — resonance unifying Earth ↔ Human ↔ Civic ↔ Cosmos.*
 ---
 
 ## Next Steps
