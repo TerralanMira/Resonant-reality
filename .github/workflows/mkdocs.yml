@@ -1,13 +1,21 @@
 name: docs
+
 on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
 
+# needed for Pages deploy (safe even if you haven't enabled Pages yet)
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,13 +28,29 @@ jobs:
       - name: Install MkDocs + plugins
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install \
+            mkdocs \
+            mkdocs-material \
+            mkdocs-awesome-pages-plugin \
+            mkdocs-jupyter
 
       - name: Build site (strict)
         run: mkdocs build --strict
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: site
           path: site
+
+  deploy:
+    # deploy only from main after a successful build
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
