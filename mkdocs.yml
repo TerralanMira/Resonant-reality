@@ -26,7 +26,7 @@ nav:
       - Governance: docs/civic/governance.md
       - Economy: docs/civic/economy.md
       - Education: docs/civic/education.md
-      - Plazas: docs/civic/plazas.md   # ensure file is plural OR change to plaza.md to match disk
+      - Plaza: docs/civic/plazas.md   # ensure file is plural OR change to plaza.md to match disk
       - Rituals: docs/civic/rituals.md
 
   - Simulations:
