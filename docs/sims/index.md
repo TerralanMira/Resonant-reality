@@ -24,7 +24,16 @@ Each sim shows a **microcosm** of the spiral (Earth ↔ Human ↔ Civic ↔ Cosm
 - **Schumann ↔ Earth ↔ Human**: planetary field overlaps with alpha–theta rhythms  
 - **Resonant Currency ↔ Civic ↔ Human**: tokens as policy feedback for coherence  
 - **Atlas Model ↔ Whole Spiral**: integrates all layers into a meta-simulation  
+---
 
+## Meta-Simulation
+
+All individual simulations — spirals, grids, resonant currencies —  
+sit inside one meta-pattern.
+
+![](../assets/SPIRA.png)
+
+*SPIRA — the meta-simulation, framing every model as a fractal of the whole.*
 ---
 
 ## Quickstart
