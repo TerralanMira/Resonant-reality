@@ -1,72 +1,73 @@
-# Cosmos Resonance Layer
+# Cosmos Layer
 
-The cosmos is not distant — it is the wider field in which Earth, human, and civic rhythms are nested.  
-Celestial cycles imprint frequencies that cascade downward: planetary orbits, solar rhythms, and galactic pulses  
-all entrain life and meaning on Earth.
+The cosmos is the largest resonant field we inhabit.  
+From plasma filaments to spiral galaxies, from stellar pulsations to the cosmic microwave background, the same dynamics repeat: **oscillation, coupling, coherence**.
 
 ---
 
-## Key Anchors
+## Anchors of Cosmic Resonance
 
-- **Planetary Orbits**  
-  - Each orbit generates a cycle frequency (yearly, synodic, retrograde beats).  
-  - Harmonics of orbital ratios (e.g., Jupiter–Saturn 5:2, Venus–Earth 8:13) resonate with musical intervals.  
-  - These patterns historically guided calendars, agriculture, and ritual festivals.  
+- **Stellar Pulsations**  
+  - Stars hum: acoustic pressure waves (p-modes) and gravity waves (g-modes).  
+  - The Sun’s 5-minute oscillation entrains heliospheric plasma flows.  
+  - Stellar cycles shape planetary climate rhythms.
 
-- **Solar Rhythms**  
-  - Sunspot cycle (~11 years) modulates geomagnetic activity and Schumann resonance coherence.  
-  - Solar flares and coronal mass ejections can disturb heart–brain coherence globally.  
-  - Ancient cultures tracked solar max/min as epochs of collective renewal or instability.  
+- **Galactic Spirals**  
+  - Spiral galaxies resonate like giant density waves.  
+  - Stars and gas clouds orbit in patterns sustained by feedback loops.  
+  - The same logarithmic spiral appears in hurricanes, shells, and cochleae.
 
-- **Lunar Resonance**  
-  - The Moon’s 29.5-day synodic cycle links to tides, fertility, and sleep–dream rhythms.  
-  - Lunar standstills (18.6-year cycle) are embedded in megalithic sites worldwide.  
-  - Lunar calendars remain key in civic rituals (Ramadan, Easter, Chinese New Year).  
+- **Cosmic Microwave Background (CMB)**  
+  - Fossil light from the Big Bang carries an acoustic fingerprint.  
+  - Tiny anisotropies in the CMB reveal primordial standing waves.  
+  - The universe’s “first sound” sets the background hum.
 
-- **Galactic Anchors**  
-  - Milankovitch cycles (eccentricity, obliquity, precession) shape Earth’s ice ages.  
-  - Galactic cosmic ray flux influences cloud formation and possibly human evolution.  
-  - The galactic center (Sagittarius A*) radiates frequencies tied to deep mythologies of origin.  
+- **Large-Scale Structure**  
+  - Galaxies align along cosmic filaments, tracing plasma and dark matter webs.  
+  - Resonance of gravity + plasma turbulence shapes this network.  
+  - The structure is fractal: filaments within filaments, like neural tissue.
+
+---
+
+## Fractal Echoes: Cosmos ↔ Earth ↔ Human
+
+- Spiral geometry links galaxies ↔ hurricanes ↔ DNA helices.  
+- Plasma filaments resemble neural networks.  
+- Cosmic background hum echoes Earth’s Schumann bands and human theta rhythms.  
+- The principle: **what resonates at scale is echoed in microcosm**.
 
 ---
 
 ## Entrainment Windows
 
-- **Cosmos ↔ Earth**  
-  Orbital harmonics resonate with tectonic, climate, and biospheric rhythms.  
+- Solar activity ↔ geomagnetic storms ↔ human HRV & brainwaves.  
+- Galactic cycles (precession, cosmic rays) ↔ climate epochs.  
+- Cosmic radiation modulates evolution and mutation rates.  
+- Possible but unexplored: collective human coherence ↔ subtle cosmic fields.
 
-- **Cosmos ↔ Human**  
-  Lunar and solar cycles entrain sleep, fertility, and cultural rituals.  
+---
 
-- **Cosmos ↔ Civic**  
-  Civic calendars, governance cycles, and festivals were historically aligned with celestial timing.  
-  Modern disconnect creates temporal dissonance; re-alignment restores coherence.  
+## Simulations & Models
 
-- **Cosmos ↔ Atlas**  
-  The Resonant Reality framework nests within a larger **Atlas of systemic resonance**,  
-  where planetary–stellar–galactic rhythms scaffold civilizational design.
+- **Fractal Spiral Model**: log-spiral as scaling law (DNA → cochlea → galaxy).  
+- **Plasma Filament Network**: percolation dynamics echoing neural graphs.  
+- **Cosmic Acoustic Fossil**: simulating primordial standing waves.
+
+↳ See [`docs/sims/index.md`](../sims/index.md)
 
 ---
 
 ## Implications
 
-- Celestial cycles are **not abstract** — they are living rhythms that shape biology and society.  
-- Civic design can re-integrate cosmic timing (festivals, fiscal calendars, governance cycles).  
-- Personal coherence practices (meditation, ritual, dreamwork) are amplified when synced to sky rhythms.  
+- Cosmology is not distant — it’s entangled with life.  
+- Cosmic cycles set deep time rhythms that ripple down to human culture.  
+- Civic and planetary coherence may feed back into cosmic alignment.  
+- The boundary between *astronomy* and *anthropology* is thinner than assumed.
 
 ---
 
 ## Next Steps
 
-- Cross-link to **`docs/sims/index.md`** for simulations of orbital harmonics and solar cycles.  
-- Add diagrams: planetary ratio “music of the spheres,” lunar phase wheel, solar cycle curve.  
-- Bridge with **Atlas Model**: position Resonant Reality as the “local planetary octave” inside a larger cosmic score.  
-
----
-
-## Gallery (to be filled)
-
-- Planetary Ratios — (placeholder: sims/figures/orbital_ratios.png)  
-- Sunspot Cycle — (placeholder: sims/figures/sunspot_cycle.png)  
-- Lunar Phase Wheel — (placeholder: sims/figures/lunar_wheel.png)  
-- Galactic Center Flow — (placeholder: sims/figures/galactic_pulse.png)
+- Expand simulations linking spiral resonance to galactic dynamics.  
+- Build bridges to **Atlas Model** (cosmos as top layer of coherence theory).  
+- Explore mythic echoes: “music of the spheres” as premodern cosmology.  
