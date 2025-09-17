@@ -1,48 +1,61 @@
 site_name: Resonant Reality
-site_description: "A living, testable blueprint for Earth↔Human↔Civic↔Cosmos coherence."
-site_url: ""
-repo_name: Resonant-reality
 repo_url: https://github.com/TerralanMira/Resonant-reality
-
 theme:
   name: material
-
-# IMPORTANT: no plugins for now (keeps CI green)
-plugins: []
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: teal
 
 nav:
   - Home: index.md
-  - Overview:
-      - Roadmap: docs/overview/00-roadmap.md
-      - Atlas Spiral: docs/overview/01-spiral.md
-  - Theory (TOE):
-      - Index: docs/toe/index.md
   - Field:
-      - Index: docs/field/index.md
-      - Earth:
-          - Index: docs/field/earth/index.md
-          - Data: docs/field/earth/data.md
-          - Human: docs/field/earth/human.md
-      - Civic:
-          - Index: docs/civic/index.md
-          - Plazas: docs/civic/plazas.md
-          - Hearths: docs/civic/hearths.md
-          - Conductor: docs/civic/conductor.md
-          - Economy: docs/civic/economy.md
-          - Education: docs/civic/education.md
-          - Governance: docs/civic/governance.md
-      - Cosmos:
-          - Index: docs/cosmos/index.md
-          - Bridge: docs/cosmos/bridge.md
+      - Earth Layer:
+          - Overview: field/earth.md
+          - Data: field/earth/data.md
+      - Human Layer: field/human.md
+      - Civic Layer:
+          - Overview: civic/index.md
+          - Conductor: civic/conductor.md
+          - Plazas: civic/plazas.md
+          - Rituals: civic/rituals.md
+          - Hearths: civic/hearths.md
+          - Governance: civic/governance.md
+          - Education: civic/education.md
+          - Economy: civic/economy.md
+      - Cosmos Layer: cosmos/index.md
+      - Bridge: bridge.md
   - Sims:
-      - Index: docs/sims/index.md
-      - Quickstart: docs/sims/quickstart.md
-      - Spiral Resonance: docs/sims/spiral_resonance.md
-      - Kuramoto Sync: docs/sims/kuramoto.md
-      - LC Grid Modes: docs/sims/lc_grid.md
-      - Schumann Coupling: docs/sims/schumann.md
-      - Resonant Currency: docs/sims/resonant_currency.md
-  - City:
-      - Index: docs/city/index.md
-  - Glossary: docs/glossary.md
-  - Cosmos: docs/cosmos/index.md
+      - Overview: sims/index.md
+      - Spiral Resonance: sims/spiral.md
+      - Kuramoto Sync: sims/kuramoto.md
+      - LC Grid Modes: sims/lc_grid.md
+      - Schumann Coupling: sims/schumann.md
+      - Resonant Currency: sims/resonant_currency.md
+      - Atlas Model: sims/atlas.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
