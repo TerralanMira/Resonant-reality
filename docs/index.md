@@ -1,82 +1,82 @@
-# Resonant Reality
+site_name: Resonant Reality
+site_description: "Field, human, civic, and cosmic resonance — models, maps, and simulations"
+site_author: "Terralan Mira"
+repo_url: "https://github.com/TerralanMira/Resonant-reality"
 
-**Resonant Reality** is a living atlas of coherence.  
-It bridges scales — **Earth ↔ Human ↔ Civic ↔ Cosmos** — showing how resonance patterns repeat as micro mirrors macro.  
-It is both **map and practice**, both **theory and simulation**, both **field and civic design**.
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+  icon:
+    repo: fontawesome/brands/github
 
----
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.emoji
 
-## Why Resonance?
+nav:
+  - Home: index.md
 
-- The universe is structured in oscillations, feedback loops, standing waves.  
-- Earth’s electromagnetic envelope sets the stage (Schumann bands, geomagnetic rhythms).  
-- Human hearts and brains entrain to these bands.  
-- Civic structures can be tuned as resonant conductors.  
-- Cosmos reveals the same recursive order at the largest scale.
+  - Field Layer:
+      - Overview: docs/field/index.md
+      - Earth: docs/field/earth.md
+      - Human: docs/field/human.md
+      - Civic: docs/field/civic.md
+      - Cosmos: docs/field/cosmos.md
 
-Resonance is the **invisible medium of coherence**.  
-When aligned, parts reinforce the whole. When fragmented, noise dominates.
+  - Civic Layer (spiral):
+      - Hearths: docs/civic/hearths.md
+      - Governance: docs/civic/governance.md
+      - Economy: docs/civic/economy.md
+      - Education: docs/civic/education.md
+      - Plaza: docs/civic/plaza.md
+      - Rituals: docs/civic/rituals.md
 
----
+  - Simulations:
+      - Index: docs/sims/index.md
+      - Spiral Resonance: docs/sims/spiral_resonance.md
+      - Kuramoto Sync: docs/sims/kuramoto.md
+      - LC Grid Modes: docs/sims/lc_grid.md
+      - Schumann Coupling: docs/sims/schumann.md
+      - Resonant Currency: docs/sims/resonant_currency.md
+      - Cosmos Sims Overview: docs/cosmos/simulations.md
 
-## The Four Layers
+  - Awareness & Coherence:
+      - Overview: docs/awareness/index.md
+      - Practices: docs/awareness/practices.md
+      - Collective Field: docs/awareness/collective.md
 
-- **Field Layer**  
-  Earth’s resonant envelope: Schumann resonance, geomagnetic flows, tectonic hum.  
-  ↳ See [`docs/field/index.md`](field/index.md)
+  - Core:
+      - Infinity Equation: docs/core/infinity_equation.md
+      - Atlas Model (Engine): docs/core/atlas_model.md
+      - Bridge (RR ↔ Atlas): docs/bridge.md
 
-- **Human Layer**  
-  Brainwaves, heart rhythms, breath cycles, collective entrainment.  
-  ↳ See [`docs/human/index.md`](human/index.md)
+  - Books & References:
+      - Core Texts: docs/books/index.md
+      - Excerpts: docs/books/excerpts.md
 
-- **Civic Layer**  
-  Plazas, rituals, conductor roles, economic loops — the city as resonant instrument.  
-  ↳ See [`docs/civic/index.md`](civic/index.md)
+  - Exports:
+      - Knowledge Maps: docs/exports/maps.md
+      - Data Sheets: docs/exports/data.md
 
-- **Cosmos Layer**  
-  Scaling out: stellar plasmas, galactic spirals, cosmic background hum.  
-  ↳ See [`docs/cosmos/index.md`](cosmos/index.md)
-
----
-
-## Simulations: Myth → Math → Visible Coherence
-
-We don’t just describe — we simulate.  
-Each minimal model lets resonance be *seen* and *tested*:
-
-- Spiral Resonance — micro–macro spiral of coherence.  
-- Kuramoto Sync — many oscillators locking as coupling rises.  
-- LC Grid Modes — geometry shaping resonance spectra.  
-- Schumann Coupling — Earth–brain entrainment window.  
-- Resonant Currency — policy-as-conductor.
-
-↳ See [`docs/sims/index.md`](sims/index.md)
-
----
-
-## Feedback Loop: Whole ↔ Part
-
-```mermaid
-flowchart LR
-    E[Earth Field] <--> H[Human Layer]
-    H <--> C[Civic Layer]
-    C <--> S[Cosmos Layer]
-    S <--> E
-This loop is the spine of Resonant Reality:
-	•	Earth tunes human rhythms.
-	•	Humans, in coherence, shape civic fields.
-	•	Civic structures channel collective resonance back outward.
-	•	Cosmos reflects the same fractal order that seeded Earth.
-
-⸻
-
-Next Steps
-	•	Run simulations (docs/sims/quickstart.md).
-	•	Explore civic anchors (plazas, rituals, economy).
-	•	Trace bridges into the Atlas Model (TOE-level articulation).
-	•	Use the repo as both theory and practice ground.
-
-⸻
-
-Resonant Reality is not a static document.
-It is a conductor’s score — waiting for people to play it into being.
+  - The Atlas Model: https://github.com/TerralanMira/The-Atlas-Model
