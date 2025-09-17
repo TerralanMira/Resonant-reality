@@ -22,6 +22,18 @@ Each layer is both independent and a reflection of the others:
 - **Human** — brain, heart, breath tuned to planetary fields.  
 - **Civic** — how resonance principles become culture, governance, economy.  
 - **Simulations** — minimal models where myth → math → visible coherence.
+- ---
+
+## The Spiral Map
+
+This project is structured as a **spiral of resonance**:
+
+- Earth ↔ Human ↔ Civic ↔ Cosmos  
+- Each layer mirrored in simulations, practices, and applications
+
+![](docs/assets/SPIRA.png)
+
+*SPIRA — the keystone diagram of Resonant Reality.*
 
 ---
 
