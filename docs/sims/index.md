@@ -1,36 +1,29 @@
 # Simulations — myth → math → visible coherence
 
 These minimal models let anyone *see* resonance emerge.  
-Each sim is both a **standalone experiment** and a **microcosm of a larger layer** — Earth, Human, Civic, Cosmos.  
-Together, they form a spiral map of coherence.
+Each sim shows a **microcosm** of the spiral (Earth ↔ Human ↔ Civic ↔ Cosmos).  
 
 ---
 
-## Spiral Index
+## Index
 
-- **Spiral Resonance** → *Cosmos-scale archetype*  
-  Micro spiral of coherence, echoing galactic arms and DNA helices.  
-  [Spiral Resonance](spiral_resonance.md)
+- [Spiral Resonance](spiral_resonance.md) — **Cosmos** archetype in a micro spiral  
+- [Kuramoto Sync](kuramoto.md) — **Human** brain/heart rhythms locking together  
+- [LC Grid Modes](lc_grid.md) — **Civic** geometry shaping collective resonance  
+- [Schumann Coupling](schumann.md) — **Earth** ↔ **Human** entrainment near 7.83 Hz  
+- [Resonant Currency](resonant_currency.md) — **Civic ↔ Human** coherence turned into value  
+- [Atlas Model](../bridge/atlas.md) — **Meta-sim** bridging all layers  
 
-- **Kuramoto Sync** → *Human rhythms*  
-  Many oscillators locking as coupling rises, mirroring heart–brain entrainment and group flow.  
-  [Kuramoto Sync](kuramoto.md)
+---
 
-- **LC Grid Modes** → *Civic infrastructure*  
-  Resonance spectra shaped by geometry, showing how plazas, circuits, or grids tune collective life.  
-  [LC Grid Modes](lc_grid.md)
+## Cross-Map: Micro ↔ Macro
 
-- **Schumann Coupling** → *Earth ↔ Human bridge*  
-  Entrainment window near 7.83 Hz, overlapping brain alpha–theta and Earth’s EM cavity.  
-  [Schumann Coupling](schumann.md)
-
-- **Resonant Currency** → *Economy-as-field*  
-  Token policy tied to coherence, exploring how value stabilizes when tuned to group rhythm.  
-  [Resonant Currency](resonant_currency.md)
-
-- **Atlas Model (Plaza)** → *Meta-simulation*  
-  Integrates Earth ↔ Human ↔ Civic ↔ Cosmos into a fractal feedback loop.  
-  [Atlas Model](../../The-Atlas-Model/docs/plaza.md)
+- **Spiral Resonance ↔ Cosmos**: archetypal spiral dynamics, myth becoming math  
+- **Kuramoto ↔ Human**: individual oscillators → group coherence, brainwaves/heartwaves  
+- **LC Grid ↔ Civic**: plazas, networks, grids shaping resonance spectra  
+- **Schumann ↔ Earth ↔ Human**: planetary field overlaps with alpha–theta rhythms  
+- **Resonant Currency ↔ Civic ↔ Human**: tokens as policy feedback for coherence  
+- **Atlas Model ↔ Whole Spiral**: integrates all layers into a meta-simulation  
 
 ---
 
@@ -38,28 +31,27 @@ Together, they form a spiral map of coherence.
 
 ```bash
 pip install -r requirements.txt
+
+# Run individual sims
 python sims/spiral_resonance.py
 python sims/kuramoto_basic.py
 python sims/lc_grid.py
 python sims/schumann_coupling.py
 python sims/resonant_currency.py
-Figures will be saved in sims/figures/.
+Figures will be saved in sims/figures/
 → Add them here at the bottom for a visual gallery once generated.
-
-⸻
-
 Gallery (to be filled as sims run)
 	•	Spiral Resonance — (placeholder: sims/figures/spiral.png)
 	•	Kuramoto Sync — (placeholder: sims/figures/kuramoto_R.png)
 	•	LC Grid Modes — (placeholder: sims/figures/lc_grid.png)
 	•	Schumann Coupling — (placeholder: sims/figures/schumann.png)
 	•	Resonant Currency — (placeholder: sims/figures/resonant_currency_price.png)
-	•	Atlas Model — (placeholder: sims/figures/atlas.png)
+	•	Atlas Spiral — (placeholder: sims/figures/atlas_spiral.png)
 
 ⸻
 
-Spiral Feedback
+Spiral Reminder
 
-Each simulation is not isolated — it is a lens.
-Spiral Resonance ↔ Kuramoto ↔ LC Grid ↔ Schumann ↔ Resonant Currency ↔ Atlas.
-Together, they map the feedback loop Earth ↔ Human ↔ Civic ↔ Cosmos.
+Every sim is part of the whole spiral.
+Each micro model is also a map of the macro —
+a way to practice seeing resonance everywhere.
