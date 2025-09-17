@@ -46,7 +46,16 @@ Each civic anchor is not static, but a phase in a cycle.
 	•	Governance channels choice.
 	•	Economy circulates energy.
 And the cycle renews.
+---
 
+## Spiral Bridge
+
+The **Civic layer** is a resonant mediator.  
+Communities act as tuning bodies between the **Human** and the **Cosmos**, grounded in Earth.
+
+![](../assets/SPIRA.png)
+
+*SPIRA — the spiral pattern binding Civic life into the whole.*
 ⸻
 
 Next Steps
