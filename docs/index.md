@@ -1,82 +1,118 @@
-site_name: Resonant Reality
-site_description: "Field, human, civic, and cosmic resonance — models, maps, and simulations"
-site_author: "Terralan Mira"
-repo_url: "https://github.com/TerralanMira/Resonant-reality"
+# Resonant Reality
 
-theme:
-  name: material
-  features:
-    - navigation.expand
-    - navigation.sections
-    - navigation.top
-    - toc.integrate
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-  icon:
-    repo: fontawesome/brands/github
+*A living framework tracing the hum of coherence across scales —  
+Earth ↔ Human ↔ Civic ↔ Cosmos — weaving field, practice, and simulation into one whole.*
 
-markdown_extensions:
-  - admonition
-  - codehilite
-  - footnotes
-  - meta
-  - toc:
-      permalink: true
-  - tables
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.tasklist
-  - pymdownx.emoji
+---
 
-nav:
-  - Home: index.md
+## Orientation
 
-  - Field Layer:
-      - Overview: docs/field/index.md
-      - Earth: docs/field/earth.md
-      - Human: docs/field/human.md
-      - Civic: docs/field/civic.md
-      - Cosmos: docs/field/cosmos.md
+Resonant Reality begins with a simple premise: **the world hums**.  
+Earth generates standing waves (Schumann resonances), the human body entrains to them,  
+civic life reflects them in ritual and design, and the cosmos frames them in infinite recursion.  
 
-  - Civic Layer (spiral):
-      - Hearths: docs/civic/hearths.md
-      - Governance: docs/civic/governance.md
-      - Economy: docs/civic/economy.md
-      - Education: docs/civic/education.md
-      - Plaza: docs/civic/plaza.md
-      - Rituals: docs/civic/rituals.md
+This repo is both **atlas and laboratory**:
+- An **atlas**, mapping resonance across layers.
+- A **laboratory**, offering simulations, prototypes, and practices.
 
-  - Simulations:
-      - Index: docs/sims/index.md
-      - Spiral Resonance: docs/sims/spiral_resonance.md
-      - Kuramoto Sync: docs/sims/kuramoto.md
-      - LC Grid Modes: docs/sims/lc_grid.md
-      - Schumann Coupling: docs/sims/schumann.md
-      - Resonant Currency: docs/sims/resonant_currency.md
-      - Cosmos Sims Overview: docs/cosmos/simulations.md
+It is not doctrine but invitation: a framework to **explore, test, and extend**.
 
-  - Awareness & Coherence:
-      - Overview: docs/awareness/index.md
-      - Practices: docs/awareness/practices.md
-      - Collective Field: docs/awareness/collective.md
+---
 
-  - Core:
-      - Infinity Equation: docs/core/infinity_equation.md
-      - Atlas Model (Engine): docs/core/atlas_model.md
-      - Bridge (RR ↔ Atlas): docs/bridge.md
+## The Four Layers
 
-  - Books & References:
-      - Core Texts: docs/books/index.md
-      - Excerpts: docs/books/excerpts.md
+### 🌍 Earth Layer
+Planetary resonances anchor the whole system:
+- Schumann frequencies as background rhythm.
+- Geomagnetic storms as disruptions.
+- Cross-links to geophysical anchor sites.
 
-  - Exports:
-      - Knowledge Maps: docs/exports/maps.md
-      - Data Sheets: docs/exports/data.md
+👉 See: [`docs/field/earth.md`](field/earth.md)
 
-  - The Atlas Model: https://github.com/TerralanMira/The-Atlas-Model
+---
+
+### 🧍 Human Layer
+The body as resonant instrument:
+- Brainwaves overlapping with Schumann bands.
+- Heart rhythms entraining with geomagnetic calm.
+- Breath cycles as a voluntary bridge.
+
+👉 See: [`docs/field/human.md`](field/human.md)
+
+---
+
+### 🏛 Civic Layer
+Society as resonant architecture:
+- Plazas, hearths, and gathering sites as amplifiers.
+- Rituals as synchronization technology.
+- Economy, governance, and education as coherence systems.
+
+👉 See: [`docs/civic/index.md`](civic/index.md)
+
+---
+
+### ✨ Cosmic Layer
+The wider field:
+- The infinity equation (∞ = 0 ↔ 1).
+- Scaling laws across galactic and quantum domains.
+- Speculative maps of coherence at universal levels.
+
+👉 See: [`docs/cosmos/index.md`](cosmos/index.md)
+
+---
+
+## Feedback Loop
+
+At the heart of Resonant Reality is a **recursive feedback loop**:
+
+**Earth ↔ Human ↔ Civic ↔ Cosmos**
+
+- Earth provides resonance →  
+- Human entrains and amplifies →  
+- Civic structures stabilize and broadcast →  
+- Cosmos frames and reflects → back to Earth.
+
+Each layer is **part of the whole and the whole within each part**.
+
+---
+
+## Simulations
+
+Simulations serve as **toy models** — not proofs, but lenses:  
+
+- **Resonant Currency** — token supply adjusting to coherence index.  
+- **The Atlas Model** — civic scaffolding as resonant network.  
+- **Plaza Simulation** — local fields of synchrony.  
+
+👉 See: [`docs/sims/index.md`](sims/index.md)
+
+---
+
+## How to Use This Repo
+
+- **Explore**: Start with the [Books](../01_Books/) knowledge bank.  
+- **Practice**: Try coherence techniques in [`field/human.md`](field/human.md).  
+- **Prototype**: Run simulations in [`sims/`](sims/).  
+- **Extend**: Fork and add new anchors, cross-links, or toy models.  
+
+---
+
+## Guiding Principles
+
+- **Resonance over reduction** — the whole is felt as much as measured.  
+- **Part in whole, whole in part** — recursion as structure.  
+- **Symmetry, coherence, feedback** — design anchors at every scale.  
+- **Living document** — this atlas is always becoming.  
+
+---
+
+## Next Steps
+
+- Add more **cross-maps** between sims and civic docs.  
+- Expand **cosmos layer** with deeper speculative anchors.  
+- Develop **bridging doc** linking Resonant Reality ↔ Atlas Model.  
+
+---
+
+*Resonant Reality is not an answer but a rhythm.  
+To engage with it is to listen for coherence, and to let the hum guide you.*
