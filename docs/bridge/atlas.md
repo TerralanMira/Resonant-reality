@@ -14,9 +14,31 @@ Each part is whole, and each whole is mirrored in every part.
 - **Cosmos** → Spiral archetypes, stellar cycles, mythic time  
 
 The Atlas Model shows how **feedback flows across layers**:
-Earth ↔ Human ↔ Civic ↔ Cosmos ↔ Earth …
+Earth ↔ Human ↔ Civic ↔ Cosmos ↔ Earth
 Not as a chain, but as a **spiral feedback loop**.  
 Resonance propagates up and down the stack, creating coherence or collapse.
+
+---
+
+## Spiral Diagram (ASCII)
+     [Cosmos]
+         ▲
+         │
+ [Civic] │  Collective design
+         │
+         ▼
+     [Human]
+         ▲
+         │
+ [Earth] │  Planetary field
+         │
+         ▼
+     [Cosmos]
+↳ Each arrow is bidirectional: feedback flows both ways.  
+↳ The spiral is dynamic — coherence amplifies, incoherence fragments.  
+
+Later, this will be illustrated as a spiral figure in:  
+`sims/figures/atlas_spiral.png`
 
 ---
 
