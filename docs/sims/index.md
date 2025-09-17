@@ -1,18 +1,21 @@
 # Simulations — myth → math → visible coherence
 
-These minimal models let anyone *see* resonance emerge.
-Each sim lists what it shows, how to run it, and how it mirrors macro patterns.
+These minimal models let anyone *see* resonance emerge.  
+Each sim includes what it shows, how to run it, and what counts as a pass/falsifier.
 
 ---
 
 ## Index
 
-- [Spiral Resonance](spiral_resonance.md) — micro → macro spiral (animated)
+- [Spiral Resonance](spiral_resonance.md) — micro → macro spiral of coherence (animated)
 - [Kuramoto Sync](kuramoto.md) — many oscillators locking as coupling rises
 - [LC Grid Modes](lc_grid.md) — geometry shapes resonance spectra
-- [Schumann Coupling](schumann.md) — Earth–brain entrainment window
-- [Resonant Currency](resonant_currency.md) — circulation of coherence in economy
-- Cosmos set (on one page): [Cosmos Simulations](../cosmos/simulations.md)
+- [Schumann Coupling](schumann.md) — entrainment window near 7.83 Hz
+- [Resonant Currency](resonant_currency.md) — toy model of coherence-linked economy
+- **Atlas Model (linked repo)** — cross-scale system design:  
+  ↳ See: [The-Atlas-Model](https://github.com/TerralanMira/The-Atlas-Model)
+- **Plaza Experiments** — civic resonance spaces (future expansion)  
+  ↳ Anchor to `docs/civic/plazas.md`
 
 ---
 
@@ -25,29 +28,32 @@ python sims/kuramoto_basic.py
 python sims/lc_grid.py
 python sims/schumann_coupling.py
 python sims/resonant_currency.py
-python sims/sunspot_cycle.py
-python sims/orbital_ratios.py
-python sims/lunar_wheel.py
-python sims/galactic_pulse.py
-Figures save to sims/figures/. Add selections to the gallery below once generated.
+Figures will be saved in sims/figures/
+→ Add them here at the bottom for a visual gallery once generated.
 
 ⸻
 
-Cross-Maps: micro ↔ macro
-	•	Spiral Resonance ↔ spirals of shells, hurricanes, galaxies.
-	•	Kuramoto Sync ↔ choir/heart entrainment in civic ritual.
-	•	LC Grid Modes ↔ architecture & grids shaping spectra.
-	•	Schumann Coupling ↔ alpha–theta windows, meditation.
-	•	Resonant Currency ↔ policy as conductor of civic flow.
-	•	Cosmos set ↔ orbits, sunspot cycles, lunar timing, galactic bursts.
-Gallery (placeholders until you run sims)
-	•	Spiral: sims/figures/spiral.png
-	•	Kuramoto: sims/figures/kuramoto_R.png
-	•	LC Grid: sims/figures/lc_grid.png
-	•	Schumann: sims/figures/schumann.png
-	•	Currency (price): sims/figures/resonant_currency_price.png
-	•	Cosmos
-	•	Sunspot: sims/figures/sunspot_cycle.png
-	•	Orbital ratios: sims/figures/orbital_ratios.png
-	•	Lunar wheel: sims/figures/lunar_wheel.png
-	•	Galactic pulse: sims/figures/galactic_pulse.png
+Gallery (to be filled as sims run)
+	•	Spiral Resonance — (placeholder: sims/figures/spiral.png)
+	•	Kuramoto Sync — (placeholder: sims/figures/kuramoto_R.png)
+	•	LC Grid Modes — (placeholder: sims/figures/lc_grid.png)
+	•	Schumann Coupling — (placeholder: sims/figures/schumann.png)
+	•	Resonant Currency — (placeholder: sims/figures/resonant_currency_price.png)
+
+⸻
+
+Cross-maps
+
+Each simulation is a microcosm of a larger layer:
+	•	Spiral → Cosmos spirals (galaxies, DNA, hurricanes)
+	•	Kuramoto → Human sync (neurons, applause, heart coherence)
+	•	LC Grid → Earth grids (geomagnetic standing waves, urban layouts)
+	•	Schumann → Earth ↔ Human bridge (alpha–theta brain rhythms)
+	•	Resonant Currency → Civic economy (policy as resonance controller)
+	•	Atlas Model → Integration spine (bridging local ↔ global)
+	•	Plaza Experiments → Civic field layer (rituals, gatherings, coherence tests)
+
+⸻
+
+This index is not just a table — it’s the spiral spine.
+Micro within macro, each sim is a seed crystal for the whole.
