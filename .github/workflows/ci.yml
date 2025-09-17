@@ -3,19 +3,11 @@ name: docs
 on:
   push:
     branches: [ main ]
-    paths:
-      - "docs/**"
-      - "sims/**"
-      - "mkdocs.yml"
-      - ".github/workflows/ci.yml"
   pull_request:
-    branches: [ main ]
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,29 +17,16 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install MkDocs + plugins
+      - name: Install MkDocs (minimal)
         run: |
           python -m pip install --upgrade pip
-          pip install \
-            mkdocs \
-            mkdocs-material \
-            mkdocs-jupyter \
-            pymdown-extensions
+          pip install mkdocs mkdocs-material
 
       - name: Build site (strict)
         run: mkdocs build --strict
 
-      # Optional: publish the site to GitHub Pages (enable Pages first)
-      # - name: Upload artifact
-      #   uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: site
-  # deploy:
-  #   needs: build
-  #   permissions:
-  #     pages: write
-  #     id-token: write
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Deploy to GitHub Pages
-  #       uses: actions/deploy-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: site
