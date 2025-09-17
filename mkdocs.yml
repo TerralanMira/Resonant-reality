@@ -1,80 +1,71 @@
 site_name: Resonant Reality
-site_description: >
-  A layered atlas of resonance — tracing coherence from Earth to human,
-  civic to cosmos — with simulations, field data, and civic applications.
-site_url: https://terralanmira.github.io/Resonant-reality/
+site_description: "Field, human, civic, and cosmic resonance — models, maps, and simulations"
+repo_url: "https://github.com/TerralanMira/Resonant-reality"
 
 theme:
   name: material
-  palette:
-    scheme: default
-    primary: indigo
-    accent: pink
   features:
     - navigation.expand
     - navigation.sections
+    - navigation.top
     - toc.integrate
-    - content.code.copy
-    - content.code.annotate
-
-nav:
-  - Home: index.md
-
-  - Field:
-    - Overview: field/index.md
-    - Earth:
-      - Overview: field/earth.md
-      - Data: field/earth/data.md
-      - Schema: field/earth/schema.md
-    - Human: field/human.md
-    - Civic: field/civic.md
-    - Cosmos: field/cosmos.md
-
-  - Civic:
-    - Overview: civic/index.md
-    - Conductor: civic/conductor.md
-    - Plazas: civic/plazas.md
-    - Rituals: civic/rituals.md
-    - Governance: civic/governance.md
-    - Hearths: civic/hearths.md
-    - Education: civic/education.md
-    - Economy: civic/economy.md
-
-  - Sims:
-    - Overview: sims/index.md
-    - Quickstart: sims/quickstart.md
-    - Spiral Resonance: sims/spiral_resonance.md
-    - Kuramoto Sync: sims/kuramoto.md
-    - LC Grid Modes: sims/lc_grid.md
-    - Schumann Coupling: sims/schumann.md
-    - Resonant Currency: sims/resonant_currency.md
-
-  - Atlas Bridge:
-    - The Atlas Model (external): https://github.com/TerralanMira/The-Atlas-Model
-    - Plaza (external): https://github.com/TerralanMira/Plaza
-
-  - Books:
-    - Overview: books/index.md
-
-  - Awareness & Coherence:
-    - Overview: awareness/index.md
-
-  - Exports:
-    - Overview: exports/index.md
-
-  - About: about.md
-
-plugins:
-  - search
-  - mkdocs-jupyter:
-      execute: false
-  - awesome-pages
 
 markdown_extensions:
-  - toc:
-      permalink: true
   - admonition
   - codehilite
   - footnotes
-  - attr_list
-  - md_in_html
+  - meta
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.emoji
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - mkdocs-jupyter
+  - awesome-pages
+
+nav:
+  - Home: index.md
+  - SPIRA (Keystone): spiral.md
+
+  - Field Layer:
+      - Overview: field/index.md
+      - Earth: field/earth.md
+      - Human: field/human.md
+      - Civic: field/civic.md
+      - Cosmos: field/cosmos.md
+
+  - Civic Layer (spiral):
+      - Hearths: civic/hearths.md
+      - Governance: civic/governance.md
+      - Economy: civic/economy.md
+      - Education: civic/education.md
+      - Plaza: civic/plaza.md
+      - Rituals: civic/rituals.md
+
+  - Simulations:
+      - Index: sims/index.md
+      - Spiral Resonance: sims/spiral_resonance.md
+      - Kuramoto Sync: sims/kuramoto.md
+      - LC Grid Modes: sims/lc_grid.md
+      - Schumann Coupling: sims/schumann.md
+      - Resonant Currency: sims/resonant_currency.md
+      - Plaza (toy): sims/plaza.md
+      - Orbital Resonance: sims/orbital_resonance.md
+
+  - Bridge:
+      - Atlas (Fractal Bridge): bridge/atlas.md
+      - The Atlas Model (external): https://github.com/TerralanMira/The-Atlas-Model
+
+  - Books & References:
+      - Core Texts: books/index.md
+      # - Excerpts: books/excerpts.md   # uncomment only if file exists
+
+  - Exports:
+      - Knowledge Maps: exports/maps.md
+      - Data Sheets: exports/data.md
