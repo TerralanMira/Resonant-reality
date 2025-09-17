@@ -60,7 +60,7 @@ nav:
       - Schumann Coupling: docs/sims/schumann.md
       - Resonant Currency: docs/sims/resonant_currency.md
       - Cosmos Sims Overview: docs/cosmos/simulations.md
-
+      - Plaza (toy): docs/sims/plaza.md
   - Awareness & Coherence:
       - Overview: docs/awareness/index.md
       - Practices: docs/awareness/practices.md
