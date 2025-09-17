@@ -1,86 +1,65 @@
-# Simulations
+# Simulations — myth → math → visible coherence
 
-*Toy models for resonance: microcosms of the Earth ↔ Human ↔ Civic ↔ Cosmos loop.*
-
-Simulations in this repo are **lenses, not proofs**.  
-They let us *play* with resonance principles in simplified systems,  
-and show how coherence can ripple across layers.
+These minimal models let anyone *see* resonance emerge.  
+Each sim is both a **standalone experiment** and a **microcosm of a larger layer** — Earth, Human, Civic, Cosmos.  
+Together, they form a spiral map of coherence.
 
 ---
 
-## The Gallery
+## Spiral Index
 
-### 💱 Resonant Currency
-**Domain:** Civic ↔ Human  
-A minimal economy where token supply responds to a **coherence index**.  
-- High coherence → more issuance for contributions.  
-- Price deviations → contraction for stability.  
-- Models how civic systems might reward **collective coherence**.  
+- **Spiral Resonance** → *Cosmos-scale archetype*  
+  Micro spiral of coherence, echoing galactic arms and DNA helices.  
+  [Spiral Resonance](spiral_resonance.md)
 
-👉 Code: [`sims/resonant_currency.py`](../sims/resonant_currency.py)  
-👉 Doc: [`docs/sims/resonant_currency.md`](resonant_currency.md)  
-👉 Outputs: `sims/figures/resonant_currency_price.png`, `..._supply.png`
+- **Kuramoto Sync** → *Human rhythms*  
+  Many oscillators locking as coupling rises, mirroring heart–brain entrainment and group flow.  
+  [Kuramoto Sync](kuramoto.md)
 
----
+- **LC Grid Modes** → *Civic infrastructure*  
+  Resonance spectra shaped by geometry, showing how plazas, circuits, or grids tune collective life.  
+  [LC Grid Modes](lc_grid.md)
 
-### 🗺 The Atlas Model
-**Domain:** Civic ↔ Cosmos  
-A **network-of-networks** toy model, where nodes are civic anchors (plazas, hearths, rituals).  
-Edges pulse with resonance — showing how coherence can spread like waves.  
-- Visualizes governance as **field conductor**.  
-- Bridges **Resonant Reality ↔ Atlas repo**.  
+- **Schumann Coupling** → *Earth ↔ Human bridge*  
+  Entrainment window near 7.83 Hz, overlapping brain alpha–theta and Earth’s EM cavity.  
+  [Schumann Coupling](schumann.md)
 
-👉 Code: [`The-Atlas-Model/atlas_model.py`](../../The-Atlas-Model/atlas_model.py)  
-👉 Doc: [`The-Atlas-Model/docs/index.md`](../../The-Atlas-Model/docs/index.md)  
-👉 Outputs: `The-Atlas-Model/figures/atlas_network.png`
+- **Resonant Currency** → *Economy-as-field*  
+  Token policy tied to coherence, exploring how value stabilizes when tuned to group rhythm.  
+  [Resonant Currency](resonant_currency.md)
 
----
-
-### 🌀 Plaza Simulation
-**Domain:** Earth ↔ Civic  
-A local field model of **synchrony in shared space**.  
-- Agents entrain to a shared resonance in plazas.  
-- Demonstrates how **architecture can amplify coherence**.  
-- Micro-model of civic design as resonant practice.  
-
-👉 Code: [`sims/plaza.py`](../sims/plaza.py)  
-👉 Doc: [`docs/sims/plaza.md`](plaza.md)  
-👉 Outputs: `sims/figures/plaza_sync.png`
+- **Atlas Model (Plaza)** → *Meta-simulation*  
+  Integrates Earth ↔ Human ↔ Civic ↔ Cosmos into a fractal feedback loop.  
+  [Atlas Model](../../The-Atlas-Model/docs/plaza.md)
 
 ---
 
-## Cross-Maps: Micro ↔ Macro
-
-- **Currency ↔ Civic Economy**: Resonant Currency is a toy micro of [`civic/economy.md`](../civic/economy.md).  
-- **Atlas ↔ Governance**: The Atlas Model is the structural mirror of [`civic/governance.md`](../civic/governance.md).  
-- **Plaza ↔ Rituals & Design**: Plaza Simulation embodies concepts from [`civic/plazas.md`](../civic/plazas.md) and [`civic/design.md`](../civic/design.md).  
-
----
-
-## Future Sims
-
-- **Field Synchrony Model**: Human HRV coherence mapped to Schumann inputs.  
-- **Collective Meditation Effect**: Agent-based group resonance feedback.  
-- **Cosmos Scaling Toy**: Scaling resonance laws from atom ↔ planet ↔ galaxy.  
-
----
-
-## How to Run
-
-From repo root, run any sim, e.g.:
+## Quickstart
 
 ```bash
+pip install -r requirements.txt
+python sims/spiral_resonance.py
+python sims/kuramoto_basic.py
+python sims/lc_grid.py
+python sims/schumann_coupling.py
 python sims/resonant_currency.py
-python sims/plaza.py
 Figures will be saved in sims/figures/.
+→ Add them here at the bottom for a visual gallery once generated.
 
 ⸻
 
-Closing Note
+Gallery (to be filled as sims run)
+	•	Spiral Resonance — (placeholder: sims/figures/spiral.png)
+	•	Kuramoto Sync — (placeholder: sims/figures/kuramoto_R.png)
+	•	LC Grid Modes — (placeholder: sims/figures/lc_grid.png)
+	•	Schumann Coupling — (placeholder: sims/figures/schumann.png)
+	•	Resonant Currency — (placeholder: sims/figures/resonant_currency_price.png)
+	•	Atlas Model — (placeholder: sims/figures/atlas.png)
 
-Each simulation is both:
-	•	a toy experiment, showing principles in miniature.
-	•	a fractal mirror, where the part contains the whole.
+⸻
 
-Resonance flows from cosmos to plaza to breath —
-and these sims are sketches of that infinite loop.
+Spiral Feedback
+
+Each simulation is not isolated — it is a lens.
+Spiral Resonance ↔ Kuramoto ↔ LC Grid ↔ Schumann ↔ Resonant Currency ↔ Atlas.
+Together, they map the feedback loop Earth ↔ Human ↔ Civic ↔ Cosmos.
