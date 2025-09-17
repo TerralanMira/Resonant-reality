@@ -11,29 +11,49 @@ markdown_extensions:
   - meta
   - toc:
       permalink: true
-
 nav:
   - Home: index.md
-  - Awareness & Coherence:
-      - Overview: docs/awareness/index.md
-      - Anchors: docs/awareness/anchors.md
-      - Practices: docs/awareness/practices.md
+
   - Field Layer:
+      - Overview: docs/field/index.md
       - Earth: docs/field/earth.md
       - Human: docs/field/human.md
       - Civic: docs/field/civic.md
       - Cosmos: docs/field/cosmos.md
-  - Simulations:
-      - Overview: docs/sims/index.md
-      - Resonant Currency: docs/sims/resonant_currency.md
-      - Other Models: docs/sims/other_models.md
-  - Civic Applications:
-      - Conductor: docs/civic/conductor.md
-      - Plazas: docs/civic/plazas.md
-      - Rituals: docs/civic/rituals.md
+
+  - Civic Layer (spiral):
       - Hearths: docs/civic/hearths.md
       - Governance: docs/civic/governance.md
-      - Education: docs/civic/education.md
       - Economy: docs/civic/economy.md
-  - Bridge: docs/bridge.md
+      - Education: docs/civic/education.md
+      - Plazas: docs/civic/plazas.md   # ensure file is plural OR change to plaza.md to match disk
+      - Rituals: docs/civic/rituals.md
+
+  - Simulations:
+      - Index: docs/sims/index.md
+      - Spiral Resonance: docs/sims/spiral_resonance.md
+      - Kuramoto Sync: docs/sims/kuramoto.md
+      - LC Grid Modes: docs/sims/lc_grid.md
+      - Schumann Coupling: docs/sims/schumann.md
+      - Resonant Currency: docs/sims/resonant_currency.md
+      - Cosmos Sims Overview: docs/cosmos/simulations.md
+
+  - Awareness & Coherence:
+      - Overview: docs/awareness/index.md
+      - Practices: docs/awareness/practices.md
+      - Collective Field: docs/awareness/collective.md
+
+  - Core:
+      - Infinity Equation: docs/core/infinity_equation.md
+      - Atlas Model (Engine): docs/core/atlas_model.md
+      - Bridge (RR ↔ Atlas): docs/bridge.md
+
+  - Books & References:
+      - Core Texts: docs/books/index.md
+      - Excerpts: docs/books/excerpts.md
+
+  - Exports:
+      - Knowledge Maps: docs/exports/maps.md
+      - Data Sheets: docs/exports/data.md
+
   - The Atlas Model: https://github.com/TerralanMira/The-Atlas-Model
