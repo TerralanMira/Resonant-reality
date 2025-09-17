@@ -1,9 +1,25 @@
 site_name: Resonant Reality
+site_description: "Field, human, civic, and cosmic resonance — models, maps, and simulations"
+site_author: "Terralan Mira"
+repo_url: "https://github.com/TerralanMira/Resonant-reality"
+
 theme:
   name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
   palette:
-    primary: indigo
-    accent: indigo
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+  icon:
+    repo: fontawesome/brands/github
+
 markdown_extensions:
   - admonition
   - codehilite
@@ -11,6 +27,13 @@ markdown_extensions:
   - meta
   - toc:
       permalink: true
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.emoji
+
 nav:
   - Home: index.md
 
@@ -26,7 +49,7 @@ nav:
       - Governance: docs/civic/governance.md
       - Economy: docs/civic/economy.md
       - Education: docs/civic/education.md
-      - Plaza: docs/civic/plazas.md   # ensure file is plural OR change to plaza.md to match disk
+      - Plaza: docs/civic/plaza.md
       - Rituals: docs/civic/rituals.md
 
   - Simulations:
