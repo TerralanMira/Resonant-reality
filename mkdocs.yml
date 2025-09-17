@@ -1,32 +1,31 @@
 site_name: Resonant Reality
-site_description: Explorations of coherence, resonance, and civic-cosmic design
-site_author: Terralan Mira
-repo_url: https://github.com/TerralanMira/Resonant-reality
-edit_uri: edit/main/docs/
+site_description: >
+  A living atlas of resonance across human, earth, civic, and cosmic layers —
+  weaving field theory, coherence practices, and civic design into a whole.
+site_url: https://your-username.github.io/Resonant-reality/
 
 theme:
   name: material
+  language: en
   features:
-    - navigation.sections
-    - navigation.expand
+    - navigation.instant
     - navigation.tabs
+    - navigation.sections
     - toc.integrate
+    - content.code.annotate
     - content.code.copy
   palette:
     - scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: teal
+      accent: indigo
     - scheme: slate
-      primary: indigo
-      accent: deep purple
-  font:
-    text: Inter
-    code: JetBrains Mono
+      primary: teal
+      accent: indigo
 
 plugins:
   - search
-  - awesome-pages
   - mkdocs-jupyter
+  - awesome-pages
 
 markdown_extensions:
   - admonition
@@ -35,42 +34,52 @@ markdown_extensions:
   - toc:
       permalink: true
   - def_list
-  - pymdownx.arithmatex
+  - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.tabbed
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.mark
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 nav:
   - Home: index.md
-  - Civic Layer:
-      - Overview: civic/index.md
-      - Plazas: civic/plazas.md
-      - Hearths: civic/hearths.md
-      - Conductor: civic/conductor.md
-      - Governance: civic/governance.md
-      - Education: civic/education.md
-      - Economy: civic/economy.md
-      - Rituals: civic/rituals.md
-  - Field Layer:
-      - Overview: field/index.md
-      - Human: field/human.md
-      - Earth: field/earth.md
-      - Cosmos: field/cosmos.md
-      - Bridge: field/bridge.md
-  - Awareness & Coherence:
-      - index.md
-  - Applications:
-      - index.md
-  - Simulations:
-      - Overview: sims/index.md
-      - Resonant Currency: sims/resonant_currency.md
-      - Plaza Simulation: sims/plaza.md
-      - Atlas Model: sims/atlas_model.md
   - Books:
-      - index.md
+      - 01_Books/index.md
+  - Awareness & Coherence:
+      - 03_Awareness & Coherence/index.md
+  - Field:
+      - 04_Field Layer/index.md
+      - Earth: field/earth.md
+      - Human: field/human.md
+      - Civic: field/civic.md
+      - Cosmos: field/cosmos.md
+  - Civic:
+      - docs/civic/index.md
+      - Conductor: docs/civic/conductor.md
+      - Plazas: docs/civic/plazas.md
+      - Rituals: docs/civic/rituals.md
+      - Hearths: docs/civic/hearths.md
+      - Governance: docs/civic/governance.md
+      - Education: docs/civic/education.md
+      - Economy: docs/civic/economy.md
+  - Sims:
+      - docs/sims/index.md
+      - Resonant Currency: docs/sims/resonant_currency.md
+      - The Atlas Model: docs/sims/the_atlas_model.md
+      - Plaza Simulation: docs/sims/plaza.md
+  - Bridge:
+      - docs/bridge/index.md
+  - Cosmos:
+      - docs/cosmos/index.md
+      - docs/cosmos/maps.md
+      - docs/cosmos/simulations.md
