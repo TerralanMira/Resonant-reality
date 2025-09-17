@@ -68,3 +68,13 @@ Next Steps
 	•	Cross-map with simulations: each minimal model sits as “micro ↔ macro” of the loop.
 	•	Prototype a spiral calendar overlaying Earth, Human, Civic, and Cosmic cycles.
 	•	Develop metrics: coherence indexes at each scale feeding into a unified “Resonant Index.”
+---
+
+## Spiral Bridge
+
+The **Field layer** is not isolated.  
+It spirals upward into the **Human**, outward into the **Civic**, and beyond into the **Cosmos**.
+
+![](../assets/SPIRA.png)
+
+*SPIRA — the diagram of resonance across layers.*
