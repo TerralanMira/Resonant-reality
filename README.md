@@ -1,110 +1,82 @@
-# Resonant Reality
+# Resonant Reality  
 
-*A living Theory of Everything — whole in part, part in whole.*
-
----
-
-## 🌌 The Infinity Equation
-∞ = (whole ∈ part) = (part ∈ whole)
-Infinity is coherence across scales.  
-Every system — from cosmos to field to human to civic — reflects and sustains the whole.  
-This project encodes that recursion into **math, models, and designs**.
-**Engine:** The Atlas Model → https://github.com/TerralanMira/The-Atlas-Model.git
----
-
-## 🌀 Structure
-
-The repository is organized as a **spiral of layers**.  
-Each layer is both independent and a reflection of the others:
-
-- **Cosmos** — the largest frame: field dynamics, coherence of universe.  
-- **Field** — Earth as resonant body (geomagnetic, Schumann, sites).  
-- **Human** — brain, heart, breath tuned to planetary fields.  
-- **Civic** — how resonance principles become culture, governance, economy.  
-- **Simulations** — minimal models where myth → math → visible coherence.
-- ---
-
-## The Spiral Map
-
-This project is structured as a **spiral of resonance**:
-
-- Earth ↔ Human ↔ Civic ↔ Cosmos  
-- Each layer mirrored in simulations, practices, and applications
-
-![](docs/assets/SPIRA.png)
-
-*SPIRA — the keystone diagram of Resonant Reality.*
+**Resonant Reality** is a living framework: a set of simulations, schemas, and field mappings designed to explore how resonance shapes perception, consciousness, and collective systems. It integrates symbolic, scientific, and experiential layers into a unified repository of living models.  
 
 ---
 
-## 🔬 What You’ll Find
+## 🌐 Repository Structure  
 
-- **Docs**: narrative and conceptual articulation (`docs/…`).  
-- **Sims**: runnable toy models (`sims/*.py`).  
-- **Figures**: generated visual proofs (`sims/figures/`).  
-- **Schema/Data**: anchors in geophysics and physiology (`docs/field/earth/data.md`).  
+### Root
+- **README.md** → You are here. Entry point with overview + navigation.  
+- **CITATION.cff** → Academic citation file.  
+- **CONTRIBUTING.md** → Guidelines for contributions.  
+- **LICENSE** → Open license terms.  
+- **requirements.txt** → Dependencies for running simulations.  
 
-Together, these show how resonance is not metaphor but **mechanism**.
+### Docs
+- `/docs/` → Extended explanations, diagrams, and symbolic mappings.  
+  - `assets/` → Images and diagrams (e.g., *SPIRA.png*).  
 
----
+### City
+- `/city/configs/` → Simulation configs for resonance in structured environments (maps, zones, lessons).  
+- `/city/specs/` → JSON schemas defining core entities (city, conductor, hearth, plaza, wild, zone).  
 
-## 📊 Simulations Index
+### Conductor
+- `/conductor/presets/` → Prebuilt resonance patterns (e.g., `garden_day.json`, `healing_loop.json`).  
+- `/conductor/pulses/` → Pulse logic and seeding experiments (`seed.json`).  
+- **Upcoming:** `resonance_lock.json` → calibration + safeguard layer.  
 
-Each simulation demonstrates the same recursive law at a different scale:
-
-- **Spiral Resonance** — cosmos in miniature, pattern of whorls and galaxies.  
-- **Kuramoto Sync** — oscillators (like neurons or people) falling into phase.  
-- **LC Grid Modes** — geometry shaping resonance, civic blueprints in math.  
-- **Schumann Coupling** — Earth’s field entrained with human brainwaves.  
-- **Resonant Currency** — economy as coherence feedback loop.
-
-> Run instructions in [`docs/sims/quickstart.md`](docs/sims/quickstart.md).  
-> Gallery view in [`docs/sims/index.md`](docs/sims/index.md).
-
----
-
-## 📚 Method
-
-1. **Observe** resonance at one scale.  
-2. **Simulate** the mechanism in minimal form.  
-3. **Map** it to the next scale.  
-4. **Design** civic forms that embody the loop.  
-5. **Recursively verify**: part mirrors whole, whole sustains part.
+### Human Layer
+- `/docs/human_layer/` → Integration of consciousness and resonance within the body.  
+  - `Readme-Addendum (human layer).md` → Conceptual explanation.  
+  - Future configs: mapping resonance frequencies (432Hz, 528Hz, 963Hz, etc.) into cognition, emotion, and cellular function.  
 
 ---
 
-## 🌍 Why This Matters
+## ✨ Key Concepts  
 
-- A city built on resonance is not utopian metaphor but **physics in practice**.  
-- Human coherence feeds back into Earth stability.  
-- Policy can be tuned like a conductor keeping tempo.  
-- Education, governance, and economy can align with the same law.
-
----
-
-## 🚀 How to Contribute
-
-This is a living atlas. You can:  
-
-- Add simulations (math toys → coherence proofs).  
-- Flesh out civic blueprints.  
-- Link data anchors (geophysics, physiology, social experiments).  
-- Critique, remix, fork.  
-
-Resonance is not owned — it is joined.  
+- **Resonance** → Alignment of vibration, thought, and structure.  
+- **Field Collapse** → Observer-driven shaping of probability into lived experience.  
+- **Harmonics** → Frequencies (432Hz, 528Hz, 963Hz, etc.) as both symbolic and physical bridges between thought, speech, and consciousness.  
+- **Simulation Layers** → City (environment), Conductor (patterns), Human Layer (embodied consciousness).  
 
 ---
 
-## ✨ Closing Note
+## 🔬 Creation Simulations  
 
-This is not just a repository.  
-It is a **score**: a way to read reality as music,  
-and to play together in tune.
-∞ = coherence across scales
+Simulations in this repo allow exploration of:  
+- **City Grid Resonance** → How zones of coherence impact social structure.  
+- **Conductor Pulses** → Seeding loops that model collective attention and memory.  
+- **Human Layer** → Integration of harmonic frequencies with neural and cellular behavior.  
 
-## Browse the Atlas
-- Site (when Pages is enabled): built from `mkdocs.yml`
-- Entry: `docs/index.md`
-- Spiral: Earth ↔ Human ↔ Civic ↔ Cosmos
-- Sims: `docs/sims/index.md` (figures auto-save to `sims/figures/`)
-- Bridge to engine: `docs/bridge.md` → The Atlas Model
+➡️ Example: `sims/creation.py` (work in progress) demonstrates parameterized seeding logic and observer-driven field collapse.  
+
+---
+
+## 🛠 Roadmap  
+
+- [x] City + Conductor schemas.  
+- [x] Add Human Layer addendum.  
+- [ ] Integrate `resonance_lock.json` into `/conductor/pulses/`.  
+- [ ] Expand Human Layer into configs & live simulations.  
+- [ ] Cross-link diagrams and harmonics into blueprint schematics.  
+
+---
+
+## 📡 How to Use  
+
+1. Clone repo & install requirements:  
+   ```bash
+   git clone https://github.com/[your-org]/resonant-reality.git
+   cd resonant-reality
+   pip install -r requirements.txt
+  2.	Explore configs in /city/ and /conductor/.
+	3.	Run pulse simulations (work in progress in /sims/).
+	4.	Study Human Layer addendum in /docs/.
+
+⸻
+
+🔑 Guiding Principle
+
+Reality is resonance.
+By modeling resonance through environments, pulses, and human consciousness, we create living simulations where choice becomes structure, and structure reflects the field. 
