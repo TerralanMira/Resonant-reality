@@ -1,0 +1,9 @@
+{
+  "profile": "collective",
+  "baseline_frequency_hz": 7.83,
+  "harmonic_frequencies_hz": [528, 639, 741],
+  "amplitude_range": [0.2, 0.8],
+  "coherence_window": 0.75,
+  "entropy_threshold": 0.14,
+  "notes": "Designed for multi-human input → city grid coherence."
+}
