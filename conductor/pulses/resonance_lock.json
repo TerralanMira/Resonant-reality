@@ -1,72 +1,50 @@
 {
-  "file": "/conductor/pulses/resonance_lock.json",
-  "description": "Defines calibration, safeguards, and lock conditions for resonance pulses.",
-  "version": "1.0.0",
-  "resonance_lock": {
-    "integrity": {
-      "consent_gate": true,
-      "humility_factor": 0.85,
-      "non_coercion": true,
-      "notes": "All resonance flows require explicit consent, humility weighting, and non-coercion safeguard."
-    },
-    "calibration": {
-      "baseline_frequency_hz": 7.83,
-      "harmonic_frequencies_hz": [432, 528, 639, 741, 852, 963],
-      "amplitude_range": [0.1, 1.0],
-      "tuning": {
-        "step_precision": 0.01,
-        "adjustment_window_ms": 250,
-        "feedback_loop": "closed"
-      }
-    },
-    "stability": {
-      "entropy_threshold": 0.15,
-      "coherence_window": 0.72,
-      "grace_factor": 0.2,
-      "echo_feedback": {
-        "β": 0.5,
-        "integration": "pulse_decay",
-        "max_cycles": 12
-      }
-    },
-    "safeguards": {
-      "stamina_minimum": 0.5,
-      "ignition_cap": 0.95,
-      "temperature_bounds": [0.2, 0.9],
-      "sigma_cap": {
-        "early_phase": 0.4,
-        "late_phase": 0.9
-      }
-    },
-    "locks": {
-      "harmonic_lock": {
-        "enabled": true,
-        "conditions": [
-          "frequency alignment within 0.05Hz",
-          "consent gate active",
-          "entropy < threshold"
-        ],
-        "effect": "Pulse self-stabilizes, resisting distortion or override."
-      },
-      "temporal_lock": {
-        "enabled": true,
-        "time_kernel": "bi-directional",
-        "conditions": [
-          "retrocausal interference < 0.2",
-          "observer alignment confirmed"
-        ],
-        "effect": "Maintains resonance across time layers."
-      }
-    },
-    "logging": {
-      "verbosity": "detailed",
-      "store_to": "/logs/resonance_lock.log",
-      "capture_state_every": 500
-    }
-    This file provides:
-	•	Calibration → baseline & harmonics tuned against Schumann resonance (7.83 Hz).
-	•	Safeguards → stamina, ignition, temperature, entropy thresholds.
-	•	Locks → harmonic lock (for distortion resistance) + temporal lock (for retrocausal coherence).
-	•	Logging → structured tracking for each cycle.
+  "meta": {
+    "name": "Resonance Lock",
+    "version": "1.0.0",
+    "description": "Calibration file ensuring resonance states remain bounded by ethical, sovereign, and coherent parameters."
+  },
+
+  "gates": {
+    "E": true,                      
+    "consent": true,                
+    "sovereignty": true,            
+    "humility": true,               
+    "non_coercion": true,           
+    "Pi_u": 0.72,                   
+    "GL_min": 0.33                  
+  },
+
+  "limits": {
+    "sigma_cap_early": 0.25,        
+    "sigma_cap_peak": 0.85,         
+    "ignition_cap": 1.0,            
+    "temperature_bounds": [0.1, 1.0]
+  },
+
+  "basis_priors": {
+    "surface": 0.4,                 
+    "bridge": 0.35,                 
+    "depth": 0.25                   
+  },
+
+  "pacing": {
+    "Tr_base_ms": 500,              
+    "Tr_resonant_ms": 432,          
+    "Tr_harmonic_ms": 528           
+  },
+
+  "operators": {
+    "Ψ": "stamina (flow strength)", 
+    "ΦI": "ignition (collapse ignition)",
+    "β": "echo (feedback stability)",
+    "σ": "spark (emergence potential)",
+    "κ": "temperature (field pressure)"
+  },
+
+  "safety": {
+    "audit": "all states checked against ethical gates",
+    "lock": "resonance collapse bounded within harmony",
+    "fail_safe": "default to consent-first seeding if instability detected"
   }
 }
