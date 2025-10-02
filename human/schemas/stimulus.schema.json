@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stimulus",
+  "type": "object",
+  "properties": {
+    "carriers_hz": {"type": "array", "items": {"type": "number"}},
+    "schumann_hz": {"type": "number"},
+    "am_depth": {"type": "number", "minimum": 0, "maximum": 1},
+    "noise_pct": {"type": "number", "minimum": 0, "maximum": 0.2}
+  },
+  "required": ["carriers_hz","schumann_hz","am_depth","noise_pct"]
+}
