@@ -74,7 +74,16 @@ The `resonance_lock.json` sets calibration gates:
 - `κ` = temperature (field pressure).  
 
 Together, they ensure **resonance safety** by bounding states within ethical gates (consent, sovereignty, coherence).
+### Using the Resonance Lock
 
+All engines check:
+- `/ethics/consent_policy.json` (consent, sovereignty, non-coercion)
+- `/conductor/pulses/resonance_lock.json` (calibration, thresholds)
+
+**Fail-safe:** if coherence breaks or consent is absent, runs are refused or downgraded to consent-first seeding. Presets:  
+- `resonance_lock.v1.restorative.json`  
+- `resonance_lock.v1.plaza.json`  
+- `resonance_lock.v1.learning_edge.json
 ---
 
 ## 📂 Simulations
