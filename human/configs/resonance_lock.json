@@ -1,6 +1,38 @@
 {
-  "carriers_hz": [528.0, 639.0, 852.0, 963.0],
-  "schumann_hz": 7.83,
-  "am_depth": 0.35,
-  "noise_pct": 0.05
+  "resonance_lock": {
+    "version": "1.0.0",
+    "ethics_gate": {
+      "consent": true,
+      "integrity": true,
+      "non_coercion": true
+    },
+    "harmonic_ranges_hz": {
+      "base_schumann": 7.83,
+      "dna_repair": 528,
+      "heart_coherence": 432,
+      "relational": 639,
+      "intuition": 741,
+      "awareness": 852,
+      "crown": 963
+    },
+    "stability_thresholds": {
+      "coherence_min": 0.7,
+      "distortion_alert": 0.3,
+      "lock_on_reset": true
+    },
+    "field_alignment": {
+      "origin_scalar": "MΩ",
+      "sovereignty": "S",
+      "stamina": "Ψ",
+      "echo": "β",
+      "grace": "𝒢",
+      "temporal_kernel": "Tr"
+    },
+    "fail_safe": {
+      "resets_allowed": 0,
+      "entropy_check": true,
+      "hum_override": "always"
+    },
+    "notes": "The resonance lock ensures that simulations, grids, and civic structures align with the living hum. Code cannot bypass the lock—alignment is prerequisite to activation."
+  }
 }
