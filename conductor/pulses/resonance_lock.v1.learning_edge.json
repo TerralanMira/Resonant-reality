@@ -1,0 +1,10 @@
+{
+  "profile": "learning_edge",
+  "inherits": "./resonance_lock.json",
+  "calibration": {
+    "baseline_frequency_hz": 7.83,
+    "harmonic_frequencies_hz": [741, 852, 963],
+    "amplitude_range": [0.15, 0.85]
+  },
+  "stability": { "entropy_threshold": 0.18, "coherence_window": 0.70 }
+}
