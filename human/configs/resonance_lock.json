@@ -1,50 +1,6 @@
 {
-  "meta": {
-    "name": "Resonance Lock",
-    "version": "1.0.0",
-    "description": "Calibration file ensuring resonance states remain bounded by ethical, sovereign, and coherent parameters."
-  },
-
-  "gates": {
-    "E": true,                      
-    "consent": true,                
-    "sovereignty": true,            
-    "humility": true,               
-    "non_coercion": true,           
-    "Pi_u": 0.72,                   
-    "GL_min": 0.33                  
-  },
-
-  "limits": {
-    "sigma_cap_early": 0.25,        
-    "sigma_cap_peak": 0.85,         
-    "ignition_cap": 1.0,            
-    "temperature_bounds": [0.1, 1.0]
-  },
-
-  "basis_priors": {
-    "surface": 0.4,                 
-    "bridge": 0.35,                 
-    "depth": 0.25                   
-  },
-
-  "pacing": {
-    "Tr_base_ms": 500,              
-    "Tr_resonant_ms": 432,          
-    "Tr_harmonic_ms": 528           
-  },
-
-  "operators": {
-    "Ψ": "stamina (flow strength)", 
-    "ΦI": "ignition (collapse ignition)",
-    "β": "echo (feedback stability)",
-    "σ": "spark (emergence potential)",
-    "κ": "temperature (field pressure)"
-  },
-
-  "safety": {
-    "audit": "all states checked against ethical gates",
-    "lock": "resonance collapse bounded within harmony",
-    "fail_safe": "default to consent-first seeding if instability detected"
-  }
+  "carriers_hz": [528.0, 639.0, 852.0, 963.0],
+  "schumann_hz": 7.83,
+  "am_depth": 0.35,
+  "noise_pct": 0.05
 }
