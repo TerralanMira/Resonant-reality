@@ -63,5 +63,10 @@
       "store_to": "/logs/resonance_lock.log",
       "capture_state_every": 500
     }
+    This file provides:
+	•	Calibration → baseline & harmonics tuned against Schumann resonance (7.83 Hz).
+	•	Safeguards → stamina, ignition, temperature, entropy thresholds.
+	•	Locks → harmonic lock (for distortion resistance) + temporal lock (for retrocausal coherence).
+	•	Logging → structured tracking for each cycle.
   }
 }
