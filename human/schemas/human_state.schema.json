@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HumanState",
+  "type": "object",
+  "properties": {
+    "kappa": {"type": "number", "minimum": 0, "maximum": 1},
+    "gamma": {"type": "number", "minimum": 0, "maximum": 1},
+    "chi":   {"type": "number", "minimum": 0, "maximum": 1},
+    "lambda_load": {"type": "number", "minimum": 0},
+    "hrv_lf_hf": {"type": "number", "minimum": 0},
+    "eeg": {
+      "type": "object",
+      "properties": {
+        "delta": {"type": "number"}, "theta": {"type": "number"},
+        "alpha": {"type": "number"}, "beta": {"type": "number"},
+        "gamma": {"type": "number"}
+      },
+      "required": ["alpha","gamma"]
+    }
+  },
+  "required": ["kappa","gamma","chi","lambda_load","hrv_lf_hf","eeg"]
+}
