@@ -1,0 +1,6 @@
+{
+  "carriers_hz": [528.0, 639.0, 852.0, 963.0],
+  "schumann_hz": 7.83,
+  "am_depth": 0.35,
+  "noise_pct": 0.05
+}
