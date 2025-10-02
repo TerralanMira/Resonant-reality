@@ -1,0 +1,10 @@
+{
+  "profile": "plaza",
+  "inherits": "./resonance_lock.json",
+  "calibration": {
+    "baseline_frequency_hz": 7.83,
+    "harmonic_frequencies_hz": [528, 639, 741],
+    "amplitude_range": [0.2, 0.9]
+  },
+  "stability": { "entropy_threshold": 0.15, "coherence_window": 0.72 }
+}
