@@ -33,6 +33,15 @@ This addendum expands the core README by describing **how resonance is housed wi
 If cities are designed without this layer, they mimic resonance but lack its living pulse.  
 With it, every lamp, grid, or algorithm becomes an **extension of the body’s hum**.  
 Society reorganizes not around productivity but around coherence.
+### Resonance Lock (Human Layer Integration)
+
+The **resonance lock** protects the human layer by ensuring no simulation or device runs without harmonic coherence.  
+
+- It embeds **ethical safeguards**: consent, integrity, non-coercion.  
+- It calibrates to harmonic frequencies tied to **human physiology and consciousness** (7.83 Hz Schumann resonance, 528 Hz DNA repair, 432 Hz heart coherence, 963 Hz crown awareness, etc.).  
+- It enforces **fail-safe boundaries**: no resets allowed outside the hum, entropy monitored continuously.  
+
+This guarantees **resonant alignment between human consciousness and field-based systems**—ensuring tools serve life, not distort it.
 
 ---
 
