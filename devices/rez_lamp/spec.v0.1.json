@@ -1,0 +1,13 @@
+{
+  "device": "Rez Lamp",
+  "version": "0.1",
+  "bands_hz": [7.83, 432, 528, 639, 741, 852, 963],
+  "duty_cycle_pct": { "default": 35, "max": 60 },
+  "emission_modes": ["audio", "light_pwm", "magnetic_lowfield"],
+  "safety_caps": { "spl_db_max": 70, "illuminance_lux_max": 200, "gauss_max": 3.0 },
+  "guard": {
+    "requires_resonance_lock": true,
+    "requires_consent_policy": true
+  },
+  "notes": "Blueprint-level spec; hardware realizations MUST honor safety caps and locks."
+}
