@@ -1,0 +1,15 @@
+{
+  "profile": "calibration_high_harmonic",
+  "inherits": "../resonance_lock.json",
+  "calibration": {
+    "baseline_frequency_hz": 7.83,
+    "harmonic_frequencies_hz": [741, 852, 963],
+    "amplitude_range": [0.20, 0.85]
+  },
+  "stability": {
+    "entropy_threshold": 0.18,
+    "coherence_window": 0.70,
+    "grace_factor": 0.16
+  },
+  "notes": "Exploratory; emphasizes higher harmonics (learning edge)."
+}
