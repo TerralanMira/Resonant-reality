@@ -1,0 +1,39 @@
+name: sim-ci
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+
+jobs:
+  bench:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run collective baseline (smoke)
+        run: |
+          python -m sims.collective_demo --scenario coherent --steps 60 --export json --outdir out/ci
+
+      - name: Bench (three locks x scenarios)
+        run: |
+          python scripts/bench_collective.py --steps 120 --outdir out/bench --seed 7
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: bench-results
+          path: |
+            out/bench/bench_results.csv
+            out/bench/bench_results.json
