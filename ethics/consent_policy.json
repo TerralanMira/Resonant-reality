@@ -9,5 +9,5 @@
     "data_local_default": true,
     "raw_bio_streams_published": false
   },
-  "notes": "All simulations and devices MUST check this policy at runtime. If explicit_consent is false, run is refused or downgraded to consent-first seeding mode."
+  "notes": "All runs must respect consent and sovereignty. If consent is false or unknown, engines must refuse or downgrade to consent-first seeding."
 }
