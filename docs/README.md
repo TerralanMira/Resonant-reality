@@ -6,3 +6,8 @@ City Coupling & Gravity Partner
   See: docs/city_coupling.md
 	•	Gravity as Partner (concept) — compare effective force under varying κ and carrier:
   python -m sims.gravity_partner
+  ## Collective — Multi-Zone Demo
+Run a temporal multi-zone simulation with logging:
+```bash
+python -m sims.collective_demo --scenario coherent --steps 240 --export json,csv --outdir out/collective
+See: docs/collective.md
