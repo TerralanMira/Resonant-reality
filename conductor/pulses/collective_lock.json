@@ -1,9 +1,25 @@
 {
   "profile": "collective",
-  "baseline_frequency_hz": 7.83,
-  "harmonic_frequencies_hz": [528, 639, 741],
-  "amplitude_range": [0.2, 0.8],
-  "coherence_window": 0.75,
-  "entropy_threshold": 0.14,
-  "notes": "Designed for multi-human input → city grid coherence."
+  "version": "1.0.0",
+  "inherits": "./resonance_lock.json",
+  "calibration": {
+    "baseline_frequency_hz": 7.83,
+    "harmonic_frequencies_hz": [528, 639, 741],
+    "amplitude_range": [0.20, 0.80],
+    "tuning": {
+      "step_precision": 0.01,
+      "adjustment_window_ms": 250,
+      "feedback_loop": "closed"
+    }
+  },
+  "stability": {
+    "entropy_threshold": 0.14,
+    "coherence_window": 0.75,
+    "grace_factor": 0.20
+  },
+  "guards": {
+    "requires_resonance_lock": true,
+    "requires_consent_policy": true
+  },
+  "notes": "Designed for multi-human input shaping a shared zone (e.g., plaza)."
 }
