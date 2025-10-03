@@ -1,0 +1,15 @@
+{
+  "profile": "calibration_low_noise",
+  "inherits": "../resonance_lock.json",
+  "calibration": {
+    "baseline_frequency_hz": 7.83,
+    "harmonic_frequencies_hz": [432, 528],
+    "amplitude_range": [0.12, 0.55]
+  },
+  "stability": {
+    "entropy_threshold": 0.10,
+    "coherence_window": 0.78,
+    "grace_factor": 0.30
+  },
+  "notes": "Conservative; favors stability and low jitter."
+}
