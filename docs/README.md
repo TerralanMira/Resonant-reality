@@ -15,3 +15,10 @@ See: docs/collective.md
 python -m sims.collective_demo --scenario coherent --steps 240 --export json,csv --outdir out/collective
 •	Post a small JSON for a custom cohort and compare:
 python -m sims.collective_demo --scenario custom --custom_path human/configs/resonance_lock.json --export json,csv
+**Proof & Plots (collective)**
+```bash
+# 1) simulate
+python -m sims.collective_demo --scenario coherent --steps 240 --export json,csv --outdir out/collective
+# 2) plot
+python -m sims.plot_collective --csv out/collective/collective_series.csv --outdir out/collective/plots
+See: docs/results.md
