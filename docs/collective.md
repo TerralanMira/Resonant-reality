@@ -12,7 +12,3 @@ python -m sims.collective_demo --scenario coherent --steps 240 --export json,csv
 Output
 	•	out/collective/collective_series.csv — per-step zone metrics
 	•	out/collective/collective_results.json — time-series + summaries
-
-Why this matters
-	•	Elevates city coupling from a single aggregation to a temporal pattern you can compare across scenarios.
-	•	Clean interface for Grok/XAI: run, plot, and report without debate—data first, philosophy later.
