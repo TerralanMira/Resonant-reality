@@ -1,0 +1,15 @@
+{
+  "profile": "calibration_medium",
+  "inherits": "../resonance_lock.json",
+  "calibration": {
+    "baseline_frequency_hz": 7.83,
+    "harmonic_frequencies_hz": [528, 639, 741],
+    "amplitude_range": [0.18, 0.78]
+  },
+  "stability": {
+    "entropy_threshold": 0.14,
+    "coherence_window": 0.75,
+    "grace_factor": 0.22
+  },
+  "notes": "Balanced; suitable default for public demonstrations."
+}
