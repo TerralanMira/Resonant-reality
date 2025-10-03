@@ -22,3 +22,21 @@ python -m sims.collective_demo --scenario coherent --steps 240 --export json,csv
 # 2) plot
 python -m sims.plot_collective --csv out/collective/collective_series.csv --outdir out/collective/plots
 See: docs/results.md
+## Calibration — Bench & Compare
+Run a multi-lock bench and compare means/min/max across scenarios:
+```bash
+python scripts/bench_collective.py --steps 240 --outdir out/bench --seed 42
+Artifacts:
+	•	out/bench/bench_results.csv
+	•	out/bench/bench_results.json
+
+See: docs/calibration.md
+---
+
+### `Makefile` (append targets)
+```make
+bench:
+	python scripts/bench_collective.py --steps 240 --outdir out/bench --seed 42
+
+ci-smoke:
+	python -m sims.collective_demo --scenario coherent --steps 60 --export json --outdir out/ci
