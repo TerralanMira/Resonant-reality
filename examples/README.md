@@ -1,9 +1,13 @@
-# Examples
+# Examples — One-liners
 
-## Creation Field
+## Human Layer (baseline)
 ```bash
-python -m sims.creation
-Human Layer — Restorative Lock
-python -m sims.human_layer_sim --config human/configs/resonance_lock.json --steps 240 --dt 0.5
-Gravity Partner (concept)
-python -m sims.gravity_resonance_sim --steps 300
+python -m sims.human_layer_sim --config human/configs/baseline_rest.json
+Human Layer (lock-tuned)
+python -m sims.human_layer_sim --config human/configs/resonance_lock.json
+Human Layer (edge reset)
+python -m sims.human_layer_sim --config human/configs/edge_reset.json
+City Coupling
+python -m sims.city_coupling_demo
+Gravity as Partner (concept)
+python -m sims.gravity_partner
