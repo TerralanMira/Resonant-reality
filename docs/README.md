@@ -11,3 +11,7 @@ Run a temporal multi-zone simulation with logging:
 ```bash
 python -m sims.collective_demo --scenario coherent --steps 240 --export json,csv --outdir out/collective
 See: docs/collective.md
+# Collective run you can try now
+python -m sims.collective_demo --scenario coherent --steps 240 --export json,csv --outdir out/collective
+•	Post a small JSON for a custom cohort and compare:
+python -m sims.collective_demo --scenario custom --custom_path human/configs/resonance_lock.json --export json,csv
